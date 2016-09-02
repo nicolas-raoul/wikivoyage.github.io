@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created from 20160820 Wikivoyage data--><gpx xmlns="http://www.topografix.com/GPX/1/1" creator="wikivoyage-pois-converter" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<!--Created from 20160901 Wikivoyage data--><gpx xmlns="http://www.topografix.com/GPX/1/1" creator="wikivoyage-pois-converter" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
     <wpt lat="50.77503" lon="6.08280">
         <name>Dom (Aachen, listing)</name>
     </wpt>
@@ -56,6 +56,9 @@
     </wpt>
     <wpt lat="47.388799" lon="8.039952">
         <name>Gasthof Schützen (Aarau, eat)</name>
+    </wpt>
+    <wpt lat="47.391080" lon="8.044258">
+        <name>Café Ccino (Aarau, eat)</name>
     </wpt>
     <wpt lat="31.323333" lon="30.061667">
         <name>Zephyrion (Abū Qīr, eat)</name>
@@ -2985,6 +2988,9 @@
     <wpt lat="49.94555" lon="11.56717">
         <name>Liebesbier (Bayreuth, listing)</name>
     </wpt>
+    <wpt lat="49.94018" lon="11.57530">
+        <name>Manns-Bräu (Bayreuth, listing)</name>
+    </wpt>
     <wpt lat="49.94354" lon="11.56896">
         <name>WunderBar (Bayreuth, listing)</name>
     </wpt>
@@ -3113,6 +3119,9 @@
     </wpt>
     <wpt lat="54.58924" lon="-5.93536">
         <name>Belfast International Youth Hostel (Belfast, listing)</name>
+    </wpt>
+    <wpt lat="44.81907" lon="20.45280">
+        <name>Trip &amp; Sleep Hostel (Belgrad, listing)</name>
     </wpt>
     <wpt lat="46.19072" lon="9.02272">
         <name>Ristorante Corona (Bellinzona, eat)</name>
@@ -4179,9 +4188,6 @@
     <wpt lat="52.263517" lon="10.547816">
         <name>Studio Ost (Braunschweig, eat)</name>
     </wpt>
-    <wpt lat="52.274872" lon="10.521187">
-        <name>Schnitzelhaus am Wendenring (Braunschweig, eat)</name>
-    </wpt>
     <wpt lat="52.267832" lon="10.528733">
         <name>Gandhi (Braunschweig, eat)</name>
     </wpt>
@@ -5215,13 +5221,13 @@
         <name>Palatul Bragadiru (Bukarest, listing)</name>
     </wpt>
     <wpt lat="44.43563" lon="26.10157">
-        <name>Palatul Universitatii (Bukarest, listing)</name>
+        <name>Palatul Universității (Bukarest, listing)</name>
     </wpt>
     <wpt lat="44.43342" lon="26.10063">
         <name>Palatul Bursei (Bukarest, listing)</name>
     </wpt>
     <wpt lat="44.42403" lon="26.09796">
-        <name>Palatul Camerei Deputaţilor (Bukarest, listing)</name>
+        <name>Palatul Camerei Deputaților (Bukarest, listing)</name>
     </wpt>
     <wpt lat="44.43014" lon="26.10132">
         <name>Curtea Veche (Bukarest, listing)</name>
@@ -5332,31 +5338,31 @@
         <name>Pasajul Majestic (Bukarest, listing)</name>
     </wpt>
     <wpt lat="44.42801" lon="26.10244">
-        <name>Piata Unirii (Bukarest, listing)</name>
+        <name>Piața Unirii (Bukarest, listing)</name>
     </wpt>
     <wpt lat="44.45213" lon="26.08529">
-        <name>Piata Victoriei (Bukarest, listing)</name>
+        <name>Piața Victoriei (Bukarest, listing)</name>
     </wpt>
     <wpt lat="44.43615" lon="26.10238">
-        <name>Piata Universitatii (Bukarest, listing)</name>
+        <name>Piața Universității (Bukarest, listing)</name>
     </wpt>
     <wpt lat="44.42996" lon="26.10274">
         <name>Piața Sfântul Anton (Bukarest, listing)</name>
     </wpt>
     <wpt lat="44.43508" lon="26.09797">
-        <name>Piata Drapelului (Bukarest, listing)</name>
+        <name>Piața Drapelului (Bukarest, listing)</name>
     </wpt>
     <wpt lat="44.43853" lon="26.09752">
         <name>Piața Revoluției (Bukarest, listing)</name>
     </wpt>
     <wpt lat="44.42975" lon="26.09577">
-        <name>Piata Natiunile Unite (Bukarest, listing)</name>
+        <name>Piața Națiunilor Unite (Bukarest, listing)</name>
     </wpt>
     <wpt lat="44.42727" lon="26.09199">
-        <name>Piata Constitutiei (Bukarest, listing)</name>
+        <name>Piața Constituției (Bukarest, listing)</name>
     </wpt>
     <wpt lat="44.44698" lon="26.09672">
-        <name>Piata Romana (Bukarest, listing)</name>
+        <name>Piața Romană (Bukarest, listing)</name>
     </wpt>
     <wpt lat="44.43176" lon="26.10328">
         <name>Piața Roma (Bukarest, listing)</name>
@@ -5371,7 +5377,7 @@
         <name>Parcul Carol (Bukarest, listing)</name>
     </wpt>
     <wpt lat="44.4378" lon="26.0639">
-        <name>Gradina Botanica (Bukarest, listing)</name>
+        <name>Grădina botanică (Bukarest, listing)</name>
     </wpt>
     <wpt lat="44.4079" lon="26.1048">
         <name>Parcul Tineretului (Bukarest, listing)</name>
@@ -5557,7 +5563,7 @@
         <name>Universitatea Nationala de Arte București (Bukarest, listing)</name>
     </wpt>
     <wpt lat="44.4396" lon="26.0904">
-        <name>Universitatea Naţională de Muzică Bucureşti (Bukarest, listing)</name>
+        <name>Universitatea Națională de Muzică București (Bukarest, listing)</name>
     </wpt>
     <wpt lat="44.4385" lon="26.0515">
         <name>Universitatea Politehnica din București (Bukarest, listing)</name>
@@ -7281,6 +7287,9 @@
     <wpt lat="49.86004" lon="8.67615">
         <name>Kletterwald Darmstadt (Darmstadt, do)</name>
     </wpt>
+    <wpt lat="49.87210" lon="8.65166">
+        <name>Darmstadt-Marketing / Tourist-Information (Darmstadt, listing)</name>
+    </wpt>
     <wpt lat="30.6894" lon="-88.2427">
         <name>Mobile Regional Airport (Dauphin Island, listing)</name>
     </wpt>
@@ -7880,27 +7889,6 @@
     </wpt>
     <wpt lat="51.67823" lon="7.10298">
         <name>Chemiepark Marl (Dorsten, listing)</name>
-    </wpt>
-    <wpt lat="51.67174" lon="6.98115">
-        <name>Aldi (Dorsten, listing)</name>
-    </wpt>
-    <wpt lat="51.68354" lon="6.95484">
-        <name>Aldi (Dorsten, listing)</name>
-    </wpt>
-    <wpt lat="51.68123" lon="6.95325">
-        <name>Edeka Honsel (Dorsten, listing)</name>
-    </wpt>
-    <wpt lat="51.66888" lon="6.96554">
-        <name>Lidl (Dorsten, listing)</name>
-    </wpt>
-    <wpt lat="51.65736" lon="7.00975">
-        <name>Lidl (Dorsten, listing)</name>
-    </wpt>
-    <wpt lat="51.67300" lon="7.00637">
-        <name>Rewe Conrad (Dorsten, listing)</name>
-    </wpt>
-    <wpt lat="51.66044" lon="6.96816">
-        <name>toom (Dorsten, listing)</name>
     </wpt>
     <wpt lat="51.66922" lon="6.97975">
         <name>Mühle Mense (Dorsten, listing)</name>
@@ -9063,9 +9051,6 @@
     <wpt lat="51.15715" lon="14.98925">
         <name>Pension Zaremba (Görlitz, listing)</name>
     </wpt>
-    <wpt lat="51.15763" lon="14.99115">
-        <name>Rasputin (Görlitz, listing)</name>
-    </wpt>
     <wpt lat="51.15594" lon="14.99351">
         <name>Goldene Feder (Görlitz, listing)</name>
     </wpt>
@@ -9806,6 +9791,9 @@
     </wpt>
     <wpt lat="47.07574" lon="15.43046">
         <name>Hotel Mercure Graz City (Graz, sleep)</name>
+    </wpt>
+    <wpt lat="47.06999" lon="15.43966">
+        <name>Informationsbüro Graz Tourismus (Graz, listing)</name>
     </wpt>
     <wpt lat="54.095417" lon="13.377542">
         <name>Dom St. Nikolai (Greifswald, listing)</name>
@@ -12009,6 +11997,18 @@
     <wpt lat="49.01322" lon="8.39928">
         <name>Botanischer Garten (Karlsruhe, listing)</name>
     </wpt>
+    <wpt lat="49.00298" lon="8.35584">
+        <name>Brauerei Moninger (Karlsruhe, listing)</name>
+    </wpt>
+    <wpt lat="49.00167" lon="8.4079">
+        <name>Wolfsbräu (Karlsruhe, listing)</name>
+    </wpt>
+    <wpt lat="48.99843" lon="8.46601">
+        <name>Vogel Hausbräu Durlach (Karlsruhe, listing)</name>
+    </wpt>
+    <wpt lat="49.01258" lon="8.42730">
+        <name>Hoepfner Burghof (Karlsruhe, listing)</name>
+    </wpt>
     <wpt lat="25.729289" lon="32.659108">
         <name>Gerda’s Garden Luxor (Karnak, eat)</name>
     </wpt>
@@ -12243,6 +12243,9 @@
     <wpt lat="54.34079" lon="10.15455">
         <name>Botanischer Garten (Kiel, listing)</name>
     </wpt>
+    <wpt lat="54.34729" lon="10.14100">
+        <name>Restaurant u. Park-Café Forstbaumschule (Kiel, eat)</name>
+    </wpt>
     <wpt lat="54.32887" lon="10.10225">
         <name>bekpek (Kiel, listing)</name>
     </wpt>
@@ -12386,6 +12389,9 @@
     </wpt>
     <wpt lat="50.05723" lon="19.93001">
         <name>Hostel «Kadetus» (Krakau, listing)</name>
+    </wpt>
+    <wpt lat="50.05069" lon="19.94070">
+        <name>4UHostel (Krakau, listing)</name>
     </wpt>
     <wpt lat="50.05502" lon="19.94785">
         <name>Hotel «Metropolitan» (Krakau, listing)</name>
@@ -13691,6 +13697,231 @@
     </wpt>
     <wpt lat="25.694838" lon="32.635043">
         <name>HSBC (Luxor, buy)</name>
+    </wpt>
+    <wpt lat="45.76231" lon="4.82253">
+        <name>Basilique de Fourvière (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.76035" lon="4.82059">
+        <name>Site archéologique de Fourvière et musée gallo-romain (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.76068" lon="4.82744">
+        <name>Cathédrale Saint-Jean (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.76393" lon="4.82758">
+        <name>Musée Gadagne (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.76447" lon="4.8279">
+        <name>Loge du Change (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.76212" lon="4.82747">
+        <name>Rue Saint-Jean (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.76665" lon="4.82708">
+        <name>Èglise Saint-Paul (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.767778" lon="4.835">
+        <name>Hôtel de Ville (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.766846" lon="4.83363">
+        <name>Palais saint Pierre - Musée des Beaux-Arts (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.76778" lon="4.83640">
+        <name>Opéra National de Lyon (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.765492" lon="4.837306">
+        <name>Chapelle de la Trinité (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.76474" lon="4.83351">
+        <name>Église Saint-Nizier (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.75766" lon="4.83210">
+        <name>Place Bellecour (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7666885" lon="4.8295051">
+        <name>Palais de la Bourse (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.759942" lon="4.831367">
+        <name>Théâtre des Célestins (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.75372" lon="4.82724">
+        <name>Basilique Saint-Martin d'Ainay (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.732645" lon="4.817966">
+        <name>Musée des Confluences (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7531955" lon="4.8294477">
+        <name>Musées des Tissus et des Arts décoratifs (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7703329" lon="4.8276118">
+        <name>Amphithéâtre romain des Trois Gaules (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7745755" lon="4.8325979">
+        <name>Le gros caillou (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7806" lon="4.85400">
+        <name>Parc de la Tête d'Or (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7843785" lon="4.8498991">
+        <name>Musée d'Art contemporain (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7483121" lon="4.8333656">
+        <name>Les nouvelles berges du Rhône (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7321092" lon="4.87186">
+        <name>Centre d'histoire de la résistance et de la déportation (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7366331" lon="4.8535055">
+        <name>Le nouveau cimetière de la Guillotière (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.723482" lon="4.8262432">
+        <name>Parc de Gerland (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.72375" lon="4.8325">
+        <name>Stade de Gerland (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.745211" lon="4.870408">
+        <name>Institut Lumière (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.73346" lon="4.8628">
+        <name>Le Musée urbain Tony Garnier (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.77707" lon="4.83365">
+        <name>Maison des canuts (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7679502" lon="4.8321613">
+        <name>Atelier de soierie (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7615" lon="4.8558">
+        <name>Centre commercial de la Part-Dieu (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.741" lon="4.81774">
+        <name>Centre commercial de Confluence (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7642" lon="4.9214">
+        <name>Carré de Soie (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7615667" lon="4.8552813">
+        <name>Carrefour Part-Dieu (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7615667" lon="4.8552813">
+        <name>Monoprix Part-Dieu (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7421468" lon="4.8773383">
+        <name>La Vie Claire (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7740823" lon="4.8678443">
+        <name>Biocoop (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7690704" lon="4.8477801">
+        <name>L'Eau Vive (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.8063284" lon="4.8664371">
+        <name>Satoriz (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7564418" lon="4.8408905">
+        <name>De l'Autre Côté de la Rue (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7477547" lon="4.8398549">
+        <name>Trois Petits Pois (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7666867" lon="4.8326392">
+        <name>L'Arrosoir (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7658658" lon="4.8292309">
+        <name>L'Escalier (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7675902" lon="4.8295282">
+        <name>Chouette un tonneau (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7620356" lon="4.8305354">
+        <name>L'Épicerie (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7277419" lon="4.8548969">
+        <name>Mister Patate (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7793674" lon="4.8321691">
+        <name>Le Provençal (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7714113" lon="4.8331379">
+        <name>Toutes les Couleurs (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7701131" lon="4.830312">
+        <name>Café Lecture (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7717016" lon="4.8334664">
+        <name>Maison Villemanzy (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7645473" lon="4.8324872">
+        <name>Les Muses de l'Opéra (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7682818" lon="4.8265707">
+        <name>La Cantine des Sales Gosses (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7669122" lon="4.834401">
+        <name>Le bistrot Pizay (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7701625" lon="4.8322298">
+        <name>Les Demoiselles de Rochefort (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7651759" lon="4.8333259">
+        <name>Brasserie Le Nord (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.762183" lon="4.8297995">
+        <name>Commanderie des Antonins (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7620826" lon="4.830498">
+        <name>Le bistrot de Lyon (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7623809" lon="4.8304647">
+        <name>Le Bouchon Colette (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7625862" lon="4.8301905">
+        <name>Le Mercière (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7568577" lon="4.8323213">
+        <name>Le comptoir des marronniers (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7565507" lon="4.8324633">
+        <name>Chabert et fils (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7483921" lon="4.8261178">
+        <name>Brasserie Georges (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7601522" lon="4.8466736">
+        <name>Le bistrot du palais (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7528158" lon="4.8928868">
+        <name>Le Ferrari (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7748887" lon="4.8258753">
+        <name>L'Assiette du vin (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7645197" lon="4.8253784">
+        <name>Notre maison (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7618657" lon="4.8240245">
+        <name>Les Lyonnais (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7628967" lon="4.8248183">
+        <name>Le Tire bouchon (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7626777" lon="4.8248129">
+        <name>Le Comptoir du bœuf (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.760142" lon="4.8109598">
+        <name>Campagne (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7634777" lon="4.8255283">
+        <name>Bistrot de Saint-Jean (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7625347" lon="4.8255673">
+        <name>L'Amphitryon (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7660434" lon="4.8313058">
+        <name>Léon de Lyon (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.8152527" lon="4.8468973">
+        <name>Auberge du Pont de Collonges (Lyon, listing)</name>
     </wpt>
     <wpt lat="40.42790" lon="-3.68923">
         <name>Café «Embassy» (Madrid, listing)</name>
@@ -15174,6 +15405,9 @@
     <wpt lat="51.96189" lon="7.62415">
         <name>LWL-Museum für Kunst und Kultur (Münster (Westfalen), see)</name>
     </wpt>
+    <wpt lat="51.95776" lon="7.63131">
+        <name>Museum für Lackkunst (Münster (Westfalen), see)</name>
+    </wpt>
     <wpt lat="51.946389" lon="7.591667">
         <name>Zoo mit Pferdemuseum ''Hippomax'' (Münster (Westfalen), listing)</name>
     </wpt>
@@ -16057,7 +16291,7 @@
         <name>Weisse Düne (Norderney, eat)</name>
     </wpt>
     <wpt lat="53.7098" lon="7.1469">
-        <name>Polizei (Norderney, listing)</name>
+        <name>Polizeistation (Norderney, listing)</name>
     </wpt>
     <wpt lat="53.7159" lon="7.1724">
         <name>Krankenhaus Norderney (Norderney, listing)</name>
@@ -17206,7 +17440,7 @@
         <name>Schloss Sanssouci (Potsdam, listing)</name>
     </wpt>
     <wpt lat="52.35950" lon="13.02365">
-        <name>Ausflugslokal Forsthaus Templin (Potsdam, eat)</name>
+        <name>Braumanufaktur im Ausflugslokal Forsthaus Templin (Potsdam, eat)</name>
     </wpt>
     <wpt lat="52.40541" lon="13.03619">
         <name>Gaststätte zur historischen Mühle Sanssouci (Potsdam, eat)</name>
@@ -18462,6 +18696,9 @@
     <wpt lat="47.69589" lon="8.63706">
         <name>Confiserie Reber (Schaffhausen, listing)</name>
     </wpt>
+    <wpt lat="47.69549" lon="8.63257">
+        <name>Schaffhausen Tourismus (Schaffhausen, listing)</name>
+    </wpt>
     <wpt lat="26.899023" lon="33.962029">
         <name>Sharm El Naga Resort &amp; Diving Center (Scharm en-Nāqa, sleep)</name>
     </wpt>
@@ -18992,6 +19229,9 @@
     </wpt>
     <wpt lat="48.325982" lon="16.6721299">
         <name>Heizhaus (Strasshof an der Nordbahn, see)</name>
+    </wpt>
+    <wpt lat="38.7975" lon="15.2398">
+        <name>Fähranleger (Stromboli, listing)</name>
     </wpt>
     <wpt lat="48.77781" lon="9.17256">
         <name>Hospitalkirche (Stuttgart, listing)</name>
@@ -20922,6 +21162,147 @@
     <wpt lat="48.1859" lon="16.3839">
         <name>21er-Haus (Wien, see)</name>
     </wpt>
+    <wpt lat="48.20451" lon="16.36941">
+        <name>Tourist-Info Wien (Wien, listing)</name>
+    </wpt>
+    <wpt lat="48.22239" lon="16.35616">
+        <name>Seminarkirche zur Hlg. Maria de Mercedes (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.22067" lon="16.36375">
+        <name>Servitenkirche (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.22097" lon="16.35509">
+        <name>Bezirksmuseum Alsergrund (Wien/Alsergrund, see)</name>
+    </wpt>
+    <wpt lat="48.21860" lon="16.36302">
+        <name>Sigmund Freud Museum (Wien/Alsergrund, see)</name>
+    </wpt>
+    <wpt lat="48.22405" lon="16.35044">
+        <name>Confiserie zum Süßen Eck (Wien/Alsergrund, buy)</name>
+    </wpt>
+    <wpt lat="48.21489" lon="16.35605">
+        <name>Wien &amp; Genuss Plus (Wien/Alsergrund, buy)</name>
+    </wpt>
+    <wpt lat="48.22627" lon="16.36074">
+        <name>Billa (Wien/Alsergrund, buy)</name>
+    </wpt>
+    <wpt lat="48.21457" lon="16.35819">
+        <name>Cafe Maximilian (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.22341" lon="16.35170">
+        <name>Cafe Restaurant Weimar (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.21997" lon="16.36145">
+        <name>Schauspielhaus (Wien/Alsergrund, do)</name>
+    </wpt>
+    <wpt lat="48.23232" lon="16.35622">
+        <name>Experiment - Kleine Bühne am Liechtenwerd (Wien/Alsergrund, do)</name>
+    </wpt>
+    <wpt lat="48.22377" lon="16.36141">
+        <name>Kabinetttheater (Wien/Alsergrund, do)</name>
+    </wpt>
+    <wpt lat="48.22617" lon="16.35220">
+        <name>Theater Am Alsergrund (Wien/Alsergrund, do)</name>
+    </wpt>
+    <wpt lat="48.22399" lon="16.36179">
+        <name>Theater-Center Forum (Wien/Alsergrund, do)</name>
+    </wpt>
+    <wpt lat="48.22026" lon="16.36291">
+        <name>Ani-Falstaff (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.21551" lon="16.34509">
+        <name>Pension Ani (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.21707" lon="16.36295">
+        <name>Pension Liechtenstein (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.22523" lon="16.35629">
+        <name>Mondial Appartement Hotel (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.21871" lon="16.35633">
+        <name>MR Appartement Pension (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.21552" lon="16.34625">
+        <name>Hotel-Pension Astra (Wien/Alsergrund, sleep)</name>
+    </wpt>
+    <wpt lat="48.21795" lon="16.35871">
+        <name>Am Schottenpoint (Wien/Alsergrund, sleep)</name>
+    </wpt>
+    <wpt lat="48.22644" lon="16.36017">
+        <name>Austria Hotels International - Hotel Bellevue (Wien/Alsergrund, sleep)</name>
+    </wpt>
+    <wpt lat="48.21826" lon="16.35802">
+        <name>Austria Classic Hotel-Pension Bleckmann (Wien/Alsergrund, sleep)</name>
+    </wpt>
+    <wpt lat="48.22166" lon="16.35659">
+        <name>ARCOTEL Boltzmann (Wien/Alsergrund, sleep)</name>
+    </wpt>
+    <wpt lat="48.22179" lon="16.35786">
+        <name>Hotel &amp; Palais Strudlhof (Wien/Alsergrund, sleep)</name>
+    </wpt>
+    <wpt lat="48.21992" lon="16.35975">
+        <name>Hotel Harmonie Best Western (Wien/Alsergrund, sleep)</name>
+    </wpt>
+    <wpt lat="48.23068" lon="16.35529">
+        <name>Arkadenhof (Wien/Alsergrund, sleep)</name>
+    </wpt>
+    <wpt lat="48.22032" lon="16.35593">
+        <name>Hotel Atlanta (Wien/Alsergrund, sleep)</name>
+    </wpt>
+    <wpt lat="48.21903" lon="16.36311">
+        <name>Apotheke "Zum Biber" (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.22696" lon="16.35628">
+        <name>Apotheke "Zum goldenen Elephanten" (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.21743" lon="16.35926">
+        <name>Apotheke "Zur Austria" (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.21477" lon="16.35675">
+        <name>Apotheke zur Universität (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.23145" lon="16.35410">
+        <name>Auge-Gottes-Apotheke (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.22523" lon="16.36078">
+        <name>Bahnhof-Apotheke (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.22648" lon="16.36412">
+        <name>Hubertus-Apotheke (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.22553" lon="16.35186">
+        <name>Josefinen-Apotheke (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.22349" lon="16.36487">
+        <name>Löwen-Apotheke (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.21658" lon="16.34324">
+        <name>Salvator-Apotheke (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.22245" lon="16.35317">
+        <name>St. Anna-Apotheke (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.21524" lon="16.34988">
+        <name>Tiger-Apotheke (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.22074" lon="16.36061">
+        <name>Vindobona-Apotheke (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.22057" lon="16.34705">
+        <name>AKH Allgemeines Krankenhaus der Stadt Wien (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.21755" lon="16.34703">
+        <name>Goldenes Kreuz Privatklinik (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.22648" lon="16.35173">
+        <name>Krankenanstalt Sanatorium Hera (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.21604" lon="16.34443">
+        <name>St. Anna Kinderspital (Wien/Alsergrund, listing)</name>
+    </wpt>
+    <wpt lat="48.21708" lon="16.34783">
+        <name>Wiener Privatklinik (Wien/Alsergrund, listing)</name>
+    </wpt>
     <wpt lat="48.23427" lon="16.38295">
         <name>Bezirksmuseum Brigittenau (Wien/Brigittenau, see)</name>
     </wpt>
@@ -21060,14 +21441,95 @@
     <wpt lat="48.2369" lon="16.3835">
         <name>Lorenz-Böhler-Unfallkrankenhaus (Wien/Brigittenau, listing)</name>
     </wpt>
+    <wpt lat="48.24496" lon="16.34376">
+        <name>Gasthaus Bajones (Wien/Döbling, eat)</name>
+    </wpt>
+    <wpt lat="48.25986" lon="16.36619">
+        <name>Gasthof zum Renner (Wien/Döbling, eat)</name>
+    </wpt>
+    <wpt lat="48.25062" lon="16.30679">
+        <name>s`Pfiff (Wien/Döbling, eat)</name>
+    </wpt>
+    <wpt lat="48.23386" lon="16.35166">
+        <name>Teka Sushi (Wien/Döbling, eat)</name>
+    </wpt>
     <wpt lat="48.25792" lon="16.36670">
         <name>Plachutta Nussdorf (Wien/Döbling, eat)</name>
+    </wpt>
+    <wpt lat="48.23473" lon="16.35076">
+        <name>Fischer Bräu (Wien/Döbling, eat)</name>
+    </wpt>
+    <wpt lat="48.18584" lon="16.30111">
+        <name>Brandauer Schlossbräu (Wien/Döbling, eat)</name>
+    </wpt>
+    <wpt lat="48.23521" lon="16.35541">
+        <name>Brandauers Bierbögen (Wien/Döbling, eat)</name>
+    </wpt>
+    <wpt lat="48.23629" lon="16.34862">
+        <name>Studentenheim (Wien/Döbling, listing)</name>
+    </wpt>
+    <wpt lat="48.24609" lon="16.34125">
+        <name>Hotel Kaiser Franz Joseph (Wien/Döbling, sleep)</name>
+    </wpt>
+    <wpt lat="48.27466" lon="16.33661">
+        <name>Suite Hotel am Kahlenberg (Wien/Döbling, sleep)</name>
+    </wpt>
+    <wpt lat="48.23793" lon="16.33376">
+        <name>Hotel das Modul (Wien/Döbling, sleep)</name>
     </wpt>
     <wpt lat="48.2283" lon="16.4295">
         <name>Strandbad Gänsehäufel (Wien/Donaustadt, listing)</name>
     </wpt>
+    <wpt lat="48.17869" lon="16.37563">
+        <name>Pfarrkirche Johannes der Evangelist (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.15921" lon="16.38823">
+        <name>Rektoratskirche Laaer Berg (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.15758" lon="16.36042">
+        <name>Salvatorkirche am Wienerfeld (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.17295" lon="16.38604">
+        <name>Pfarrkirche zur Hlg.Familie (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.16598" lon="16.35746">
+        <name>Karmeliter-Kirche Maria vom Berge Karmel (Wien/Favoriten, listing)</name>
+    </wpt>
     <wpt lat="48.1525" lon="16.3840">
         <name>Bezirksmuseum Favoriten (Wien/Favoriten, see)</name>
+    </wpt>
+    <wpt lat="48.17397" lon="16.37733">
+        <name>Tichy (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.16628" lon="16.36350">
+        <name>Groissböck (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.13791" lon="16.39897">
+        <name>Frauneder-Stutz (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.14389" lon="16.38319">
+        <name>Heurigenschenke Zum Weinkrug (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.16766" lon="16.39870">
+        <name>Heuriger zum Werkelmann (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.14275" lon="16.38248">
+        <name>Hubertus-Stadtl (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.13767" lon="16.40621">
+        <name>Weinlaube Oberlaa (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.15941" lon="16.36105">
+        <name>Wienerfelder Schenke (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.13939" lon="16.39296">
+        <name>Wieselthaler (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.13789" lon="16.39918">
+        <name>Wieselthaler Franz (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.13569" lon="16.40175">
+        <name>Buschenschank Manhardt (Wien/Favoriten, listing)</name>
     </wpt>
     <wpt lat="48.1800971" lon="16.3746857">
         <name>Meininger Hotel Wien City Center (Wien/Favoriten, sleep)</name>
@@ -21075,11 +21537,116 @@
     <wpt lat="48.18253408" lon="16.38095319">
         <name>Hotel Schani Wien (Wien/Favoriten, sleep)</name>
     </wpt>
+    <wpt lat="48.14206" lon="16.40553">
+        <name>Artis Hotel AIRO Tower (Wien/Favoriten, sleep)</name>
+    </wpt>
+    <wpt lat="48.17855" lon="16.37207">
+        <name>Hotel Caroline (Wien/Favoriten, sleep)</name>
+    </wpt>
+    <wpt lat="48.18020" lon="16.37350">
+        <name>Hotel Cyrus (Wien/Favoriten, sleep)</name>
+    </wpt>
+    <wpt lat="48.18351" lon="16.37632">
+        <name>Delta Hotel Vienna (Wien/Favoriten, sleep)</name>
+    </wpt>
+    <wpt lat="48.16291" lon="16.34037">
+        <name>Hotel Bosei Vienna - Austria Trend Hotel (Wien/Favoriten, sleep)</name>
+    </wpt>
+    <wpt lat="48.18231" lon="16.37401">
+        <name>Hotel Kolbeck (Wien/Favoriten, sleep)</name>
+    </wpt>
+    <wpt lat="48.13667" lon="16.38367">
+        <name>Hotel Puzwidu (Wien/Favoriten, sleep)</name>
+    </wpt>
+    <wpt lat="48.13852" lon="16.40156">
+        <name>Landhaus Tschipan (Wien/Favoriten, sleep)</name>
+    </wpt>
+    <wpt lat="48.17930" lon="16.36238">
+        <name>Rainers Hotel Vienna (Wien/Favoriten, sleep)</name>
+    </wpt>
+    <wpt lat="48.14271" lon="16.40226">
+        <name>Kur-Apotheke Oberlaa (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.15551" lon="16.39571">
+        <name>Laaerberg-Apotheke (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.16982" lon="16.34626">
+        <name>Apotheke "Zur Spinnerin am Kreuz" (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.14118" lon="16.38302">
+        <name>Die Apotheke am Liesingbach (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.17873" lon="16.36943">
+        <name>Apotheke "Zur Mutter Gottes" (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.14611" lon="16.39197">
+        <name>Alauda-Apotheke (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.17457" lon="16.37758">
+        <name>Apotheke am Reumannplatz (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.15709" lon="16.36662">
+        <name>Apotheke Am Wienerfeld (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.17245" lon="16.35317">
+        <name>Apotheke Haupt (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.17502" lon="16.34793">
+        <name>Carolinen Apotheke (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.16348" lon="16.38301">
+        <name>Favorita-Apotheke (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.16724" lon="16.36705">
+        <name>Heilfried-Apotheke (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.16934" lon="16.37998">
+        <name>Landgut-Apotheke (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.17885" lon="16.37657">
+        <name>Madonnen Apotheke (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.17368" lon="16.38964">
+        <name>Quellen-Apotheke (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.17483" lon="16.36416">
+        <name>Rotenhof-Apotheke (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.17045" lon="16.36429">
+        <name>Trost-Apotheke (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.17497" lon="16.38157">
+        <name>Waldapotheke (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.15518" lon="16.34980">
+        <name>Wienerberg Apotheke (Wien/Favoriten, listing)</name>
+    </wpt>
+    <wpt lat="48.17419" lon="16.35073">
+        <name>Sozialmedizinisches Zentrum Süd - Geriatriezentrum Favoriten (Wien/Favoriten, listing)</name>
+    </wpt>
     <wpt lat="48.2165912" lon="16.3276919">
         <name>Jetzt (Wien/Hernals, drink)</name>
     </wpt>
+    <wpt lat="48.21748" lon="16.33437">
+        <name>Wiener Metropol (Wien/Hernals, do)</name>
+    </wpt>
+    <wpt lat="48.21700" lon="16.32565">
+        <name>Kulisse (Wien/Hernals, do)</name>
+    </wpt>
+    <wpt lat="48.22519" lon="16.31148">
+        <name>Apotheke Hernals (Wien/Hernals, listing)</name>
+    </wpt>
+    <wpt lat="48.22853" lon="16.30159">
+        <name>Armonia Apotheke (Wien/Hernals, listing)</name>
+    </wpt>
+    <wpt lat="48.22268" lon="16.30666">
+        <name>Sandleiten-Apotheke (Wien/Hernals, listing)</name>
+    </wpt>
     <wpt lat="48.18682" lon="16.29846">
         <name>Plachutta Hietzing (Wien/Hietzing, eat)</name>
+    </wpt>
+    <wpt lat="48.19319" lon="16.26184">
+        <name>Hostel Hütteldorf (Wien/Hietzing, listing)</name>
     </wpt>
     <wpt lat="48.20716" lon="16.36943">
         <name>Jüdisches Museum Wien (Wien/Innere Stadt, see)</name>
@@ -21120,6 +21687,27 @@
     <wpt lat="48.21002" lon="16.36825">
         <name>Zum Schwarzen Kameel (Wien/Innere Stadt, eat)</name>
     </wpt>
+    <wpt lat="48.21214" lon="16.34031">
+        <name>Breitenfelder Pfarrkirche Hgl. Franziskus Seraphicus (Wien/Josefstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21057" lon="16.34936">
+        <name>Piaristenkirche (Wien/Josefstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.20741" lon="16.35506">
+        <name>Palais Auersperg (Wien/Josefstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21319" lon="16.35055">
+        <name>Palais Schönborn (Wien/Josefstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.20952" lon="16.34788">
+        <name>Palais Strozzi (Wien/Josefstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21052" lon="16.35210">
+        <name>Bezirksmuseum Josefstadt (Wien/Josefstadt, see)</name>
+    </wpt>
+    <wpt lat="48.21319" lon="16.35055">
+        <name>Volkskundemuseum (Wien/Josefstadt, see)</name>
+    </wpt>
     <wpt lat="48.2098183" lon="16.3549883">
         <name>Cafe Restaurant Rathaus (Wien/Josefstadt, eat)</name>
     </wpt>
@@ -21144,14 +21732,326 @@
     <wpt lat="48.2083262" lon="16.3546764">
         <name>Restaurant Nemtoi (Wien/Josefstadt, eat)</name>
     </wpt>
+    <wpt lat="48.20847" lon="16.35295">
+        <name>Vienna's English Theatre (Wien/Josefstadt, do)</name>
+    </wpt>
     <wpt lat="48.211221" lon="16.3392118">
         <name>Café Carina (Wien/Josefstadt, do)</name>
+    </wpt>
+    <wpt lat="48.21102" lon="16.35160">
+        <name>Hotel Zipser (Wien/Josefstadt, sleep)</name>
+    </wpt>
+    <wpt lat="48.20984" lon="16.35348">
+        <name>Hotel Graf Stadion *** (Wien/Josefstadt, sleep)</name>
+    </wpt>
+    <wpt lat="48.20855" lon="16.35390">
+        <name>Mercure Josefshof Wien (Wien/Josefstadt, sleep)</name>
+    </wpt>
+    <wpt lat="48.21362" lon="16.35214">
+        <name>The Levante Laudon (Wien/Josefstadt, sleep)</name>
+    </wpt>
+    <wpt lat="48.20834" lon="16.35478">
+        <name>The Levante Parliament (Wien/Josefstadt, sleep)</name>
+    </wpt>
+    <wpt lat="48.21513" lon="16.34552">
+        <name>Kaiser Josef Apotheke (Wien/Josefstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.20782" lon="16.34284">
+        <name>Welt-Apotheke (Wien/Josefstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21186" lon="16.35236">
+        <name>Apotheke "Zur heiligen Johanna" (Wien/Josefstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.20936" lon="16.35033">
+        <name>Alte Löwen-Apotheke (Wien/Josefstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21081" lon="16.34343">
+        <name>Maria-Treu-Apotheke (Wien/Josefstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.20527" lon="16.38672">
+        <name>Elisabethinen-Kirche (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19372" lon="16.39078">
+        <name>Erlöser-Kirche (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19788" lon="16.37900">
+        <name>Gardekirche (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19589" lon="16.38696">
+        <name>Januariuskapelle (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.20243" lon="16.39036">
+        <name>Pfarrkiche Hlg.Rochus und Sebastian (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19736" lon="16.38502">
+        <name>Russisch-orthodoxe Kathedrale Hlg.Nikolaus (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.21036" lon="16.38935">
+        <name>Armenische Kirche (Wien/Landstraße, listing)</name>
     </wpt>
     <wpt lat="48.18565" lon="16.38802">
         <name>Heeresgeschichtliches Museum (Wien/Landstraße, see)</name>
     </wpt>
+    <wpt lat="48.18588" lon="16.38396">
+        <name>21er Haus (Wien/Landstraße, see)</name>
+    </wpt>
+    <wpt lat="48.19916" lon="16.37775">
+        <name>Arnold Schönberg Center (Wien/Landstraße, see)</name>
+    </wpt>
+    <wpt lat="48.20140" lon="16.38820">
+        <name>Bezirksmuseum Landstraße (Wien/Landstraße, see)</name>
+    </wpt>
+    <wpt lat="48.20770" lon="16.39318">
+        <name>Fälschermuseum Wien (Wien/Landstraße, see)</name>
+    </wpt>
+    <wpt lat="48.19836" lon="16.39345">
+        <name>MAK-Gegenwartskunstdepot Gefechtsturm Arenbergpark (Wien/Landstraße, see)</name>
+    </wpt>
+    <wpt lat="48.20414" lon="16.38729">
+        <name>Burgenland Vinothek (Wien/Landstraße, buy)</name>
+    </wpt>
     <wpt lat="51.58209" lon="8.17641">
         <name>Heurigenrestaurant beim Schurli/Wachter (Wien/Landstraße, eat)</name>
+    </wpt>
+    <wpt lat="48.20554" lon="16.39476">
+        <name>Cafe Restaurant Zartl (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19735" lon="16.38735">
+        <name>Gasthaus Seidl (Wien/Landstraße, eat)</name>
+    </wpt>
+    <wpt lat="48.20725" lon="16.38771">
+        <name>Stadtwirt (Wien/Landstraße, eat)</name>
+    </wpt>
+    <wpt lat="48.20042" lon="16.37800">
+        <name>WEINZIRL - Restaurant im Konzerthaus (Wien/Landstraße, eat)</name>
+    </wpt>
+    <wpt lat="48.21056" lon="16.38978">
+        <name>Gasthaus Wild (Wien/Landstraße, eat)</name>
+    </wpt>
+    <wpt lat="48.20565" lon="16.38489">
+        <name>Village Cinemas Wien Mitte (Wien/Landstraße, do)</name>
+    </wpt>
+    <wpt lat="48.19895" lon="16.38788">
+        <name>Tanzcafe Mr. Bojangles (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.20024" lon="16.37711">
+        <name>Akademietheater (Wien/Landstraße, do)</name>
+    </wpt>
+    <wpt lat="48.20078" lon="16.39922">
+        <name>Figurentheater Lilarum (Wien/Landstraße, do)</name>
+    </wpt>
+    <wpt lat="48.20075" lon="16.37734">
+        <name>Koproduktionshaus Wien - brut im Konzerthaus (Wien/Landstraße, do)</name>
+    </wpt>
+    <wpt lat="48.19592" lon="16.40151">
+        <name>Rabenhof Theater (Wien/Landstraße, do)</name>
+    </wpt>
+    <wpt lat="48.20373" lon="16.38960">
+        <name>KIBI ROOMS (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19282" lon="16.38597">
+        <name>Belvedere Appartementvermietung (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19617" lon="16.40704">
+        <name>Gasthof Schwabl Wirt (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.20102" lon="16.39440">
+        <name>Hotel - Pension Spiess &amp; Spiess Appartements (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19446" lon="16.38972">
+        <name>La Scala Appartment-Pension (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19204" lon="16.38713">
+        <name>Pension Bosch (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.20557" lon="16.38661">
+        <name>Pension Stadtpark (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19651" lon="16.39582">
+        <name>Eurostars Embassy (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19502" lon="16.38465">
+        <name>Austria Trend Hotel Savoyen Vienna (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19131" lon="16.40051">
+        <name>Gartenhotel Gabriel (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.20596" lon="16.38310">
+        <name>Hilton Vienna (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19347" lon="16.38640">
+        <name>Hotel Adam (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19967" lon="16.37744">
+        <name>Hotel am Konzerthaus (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.20175" lon="16.37920">
+        <name>Hotel Intercontinental Vienna (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.20387" lon="16.38870">
+        <name>Hotel Mercure Grand Hotel Biedermeier Wien (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.21256" lon="16.38900">
+        <name>Hotel Urania (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19552" lon="16.38347">
+        <name>Lindner Hotel Am Belvedere (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19552" lon="16.38347">
+        <name>NH Belvedere (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.20147" lon="16.38029">
+        <name>Starlight Suiten Hotel (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19754" lon="16.39652">
+        <name>ALDANO Serviced Apartments (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.20420" lon="16.39104">
+        <name>Appartements Salmgasse (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.20260" lon="16.38708">
+        <name>Frid Apartments (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.21203" lon="16.38776">
+        <name>Kuchlmasterei (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19754" lon="16.39431">
+        <name>TownsApartments (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19722" lon="16.40248">
+        <name>Aeskulap-Apotheke (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.21115" lon="16.39018">
+        <name>Apotheke "Zum Feldmarschall Radetzky" (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.20848" lon="16.39300">
+        <name>Apotheke "Zum heiligen Othmar" (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.20545" lon="16.38624">
+        <name>Apotheke "Zur heiligen Elisabeth" (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19440" lon="16.38764">
+        <name>Carolus-Apotheke (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19557" lon="16.40890">
+        <name>Erdberg-Apotheke (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19087" lon="16.38774">
+        <name>Fasan-Apotheke (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19889" lon="16.38757">
+        <name>Neuling-Apotheke (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19076" lon="16.40100">
+        <name>Paulus-Apotheke (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.20259" lon="16.39292">
+        <name>Petrus-Apotheke (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19838" lon="16.38093">
+        <name>Salesianer-Apotheke (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19539" lon="16.39646">
+        <name>St. Markus-Apotheke (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.20254" lon="16.39021">
+        <name>St. Rochus Apotheke (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19702" lon="16.39260">
+        <name>Segen-Gottes-Apotheke (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.20671" lon="16.38957">
+        <name>Sophien-Apotheke (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.19556" lon="16.39849">
+        <name>Herz-Jesu Krankenhaus (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.20529" lon="16.38662">
+        <name>St Elisabeth Krankenhaus (Wien/Landstraße, listing)</name>
+    </wpt>
+    <wpt lat="48.21607" lon="16.38636">
+        <name>Johann-Nepomuk-Kirche (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21631" lon="16.37990">
+        <name>Pfarrkirche Hlg.Josef (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21913" lon="16.37929">
+        <name>Leopoldskirche (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.22506" lon="16.38475">
+        <name>Verklärungskirche (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21646" lon="16.37994">
+        <name>Bezirksmuseum Leopoldstadt (Wien/Leopoldstadt, see)</name>
+    </wpt>
+    <wpt lat="48.21941" lon="16.40544">
+        <name>Österreichisches Circus- und Clownmuseum (Wien/Leopoldstadt, see)</name>
+    </wpt>
+    <wpt lat="48.21823" lon="16.37839">
+        <name>Wiener Kriminalmuseum (Wien/Leopoldstadt, see)</name>
+    </wpt>
+    <wpt lat="48.21598" lon="16.38742">
+        <name>Wien Museum Johann Strauss Wohnung (Wien/Leopoldstadt, see)</name>
+    </wpt>
+    <wpt lat="48.21624" lon="16.39495">
+        <name>Wien Museum Pratermuseum (Wien/Leopoldstadt, see)</name>
+    </wpt>
+    <wpt lat="48.22366" lon="16.37852">
+        <name>Wiener Porzellanmanufaktur Augarten (Wien/Leopoldstadt, see)</name>
+    </wpt>
+    <wpt lat="48.21610" lon="16.39503">
+        <name>Zeiss Planetarium (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21736" lon="16.40753">
+        <name>Reed Messe Wien (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21417" lon="16.37770">
+        <name>Dianabad (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.20721" lon="16.42098">
+        <name>Wiener Praterstadion – Ernst-Happel-Stadion (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21060" lon="16.42422">
+        <name>Ferry Dusika Hallenstadion (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.22367" lon="16.37853">
+        <name>Wiener Porzellanmanufaktur Augarten (Wien/Leopoldstadt, buy)</name>
+    </wpt>
+    <wpt lat="48.21973" lon="16.37841">
+        <name>Cafe Sperlhof (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21633" lon="16.37481">
+        <name>Zwe (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21764" lon="16.39623">
+        <name>Stadtgasthaus Eisvogel (Wien/Leopoldstadt, eat)</name>
+    </wpt>
+    <wpt lat="48.21393" lon="16.40195">
+        <name>Schweizerhaus (Wien/Leopoldstadt, eat)</name>
+    </wpt>
+    <wpt lat="48.21796" lon="16.39008">
+        <name>Gasthaus Hansy (Wien/Leopoldstadt, eat)</name>
+    </wpt>
+    <wpt lat="48.21871" lon="16.37728">
+        <name>Schöne Perle (Wien/Leopoldstadt, eat)</name>
+    </wpt>
+    <wpt lat="48.21916" lon="16.38027">
+        <name>Zur Reblaus (Wien/Leopoldstadt, eat)</name>
+    </wpt>
+    <wpt lat="48.19311" lon="16.43918">
+        <name>Altes Jägerhaus (Wien/Leopoldstadt, eat)</name>
+    </wpt>
+    <wpt lat="48.19252" lon="16.43898">
+        <name>Lusthaus (Wien/Leopoldstadt, eat)</name>
+    </wpt>
+    <wpt lat="48.21609" lon="16.38752">
+        <name>Restaurant Tempel (Wien/Leopoldstadt, eat)</name>
+    </wpt>
+    <wpt lat="48.21718" lon="16.39737">
+        <name>Prater Dome (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21421" lon="16.38009">
+        <name>Odeon (Wien/Leopoldstadt, do)</name>
     </wpt>
     <wpt lat="48.2218513" lon="16.3717064">
         <name>Meininger Hotel Wien Downtown Franz (Wien/Leopoldstadt, sleep)</name>
@@ -21161,6 +22061,159 @@
     </wpt>
     <wpt lat="48.217839" lon="16.389499">
         <name>[http://www.classic-hotelwien.at Classic Hotel Wien] (Wien/Leopoldstadt, sleep)</name>
+    </wpt>
+    <wpt lat="48.21039" lon="16.42165">
+        <name>Apotheke im Stadion Center (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21440" lon="16.38439">
+        <name>Apotheke Zum guten Hirten (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.23889" lon="16.35479">
+        <name>Apotheke Zum heiligen Josef (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21854" lon="16.38436">
+        <name>Apotheke "Zum Patriarchen" (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21664" lon="16.38864">
+        <name>Apotheke "Zur alten Jägerzeile" (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21940" lon="16.38842">
+        <name>Apotheke "Zur Hoffnung" (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.22087" lon="16.37268">
+        <name>Augarten-Apotheke (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21734" lon="16.38097">
+        <name>Bären-Apotheke (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.22531" lon="16.40003">
+        <name>Christinen Apotheke (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.22285" lon="16.40326">
+        <name>Erzherzog Karl-Apotheke (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.20596" lon="16.39863">
+        <name>Lotos-Apotheke (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21823" lon="16.39969">
+        <name>Prater-Apotheke (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.22558" lon="16.36941">
+        <name>Mathilden-Apotheke (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21819" lon="16.40616">
+        <name>Rotunden Apotheke (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21667" lon="16.37738">
+        <name>Schlangen-Apotheke (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.22351" lon="16.38552">
+        <name>Schwan-Apotheke (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.19076" lon="16.35451">
+        <name>Margaretner Pfarrkirche Hlg. Josef (Wien/Margareten, listing)</name>
+    </wpt>
+    <wpt lat="48.18596" lon="16.36341">
+        <name>Matzleinsdorfer Pfarrkirche Hgl.Florian (Wien/Margareten, listing)</name>
+    </wpt>
+    <wpt lat="48.19040" lon="16.35400">
+        <name>Bezirksmuseum Margareten (Wien/Margareten, see)</name>
+    </wpt>
+    <wpt lat="48.18384" lon="16.35679">
+        <name>Kaffeeerlebnismuseum (Wien/Margareten, see)</name>
+    </wpt>
+    <wpt lat="48.18384" lon="16.35679">
+        <name>Österreichisches Gesellschafts- und Wirtschaftsmuseum (Wien/Margareten, see)</name>
+    </wpt>
+    <wpt lat="48.19409" lon="16.35932">
+        <name>Mrs.Sporty Margareten (Wien/Margareten, do)</name>
+    </wpt>
+    <wpt lat="48.18744" lon="16.36357">
+        <name>Fitinn (Wien/Margareten, do)</name>
+    </wpt>
+    <wpt lat="48.19256" lon="16.35843">
+        <name>John Harris Fitness Am Margaretenplatz (Wien/Margareten, do)</name>
+    </wpt>
+    <wpt lat="48.19541" lon="16.35525">
+        <name>Cafe Rüdigerhof (Wien/Margareten, listing)</name>
+    </wpt>
+    <wpt lat="48.19137" lon="16.35941">
+        <name>Gergelys Essen zum Quadrat (Wien/Margareten, eat)</name>
+    </wpt>
+    <wpt lat="48.19151" lon="16.36047">
+        <name>Restaurant Altes Fassl (Wien/Margareten, eat)</name>
+    </wpt>
+    <wpt lat="48.19189" lon="16.35611">
+        <name>Restaurant Schwarzer Adler (Wien/Margareten, eat)</name>
+    </wpt>
+    <wpt lat="48.19227" lon="16.35479">
+        <name>Restaurant zum Moser (Wien/Margareten, eat)</name>
+    </wpt>
+    <wpt lat="48.18754" lon="16.36396">
+        <name>Rudi's Beisl (Wien/Margareten, eat)</name>
+    </wpt>
+    <wpt lat="48.18488" lon="16.36222">
+        <name>Steirer Stuben (Wien/Margareten, eat)</name>
+    </wpt>
+    <wpt lat="48.19040" lon="16.35486">
+        <name>"Zum Stöger" (Wien/Margareten, eat)</name>
+    </wpt>
+    <wpt lat="48.19369" lon="16.35869">
+        <name>Waldviertler Hof (Wien/Margareten, eat)</name>
+    </wpt>
+    <wpt lat="48.18657" lon="16.36406">
+        <name>Wald/4 ler Stub'n (Wien/Margareten, eat)</name>
+    </wpt>
+    <wpt lat="48.19115" lon="16.35934">
+        <name>Wiener Beisl Silberwirt (Wien/Margareten, eat)</name>
+    </wpt>
+    <wpt lat="48.19229" lon="16.35982">
+        <name>Filmcasino (Wien/Margareten, do)</name>
+    </wpt>
+    <wpt lat="48.18529" lon="16.36106">
+        <name>Projekttheater Vorarlberg (Wien/Margareten, do)</name>
+    </wpt>
+    <wpt lat="48.18579" lon="16.36253">
+        <name>Scala - Theater zum Fürchten (Wien/Margareten, do)</name>
+    </wpt>
+    <wpt lat="48.18891" lon="16.34952">
+        <name>Hotel Ibis (Wien/Margareten, sleep)</name>
+    </wpt>
+    <wpt lat="48.18511" lon="16.35230">
+        <name>Art Hotel Vienna (Wien/Margareten, sleep)</name>
+    </wpt>
+    <wpt lat="48.19227" lon="16.35483">
+        <name>Austria Trend Hotel Ananas (Wien/Margareten, sleep)</name>
+    </wpt>
+    <wpt lat="48.19355" lon="16.36158">
+        <name>Holiday Inn Vienna City (Wien/Margareten, sleep)</name>
+    </wpt>
+    <wpt lat="48.18102" lon="16.35843">
+        <name>Hotel Allegro (Wien/Margareten, sleep)</name>
+    </wpt>
+    <wpt lat="48.19640" lon="16.35954">
+        <name>Apotheke an der Kettenbrücke (Wien/Margareten, listing)</name>
+    </wpt>
+    <wpt lat="48.18623" lon="16.35195">
+        <name>Apotheke "Zum Einsiedler" (Wien/Margareten, listing)</name>
+    </wpt>
+    <wpt lat="48.18160" lon="16.34862">
+        <name>Haydn-Apotheke (Wien/Margareten, listing)</name>
+    </wpt>
+    <wpt lat="48.18616" lon="16.36335">
+        <name>Herz-Jesu-Apotheke (Wien/Margareten, listing)</name>
+    </wpt>
+    <wpt lat="48.19190" lon="16.35931">
+        <name>Margareten-Apotheke (Wien/Margareten, listing)</name>
+    </wpt>
+    <wpt lat="48.18192" lon="16.35808">
+        <name>Maria-Schutz-Apotheke (Wien/Margareten, listing)</name>
+    </wpt>
+    <wpt lat="48.18869" lon="16.34943">
+        <name>St. Franziskus-Apotheke (Wien/Margareten, listing)</name>
+    </wpt>
+    <wpt lat="48.18670" lon="16.35707">
+        <name>Siebenbrunnen-Apotheke (Wien/Margareten, listing)</name>
     </wpt>
     <wpt lat="48.19886" lon="16.35601">
         <name>Parkgarage Windmühlgasse (Wien/Mariahilf, listing)</name>
@@ -21540,6 +22593,12 @@
     <wpt lat="48.17604" lon="16.33363">
         <name>Pizzeria Porta Via (Wien/Meidling, eat)</name>
     </wpt>
+    <wpt lat="48.16398" lon="16.32162">
+        <name>Gartenrestaurant Altmannsdorf (Wien/Meidling, eat)</name>
+    </wpt>
+    <wpt lat="48.17479" lon="16.32619">
+        <name>Bellini (Wien/Meidling, eat)</name>
+    </wpt>
     <wpt lat="48.16239" lon="16.32233">
         <name>Zum Alten Pflug (Wien/Meidling, eat)</name>
     </wpt>
@@ -21615,11 +22674,197 @@
     <wpt lat="48.17289" lon="16.34434">
         <name>Unfallkrankenhaus Meidling (Wien/Meidling, listing)</name>
     </wpt>
+    <wpt lat="48.20744" lon="16.34280">
+        <name>Altlerchenfelder Kirche (Wien/Neubau, listing)</name>
+    </wpt>
+    <wpt lat="48.19734" lon="16.34120">
+        <name>Lazaristenkirche (Wien/Neubau, listing)</name>
+    </wpt>
+    <wpt lat="48.20595" lon="16.35418">
+        <name>Mechitaristenkirche (Wien/Neubau, listing)</name>
+    </wpt>
+    <wpt lat="48.20449" lon="16.35256">
+        <name>Ulrichs-Kirche (Wien/Neubau, listing)</name>
+    </wpt>
+    <wpt lat="48.19874" lon="16.34705">
+        <name>Hofmobiliendepot Möbel Museum Wien (Wien/Neubau, see)</name>
+    </wpt>
+    <wpt lat="48.20308" lon="16.35814">
+        <name>Kunsthalle Wien (Wien/Neubau, see)</name>
+    </wpt>
+    <wpt lat="48.20580" lon="16.35459">
+        <name>Museum der Mechitharistenkongregation (Wien/Neubau, see)</name>
+    </wpt>
+    <wpt lat="48.20296" lon="16.35848">
+        <name>Museum moderner Kunst Stiftung Ludwig Wien (MUMOK) (Wien/Neubau, see)</name>
+    </wpt>
+    <wpt lat="48.20224" lon="16.35937">
+        <name>ZOOM Kindermuseum (Wien/Neubau, see)</name>
+    </wpt>
+    <wpt lat="48.20474" lon="16.35143">
+        <name>Märchenbühne Der Apfelbaum (Wien/Neubau, do)</name>
+    </wpt>
+    <wpt lat="48.20306" lon="16.35543">
+        <name>Theater Am Spittelberg (Wien/Neubau, do)</name>
+    </wpt>
+    <wpt lat="48.20424" lon="16.34713">
+        <name>Ateliertheater (Wien/Neubau, do)</name>
+    </wpt>
+    <wpt lat="48.20238" lon="16.36023">
+        <name>DSCHUNGEL WIEN (Wien/Neubau, do)</name>
+    </wpt>
+    <wpt lat="48.20004" lon="16.34073">
+        <name>Heuschreck (Wien/Neubau, do)</name>
+    </wpt>
+    <wpt lat="48.20232" lon="16.35130">
+        <name>Kosmos Theater (Wien/Neubau, do)</name>
+    </wpt>
+    <wpt lat="48.20468" lon="16.35143">
+        <name>DAS OFF THEATER (Wien/Neubau, do)</name>
+    </wpt>
+    <wpt lat="48.20450" lon="16.35162">
+        <name>Projekt Theater Studio (Wien/Neubau, do)</name>
+    </wpt>
+    <wpt lat="48.20130" lon="16.34515">
+        <name>Theater ohne Grenzen (Wien/Neubau, do)</name>
+    </wpt>
+    <wpt lat="48.20520" lon="16.35676">
+        <name>Volkstheater (Wien/Neubau, do)</name>
+    </wpt>
     <wpt lat="48.19633" lon="16.34093">
         <name>viennaresidence - Business Appartements Wien (Wien/Neubau, sleep)</name>
     </wpt>
+    <wpt lat="48.22382" lon="16.30618">
+        <name>Sandleitner Pfarrkirche St.Joseph (Wien/Ottakring, listing)</name>
+    </wpt>
+    <wpt lat="48.21130" lon="16.33325">
+        <name>Neulerchenfelder Pfarrkirche (Wien/Ottakring, listing)</name>
+    </wpt>
+    <wpt lat="48.21426" lon="16.30854">
+        <name>Heuriger 10er Marie (Wien/Ottakring, listing)</name>
+    </wpt>
+    <wpt lat="48.19173" lon="16.30197">
+        <name>Penzinger Pfarrkirche (Wien/Penzing, listing)</name>
+    </wpt>
+    <wpt lat="48.19091" lon="16.31804">
+        <name>Technisches Museum Wien (Wien/Penzing, see)</name>
+    </wpt>
+    <wpt lat="48.20983" lon="16.25584">
+        <name>Ernst Fuchs Museum (Wien/Penzing, see)</name>
+    </wpt>
+    <wpt lat="48.20254" lon="16.33129">
+        <name>Pfarrkirche Christkönig Neufünfhaus (Wien/Rudolfsheim-Fünfhaus, listing)</name>
+    </wpt>
+    <wpt lat="48.19733" lon="16.32296">
+        <name>Pfaramt Rudolfsheim (Wien/Rudolfsheim-Fünfhaus, listing)</name>
+    </wpt>
+    <wpt lat="48.19944" lon="16.33024">
+        <name>Pfarrkirche Hl. Antonius von Padua (Wien/Rudolfsheim-Fünfhaus, listing)</name>
+    </wpt>
+    <wpt lat="48.18883" lon="16.33047">
+        <name>Pizzeria Mafiosi (Wien/Rudolfsheim-Fünfhaus, eat)</name>
+    </wpt>
+    <wpt lat="48.18923" lon="16.33037">
+        <name>Gasthaus zum Quell (Wien/Rudolfsheim-Fünfhaus, eat)</name>
+    </wpt>
+    <wpt lat="48.19391" lon="16.33447">
+        <name>Mariahilferbräu (Wien/Rudolfsheim-Fünfhaus, eat)</name>
+    </wpt>
+    <wpt lat="48.19864" lon="16.33418">
+        <name>Pescaria Konoba (Wien/Rudolfsheim-Fünfhaus, eat)</name>
+    </wpt>
+    <wpt lat="48.20069" lon="16.33649">
+        <name>Café Amadeus (Wien/Rudolfsheim-Fünfhaus, listing)</name>
+    </wpt>
+    <wpt lat="48.19921" lon="16.33382">
+        <name>Boutiquehotel Stadthalle (Wien/Rudolfsheim-Fünfhaus, sleep)</name>
+    </wpt>
+    <wpt lat="48.17010" lon="16.41452">
+        <name>Evangelische Glaubenskirche (Wien/Simmering, listing)</name>
+    </wpt>
+    <wpt lat="48.15877" lon="16.43432">
+        <name>Concordia Schlössl (Wien/Simmering, eat)</name>
+    </wpt>
+    <wpt lat="48.23040" lon="16.33162">
+        <name>Weinhauser Pfarrkirche St. Josef (Wien/Währing, listing)</name>
+    </wpt>
+    <wpt lat="48.23424" lon="16.32422">
+        <name>Gersthofer Pfarrkirche St. Leopold (Wien/Währing, listing)</name>
+    </wpt>
+    <wpt lat="48.22535" lon="16.33465">
+        <name>Währinger Pfarrkirche St. Severin (Wien/Währing, listing)</name>
+    </wpt>
+    <wpt lat="48.22582" lon="16.34430">
+        <name>St. Gertrud (Wien/Währing, listing)</name>
+    </wpt>
+    <wpt lat="48.24063" lon="16.31000">
+        <name>Pötzleinsdorfer Christkönigskirche (Wien/Währing, listing)</name>
+    </wpt>
+    <wpt lat="48.24372" lon="16.30632">
+        <name>Ägydiuskirche (Wien/Währing, listing)</name>
+    </wpt>
+    <wpt lat="48.22043" lon="16.34014">
+        <name>Evangelische Lutherkirche (Wien/Währing, listing)</name>
+    </wpt>
+    <wpt lat="48.22666" lon="16.33175">
+        <name>Eurospar (Wien/Währing, buy)</name>
+    </wpt>
+    <wpt lat="48.23045" lon="16.32855">
+        <name>Café Stadtbahn (Wien/Währing, listing)</name>
+    </wpt>
+    <wpt lat="48.19610" lon="16.36246">
+        <name>Dritte Mann-Museum (Wien/Wieden, see)</name>
+    </wpt>
+    <wpt lat="48.19703" lon="16.36761">
+        <name>Generali Foundation (Wien/Wieden, see)</name>
+    </wpt>
+    <wpt lat="48.19070" lon="16.36590">
+        <name>Rauchfangkehrermuseum (Wien/Wieden, see)</name>
+    </wpt>
+    <wpt lat="48.19463" lon="16.36144">
+        <name>Schubert Sterbewohnung (Wien/Wieden, see)</name>
+    </wpt>
+    <wpt lat="48.19944" lon="16.37296">
+        <name>Wienmuseum Karlsplatz (Wien/Wieden, see)</name>
+    </wpt>
+    <wpt lat="48.19723" lon="16.36379">
+        <name>Restaurant Beograd (Wien/Wieden, eat)</name>
+    </wpt>
+    <wpt lat="48.19670" lon="16.36526">
+        <name>Schikaneder Kino (Wien/Wieden, do)</name>
+    </wpt>
+    <wpt lat="48.19219" lon="16.37498">
+        <name>Theater Akzent (Wien/Wieden, do)</name>
+    </wpt>
+    <wpt lat="48.19083" lon="16.36646">
+        <name>Freie Bühne Wieden (Wien/Wieden, do)</name>
+    </wpt>
+    <wpt lat="48.18641" lon="16.37033">
+        <name>Wiener Wortstaetten (Wien/Wieden, do)</name>
+    </wpt>
     <wpt lat="48.194917" lon="16.36553">
         <name>AllYouNeed Hotel Vienna4 *** (Wien/Wieden, sleep)</name>
+    </wpt>
+    <wpt lat="48.19522" lon="16.36733">
+        <name>Hotel Erzherzog Rainer **** (Wien/Wieden, sleep)</name>
+    </wpt>
+    <wpt lat="48.19440" lon="16.37702">
+        <name>Belvedere Apotheke (Wien/Wieden, listing)</name>
+    </wpt>
+    <wpt lat="48.19544" lon="16.36395">
+        <name>Apotheke "Zum Einhorn" (Wien/Wieden, listing)</name>
+    </wpt>
+    <wpt lat="48.19108" lon="16.36653">
+        <name>Apotheke "Zum heiligen Florian" (Wien/Wieden, listing)</name>
+    </wpt>
+    <wpt lat="48.18673" lon="16.36878">
+        <name>Johann Strauß-Apotheke (Wien/Wieden, listing)</name>
+    </wpt>
+    <wpt lat="48.18770" lon="16.37816">
+        <name>Johannes-Apotheke (Wien/Wieden, listing)</name>
+    </wpt>
+    <wpt lat="48.18977" lon="16.37229">
+        <name>Stern-Apotheke (Wien/Wieden, listing)</name>
     </wpt>
     <wpt lat="51.1919" lon="8.5182">
         <name>Skiliftkarussell Winterberg (Winterberg, listing)</name>
@@ -26607,6 +27852,27 @@
     <wpt lat="18.7783272" lon="100.7754314">
         <name>Pukha Nanfa Hotel (Nan, sleep)</name>
     </wpt>
+    <wpt lat="51.8637" lon="12.6183">
+        <name>Anlegestelle Elbhafen (Lutherstadt Wittenberg, listing)</name>
+    </wpt>
+    <wpt lat="51.8630" lon="12.6098">
+        <name>Anleger Kleinwittenberg (Lutherstadt Wittenberg, listing)</name>
+    </wpt>
+    <wpt lat="51.8663" lon="12.6380">
+        <name>Schlosskirche (Lutherstadt Wittenberg, listing)</name>
+    </wpt>
+    <wpt lat="51.8640" lon="12.6524">
+        <name>Lutherhaus (Lutherstadt Wittenberg, listing)</name>
+    </wpt>
+    <wpt lat="51.8647" lon="12.6510">
+        <name>Melanchthonhaus (Lutherstadt Wittenberg, listing)</name>
+    </wpt>
+    <wpt lat="51.8648" lon="12.6401">
+        <name>Luthergarten (Lutherstadt Wittenberg, listing)</name>
+    </wpt>
+    <wpt lat="51.86736" lon="12.64475">
+        <name>Flower Power (Lutherstadt Wittenberg, drink)</name>
+    </wpt>
     <wpt lat="50.5695" lon="9.9935">
         <name>Freizeitbad Ulsterwelle (Hilders, listing)</name>
     </wpt>
@@ -29394,6 +30660,12 @@
     <wpt lat="50.28899" lon="8.69483">
         <name>Wetterau-Museum (Friedberg (Hessen), see)</name>
     </wpt>
+    <wpt lat="50.35223" lon="8.79150">
+        <name>Dorheimer Hof (Friedberg (Hessen), sleep)</name>
+    </wpt>
+    <wpt lat="50.33504" lon="8.74552">
+        <name>Garni-Hotel Stadt Friedberg (Friedberg (Hessen), sleep)</name>
+    </wpt>
     <wpt lat="51.19358" lon="10.03208">
         <name>Werratal Tourismus Marketing GmbH (Werra-Meißner-Land, listing)</name>
     </wpt>
@@ -29489,6 +30761,42 @@
     </wpt>
     <wpt lat="50.050066" lon="8.545400">
         <name>NH Frankfurt-Airport (Flughafen Frankfurt am Main, sleep)</name>
+    </wpt>
+    <wpt lat="50.11067" lon="8.68546">
+        <name>Kaiserdom St. Bartholomäus (Frankfurt am Main/Altstadt und Innenstadt, listing)</name>
+    </wpt>
+    <wpt lat="50.10890" lon="8.68013">
+        <name>Leonhardskirche (Frankfurt am Main/Altstadt und Innenstadt, listing)</name>
+    </wpt>
+    <wpt lat="50.11300" lon="8.68137">
+        <name>Liebfrauenkirche (Frankfurt am Main/Altstadt und Innenstadt, listing)</name>
+    </wpt>
+    <wpt lat="50.11314" lon="8.67942">
+        <name>Katharinenkirche (Frankfurt am Main/Altstadt und Innenstadt, listing)</name>
+    </wpt>
+    <wpt lat="50.11052" lon="8.68167">
+        <name>Römer (Frankfurt am Main/Altstadt und Innenstadt, listing)</name>
+    </wpt>
+    <wpt lat="50.11349" lon="8.67874">
+        <name>Hauptwache (Frankfurt am Main/Altstadt und Innenstadt, listing)</name>
+    </wpt>
+    <wpt lat="50.11616" lon="8.67203">
+        <name>Alte Oper (Frankfurt am Main/Altstadt und Innenstadt, listing)</name>
+    </wpt>
+    <wpt lat="50.11109" lon="8.67755">
+        <name>Goethehaus (Frankfurt am Main/Altstadt und Innenstadt, listing)</name>
+    </wpt>
+    <wpt lat="50.10948" lon="8.68195">
+        <name>Haus Wertheym (Frankfurt am Main/Altstadt und Innenstadt, listing)</name>
+    </wpt>
+    <wpt lat="50.11009" lon="8.68523">
+        <name>Leinwandhaus (Frankfurt am Main/Altstadt und Innenstadt, listing)</name>
+    </wpt>
+    <wpt lat="50.11219" lon="8.69048">
+        <name>Alter Jüdischer Friedhof (Frankfurt am Main/Altstadt und Innenstadt, listing)</name>
+    </wpt>
+    <wpt lat="50.11281" lon="8.68351">
+        <name>Kleinmarkthalle (Frankfurt am Main/Altstadt und Innenstadt, buy)</name>
     </wpt>
     <wpt lat="50.11445" lon="8.68691">
         <name>Bauernmarkt Konstablerwache (Frankfurt am Main/Altstadt und Innenstadt, listing)</name>
@@ -29919,6 +31227,9 @@
     <wpt lat="51.2514" lon="8.8268">
         <name>Eisenberg (Korbach, listing)</name>
     </wpt>
+    <wpt lat="51.26994" lon="8.8725">
+        <name>Jugendherberge Korbach (Korbach, listing)</name>
+    </wpt>
     <wpt lat="51.26731" lon="8.87113">
         <name>Hessenklinik Stadtkrankenhaus (Korbach, listing)</name>
     </wpt>
@@ -29942,6 +31253,9 @@
     </wpt>
     <wpt lat="51.1329" lon="9.2775">
         <name>Hospital zum heiligen Geist (Fritzlar, listing)</name>
+    </wpt>
+    <wpt lat="51.13155" lon="9.27344">
+        <name>Touristinformation Fritzlar (Fritzlar, listing)</name>
     </wpt>
     <wpt lat="51.13135" lon="9.27481">
         <name>Toilette an der Fischergasse (Fritzlar, listing)</name>
@@ -31167,9 +32481,6 @@
     <wpt lat="50.10684" lon="11.45910">
         <name>Zunftstube (Kulmbach, listing)</name>
     </wpt>
-    <wpt lat="50.10794" lon="11.45715">
-        <name>Alte Feuerwache (Kulmbach, listing)</name>
-    </wpt>
     <wpt lat="50.11065" lon="11.46525">
         <name>Kulmbacher Kommunbräu (Kulmbach, listing)</name>
     </wpt>
@@ -31811,6 +33122,9 @@
     </wpt>
     <wpt lat="50.6267" lon="3.0493">
         <name>Marché de Wazemmes (Lille, listing)</name>
+    </wpt>
+    <wpt lat="51.7998" lon="12.4037">
+        <name>Schloss Oranienbaum (Oranienbaum, listing)</name>
     </wpt>
     <wpt lat="51.79806" lon="12.40217">
         <name>Hotel Goldener Fasan‎ (Oranienbaum, sleep)</name>
@@ -33953,6 +35267,9 @@
     </wpt>
     <wpt lat="49.107108" lon="9.775661">
         <name>Hotel zum Hirsch (Schwäbisch Hall, sleep)</name>
+    </wpt>
+    <wpt lat="49.11073" lon="9.78120">
+        <name>Hotel Smartino (Schwäbisch Hall, sleep)</name>
     </wpt>
     <wpt lat="54.176648" lon="12.087113">
         <name>Heimatmuseum Warnemünde (Warnemünde, listing)</name>
@@ -36809,6 +38126,12 @@
     </wpt>
     <wpt lat="3.144555" lon="101.680586">
         <name>Carcosa Seri Negara (Kuala Lumpur/Lake Gardens, sleep)</name>
+    </wpt>
+    <wpt lat="50.583668" lon="12.703827">
+        <name>Stadtmuseum (Aue, see)</name>
+    </wpt>
+    <wpt lat="50.582992" lon="12.711109">
+        <name>Zoo der Minis (Aue, listing)</name>
     </wpt>
     <wpt lat="47.76096" lon="11.56102">
         <name>Tourist-Information im Stadtmuseum (Bad Tölz, listing)</name>
@@ -40659,6 +41982,9 @@
     <wpt lat="50.47701" lon="11.15914">
         <name>Tourist-Information im Museum für Glaskunst (Lauscha, listing)</name>
     </wpt>
+    <wpt lat="50.50752" lon="7.30324">
+        <name>Tourist-Information Bad Breisig (Bad Breisig, listing)</name>
+    </wpt>
     <wpt lat="52.2452" lon="8.9054">
         <name>Kaiser Wilhelm Denkmal (Porta Westfalica, listing)</name>
     </wpt>
@@ -41692,7 +43018,7 @@
         <name>Gasthof Hereth "Zum grünen Kranz" (Rotmain-Radweg, sleep)</name>
     </wpt>
     <wpt lat="50 02 14" lon="11 50 16">
-        <name>Waldrasthaus Karches (Weißmain-Radweg, listing)</name>
+        <name>Waldrasthaus Karches (Weißmain-Radweg, eat)</name>
     </wpt>
     <wpt lat="45.99865" lon="8.90577">
         <name>«Migros MMM» Agno I (Agno TI, listing)</name>
@@ -42014,6 +43340,33 @@
     </wpt>
     <wpt lat="34.960556" lon="135.906111">
         <name>Ishiyama-dera (Ōtsu, listing)</name>
+    </wpt>
+    <wpt lat="53.48316" lon="8.48263">
+        <name>Museum Nordenham (Nordenham, see)</name>
+    </wpt>
+    <wpt lat="53.48488" lon="8.43764">
+        <name>Historisches Kaufhaus (Nordenham, see)</name>
+    </wpt>
+    <wpt lat="53.4904" lon="8.4278">
+        <name>Museum Moorseer Mühle (Nordenham, see)</name>
+    </wpt>
+    <wpt lat="53.52379" lon="8.50937">
+        <name>Militärhistorische Sammlung (Alter Flakleitstand) (Nordenham, see)</name>
+    </wpt>
+    <wpt lat="53.47406" lon="8.48173">
+        <name>Weserterrassen (Nordenham, eat)</name>
+    </wpt>
+    <wpt lat="53.4728" lon="8.4816">
+        <name>Campingplatz Nordenham (Nordenham, listing)</name>
+    </wpt>
+    <wpt lat="53.54319" lon="8.57445">
+        <name>Klimahaus Bremerhaven 8°Ost (Nordenham, listing)</name>
+    </wpt>
+    <wpt lat="53.54515" lon="8.57408">
+        <name>Deutsches Auswandererhaus (Nordenham, see)</name>
+    </wpt>
+    <wpt lat="53.53996" lon="8.57793">
+        <name>Deutsches Schiffahrtsmuseum (Nordenham, see)</name>
     </wpt>
     <wpt lat="53.59674" lon="8.35569">
         <name>Museum Nationalparkhaus Fedderwardersiel (Fedderwardersiel, see)</name>
@@ -48102,6 +49455,15 @@
     <wpt lat="50.058815" lon="8.695293">
         <name>Frankfurter Haus (Neu-Isenburg, eat)</name>
     </wpt>
+    <wpt lat="15.29572" lon="-61.38642">
+        <name>Fort Young *** (Roseau, sleep)</name>
+    </wpt>
+    <wpt lat="15.29631" lon="-61.38723">
+        <name>Garraway (Roseau, sleep)</name>
+    </wpt>
+    <wpt lat="15.29955" lon="-61.38786">
+        <name>Jolly´s Pharmacy (Roseau, listing)</name>
+    </wpt>
     <wpt lat="50.88752" lon="10.37067">
         <name>Arnstädter Hof (Ruhla, sleep)</name>
     </wpt>
@@ -48209,9 +49571,6 @@
     </wpt>
     <wpt lat="-46.60430" lon="168.35025">
         <name>Bluff Medical Centre (Bluff (Neuseeland), listing)</name>
-    </wpt>
-    <wpt lat="50.05975" lon="11.63450">
-        <name>Waldlerbad (Himmelkron, listing)</name>
     </wpt>
     <wpt lat="50.05803" lon="11.60696">
         <name>Frankenfarm (Himmelkron, listing)</name>
@@ -55542,6 +56901,33 @@
     <wpt lat="21.029970" lon="105.838737">
         <name>Thailand (Hanoi, listing)</name>
     </wpt>
+    <wpt lat="46.55004" lon="10.50921">
+        <name>naturatrafoi (Nationalpark Stilfser Joch, listing)</name>
+    </wpt>
+    <wpt lat="46.617225" lon="10.590490">
+        <name>aquaprad (Nationalpark Stilfser Joch, listing)</name>
+    </wpt>
+    <wpt lat="46.627542" lon="10.774112">
+        <name>avimundus (Nationalpark Stilfser Joch, listing)</name>
+    </wpt>
+    <wpt lat="46.57124" lon="10.79552">
+        <name>culturamartell (Nationalpark Stilfser Joch, listing)</name>
+    </wpt>
+    <wpt lat="46.490397" lon="10.877888">
+        <name>Lahnersäge (Nationalpark Stilfser Joch, listing)</name>
+    </wpt>
+    <wpt lat="46.467213" lon="10.376063">
+        <name>Info-Punkt Nationalparkt Stilfser Joch (Nationalpark Stilfser Joch, listing)</name>
+    </wpt>
+    <wpt lat="46.3029" lon="10.4996">
+        <name>area faunistica di pezzo (Nationalpark Stilfser Joch, listing)</name>
+    </wpt>
+    <wpt lat="46.350917" lon="10.694405">
+        <name>Besucherzentrum in Peio (Nationalpark Stilfser Joch, listing)</name>
+    </wpt>
+    <wpt lat="46.410972" lon="10.823957">
+        <name>Besucherzentrum in Rabbi (Nationalpark Stilfser Joch, listing)</name>
+    </wpt>
     <wpt lat="54.47725" lon="9.04395">
         <name>Weihnachtshaus (Weihnachten, listing)</name>
     </wpt>
@@ -55659,13 +57045,13 @@
     <wpt lat="50.12492" lon="11.55866">
         <name>Deutsche Post Filiale (Ludwigschorgast, listing)</name>
     </wpt>
-    <wpt lat="41°53'17''N" lon="12°28'54''E">
+    <wpt lat="41.88805" lon="12.48166">
         <name>Santa Maria in Cosmedin (Rom/Aventin, listing)</name>
     </wpt>
-    <wpt lat="41°53'4''N" lon="12°28'47''E">
+    <wpt lat="41.8844" lon="12.4797">
         <name>Santa Sabina (Rom/Aventin, listing)</name>
     </wpt>
-    <wpt lat="41°52'43''N" lon="12°29'8''E">
+    <wpt lat="41.87861" lon="12.48555">
         <name>San Saba (Rom/Aventin, listing)</name>
     </wpt>
     <wpt lat="41.88290" lon="12.47906">
@@ -55796,6 +57182,15 @@
     </wpt>
     <wpt lat="51.525735" lon="12.164126">
         <name>Doppelkapelle und Museum St. Crucis (Landsberg (Saalekreis), listing)</name>
+    </wpt>
+    <wpt lat="51.8640" lon="12.6524">
+        <name>Lutherhaus (Lutherweg Sachsen-Anhalt, listing)</name>
+    </wpt>
+    <wpt lat="51.8647" lon="12.6510">
+        <name>Melanchthonhaus (Lutherweg Sachsen-Anhalt, listing)</name>
+    </wpt>
+    <wpt lat="51.8663" lon="12.6380">
+        <name>Schlosskirche (Lutherweg Sachsen-Anhalt, listing)</name>
     </wpt>
     <wpt lat="47.16103" lon="10.57759">
         <name>Zammer Lochputz (Zams, listing)</name>
@@ -56915,6 +58310,9 @@
     </wpt>
     <wpt lat="54.9711" lon="-2.0979">
         <name>Hexham Tourist Information Centre (Hexham, listing)</name>
+    </wpt>
+    <wpt lat="47.95056" lon="11.78967">
+        <name>Gästehaus Hartl (Aying, sleep)</name>
     </wpt>
     <wpt lat="50.33728" lon="10.38686">
         <name>Brauerei Lang (Saal an der Saale, eat)</name>
@@ -58194,11 +59592,11 @@
     <wpt lat="0.30280 S" lon="78.56754 W">
         <name>Posada Del Maple (Quito/La Mariscal, listing)</name>
     </wpt>
-    <wpt lat="0.20368 S" lon="78.49041 W">
-        <name>DHL (Quito/La Mariscal, listing)</name>
-    </wpt>
     <wpt lat="-0.21291" lon="-78.49273">
         <name>Instituto Geográfico Militar (Quito/La Mariscal, listing)</name>
+    </wpt>
+    <wpt lat="0.20368 S" lon="78.49041 W">
+        <name>DHL (Quito/La Mariscal, listing)</name>
     </wpt>
     <wpt lat="52.13010" lon="10.99156">
         <name>Paläon (Schöningen, listing)</name>
@@ -59322,6 +60720,12 @@
     <wpt lat="49.909309" lon="9.156363">
         <name>Postfiliale (Sulzbach am Main, listing)</name>
     </wpt>
+    <wpt lat="51.84339" lon="12.42197">
+        <name>Wörlitz-Information (Wörlitz, listing)</name>
+    </wpt>
+    <wpt lat="51.84362" lon="12.41797">
+        <name>Sparkasse Wittenberg (Wörlitz, buy)</name>
+    </wpt>
     <wpt lat="51.49741" lon="9.76164">
         <name>Campingplatz Dransfeld (Dransfeld, listing)</name>
     </wpt>
@@ -59502,7 +60906,7 @@
     <wpt lat="51.53071" lon="3.44867">
         <name>Minicamping am Leuchturm (Westkapelle, listing)</name>
     </wpt>
-    <wpt lat="51.51740" lon="3.45743">
+    <wpt lat="51.5181" lon="3.4603">
         <name>Camping t´hoge Licht (Westkapelle, listing)</name>
     </wpt>
     <wpt lat="51.51846" lon="3.45108">
@@ -60327,6 +61731,9 @@
     <wpt lat="51.55442" lon="3.64855">
         <name>Naturzeltplatz 't Veerse Gat (Veere, listing)</name>
     </wpt>
+    <wpt lat="51.54845" lon="3.66916">
+        <name>Huisartsenpraktijk Veere (Veere, listing)</name>
+    </wpt>
     <wpt lat="51.54668" lon="3.66678">
         <name>VVV-Büro (Veere, listing)</name>
     </wpt>
@@ -60409,7 +61816,10 @@
         <name>Spargelmuseum Beelitz (Beelitz, see)</name>
     </wpt>
     <wpt lat="52.21147" lon="12.89876">
-        <name>Josef - Jakobs - Spargelhof (Beelitz, listing)</name>
+        <name>Josef - Jakobs - Spargelhof (Beelitz, buy)</name>
+    </wpt>
+    <wpt lat="52.2964" lon="12.8603">
+        <name>Spargel- und Erlebnishof Klaistow (Beelitz, buy)</name>
     </wpt>
     <wpt lat="52.2321" lon="12.9747">
         <name>Zur Alten Brauerei (Beelitz, eat)</name>
@@ -61943,6 +63353,45 @@
     </wpt>
     <wpt lat="58.43893" lon="11.43213">
         <name>Nordens Ark (Hunnebostrand, listing)</name>
+    </wpt>
+    <wpt lat="46.530338" lon="10.579260">
+        <name>Messner Mountain Museum (Sulden, see)</name>
+    </wpt>
+    <wpt lat="46.53079" lon="10.57987">
+        <name>Yak &amp; Yeti (Sulden, eat)</name>
+    </wpt>
+    <wpt lat="46.52887" lon="10.58582">
+        <name>Hotel Post (Sulden, sleep)</name>
+    </wpt>
+    <wpt lat="46.52690" lon="10.59027">
+        <name>Hotel Cristallo (Sulden, sleep)</name>
+    </wpt>
+    <wpt lat="46.52896" lon="10.58877">
+        <name>Hotel Marlet (Sulden, sleep)</name>
+    </wpt>
+    <wpt lat="46.5255" lon="10.5943">
+        <name>Hotel Zebru (Sulden, sleep)</name>
+    </wpt>
+    <wpt lat="46.5274" lon="10.5817">
+        <name>Hotel Bambi (Sulden, sleep)</name>
+    </wpt>
+    <wpt lat="46.527940" lon="10.583134">
+        <name>Ferienregion Ortlergebiet (Sulden, listing)</name>
+    </wpt>
+    <wpt lat="46.574722" lon="10.538889">
+        <name>Fort Gomagoi (Stilfs, listing)</name>
+    </wpt>
+    <wpt lat="46.530338" lon="10.579260">
+        <name>Messner Mountain Museum (Stilfs, see)</name>
+    </wpt>
+    <wpt lat="46.549417" lon="10.508391">
+        <name>Mariä Heimsuchung (Stilfs, listing)</name>
+    </wpt>
+    <wpt lat="46.530893" lon="10.50581">
+        <name>Unsere Liebe Frau zu den drei Brunnen (Stilfs, listing)</name>
+    </wpt>
+    <wpt lat="46.55004" lon="10.50921">
+        <name>naturatrafoi (Stilfs, see)</name>
     </wpt>
     <wpt lat="50.2098" lon="12.0951">
         <name>Hotel Landgasthof Ploss (Bundesautobahn 93, sleep)</name>
@@ -64273,7 +65722,7 @@
         <name>Campingplatz Brillteich (Seesen, listing)</name>
     </wpt>
     <wpt lat="51.89600" lon="10.19187">
-        <name>Hotel Görtler*** (Seesen, listing)</name>
+        <name>Hotel Görtler*** (Seesen, sleep)</name>
     </wpt>
     <wpt lat="51.89033" lon="10.17473">
         <name>Tourist-Information Seesen (Seesen, listing)</name>
@@ -84341,5 +85790,305 @@
     </wpt>
     <wpt lat="53.064548" lon="14.286051">
         <name>Jüdischer Friedhof (Schwedt, listing)</name>
+    </wpt>
+    <wpt lat="34.01414" lon="-86.00515">
+        <name>Gadsden Museum of Art (Gadsden, see)</name>
+    </wpt>
+    <wpt lat="33.99544" lon="-86.00813">
+        <name>Premiere Cinema 16 (Gadsden, do)</name>
+    </wpt>
+    <wpt lat="33.99535" lon="-86.00740">
+        <name>Gadsden Mall (Gadsden, buy)</name>
+    </wpt>
+    <wpt lat="33.9913" lon="-86.0009">
+        <name>River Country Campground (Gadsden, listing)</name>
+    </wpt>
+    <wpt lat="33.99885" lon="-86.09286">
+        <name>Best Western (Gadsden, sleep)</name>
+    </wpt>
+    <wpt lat="33.99866" lon="-86.09103">
+        <name>Comfort Suites (Gadsden, sleep)</name>
+    </wpt>
+    <wpt lat="33.99888" lon="-86.08837">
+        <name>Fairfield Inn &amp; Suites (Gadsden, sleep)</name>
+    </wpt>
+    <wpt lat="34.0126" lon="-85.9983">
+        <name>Gadsden Inn &amp; Suites (Gadsden, sleep)</name>
+    </wpt>
+    <wpt lat="33.99637" lon="-86.00348">
+        <name>Hampton Inn (Gadsden, sleep)</name>
+    </wpt>
+    <wpt lat="33.99866" lon="-86.09196">
+        <name>Hampton Inn (Gadsden, sleep)</name>
+    </wpt>
+    <wpt lat="33.99877" lon="-86.09048">
+        <name>Holiday Inn Express &amp; Suites (Gadsden, sleep)</name>
+    </wpt>
+    <wpt lat="33.9817" lon="-86.0047">
+        <name>Motel 6 (Gadsden, sleep)</name>
+    </wpt>
+    <wpt lat="33.97267" lon="-86.01726">
+        <name>Super 8 (Gadsden, sleep)</name>
+    </wpt>
+    <wpt lat="34.0079" lon="-85.9658">
+        <name>Gadsden Regional Medical Center (Gadsden, listing)</name>
+    </wpt>
+    <wpt lat="34.00483" lon="-86.00359">
+        <name>Riverview Regional Medical Center (Gadsden, listing)</name>
+    </wpt>
+    <wpt lat="34.01357" lon="-86.00911">
+        <name>USPS Post Office (Gadsden, listing)</name>
+    </wpt>
+    <wpt lat="34.02093" lon="-86.04361">
+        <name>USPS Post Office (Gadsden, listing)</name>
+    </wpt>
+    <wpt lat="33.99874" lon="-85.96564">
+        <name>USPS Post Office (Gadsden, listing)</name>
+    </wpt>
+    <wpt lat="46.617044" lon="10.698806">
+        <name>St. Johannes (Laas (Südtirol), listing)</name>
+    </wpt>
+    <wpt lat="46.616334" lon="10.717324">
+        <name>Maria Lourdes (Laas (Südtirol), listing)</name>
+    </wpt>
+    <wpt lat="46.623414" lon="10.693047">
+        <name>St. Sisinus (Laas (Südtirol), listing)</name>
+    </wpt>
+    <wpt lat="46.62715" lon="10.71683">
+        <name>Hochseilgarten im Allitzer Wald (Laas (Südtirol), listing)</name>
+    </wpt>
+    <wpt lat="46.6159" lon="10.6987">
+        <name>Camping Badlerhof (Laas (Südtirol), listing)</name>
+    </wpt>
+    <wpt lat="46.6146" lon="10.7032">
+        <name>Ausserloretzhof (Laas (Südtirol), listing)</name>
+    </wpt>
+    <wpt lat="46.6130" lon="10.7003">
+        <name>Brunnentalhof (Laas (Südtirol), listing)</name>
+    </wpt>
+    <wpt lat="46.616533" lon="10.700660">
+        <name>Gasthaus zur Sonne (Laas (Südtirol), listing)</name>
+    </wpt>
+    <wpt lat="52.754722" lon="13.236667">
+        <name>Schloss Oranienburg (Oranienburg, listing)</name>
+    </wpt>
+    <wpt lat="52.765833" lon="13.264167">
+        <name>Gedenkstätte Sachsenhausen (Oranienburg, listing)</name>
+    </wpt>
+    <wpt lat="48.83839" lon="-1.22462">
+        <name>Cornille-Havard (Villedieu-les-Poêles, see)</name>
+    </wpt>
+    <wpt lat="48.84103" lon="-1.22075">
+        <name>Atelier du Cuivre (Villedieu-les-Poêles, see)</name>
+    </wpt>
+    <wpt lat="48.84071" lon="-1.22161">
+        <name>Musée de la Poëslerie/Maison de la Dentellière (Villedieu-les-Poêles, see)</name>
+    </wpt>
+    <wpt lat="48.83911" lon="-1.22375">
+        <name>Musée de Meuble Normand (Villedieu-les-Poêles, see)</name>
+    </wpt>
+    <wpt lat="48.84162" lon="-1.22512">
+        <name>Centre Aquatique Villedieu Intercom (Villedieu-les-Poêles, listing)</name>
+    </wpt>
+    <wpt lat="48.83676" lon="-1.21793">
+        <name>Villedieu Cinéma (Villedieu-les-Poêles, do)</name>
+    </wpt>
+    <wpt lat="48.83601" lon="-1.21697">
+        <name>Camping les Chevaliers de Malte (Villedieu-les-Poêles, listing)</name>
+    </wpt>
+    <wpt lat="48.83721" lon="-1.21482">
+        <name>Domaine des Chevaliers de Malte (Villedieu-les-Poêles, sleep)</name>
+    </wpt>
+    <wpt lat="48.83748" lon="-1.22176">
+        <name>Hôtel Restaurant Le Fruitier (Villedieu-les-Poêles, sleep)</name>
+    </wpt>
+    <wpt lat="48.83853" lon="-1.22168">
+        <name>Hôtel Saint-Pierre (Villedieu-les-Poêles, sleep)</name>
+    </wpt>
+    <wpt lat="48.84250" lon="-1.22237">
+        <name>Hôpital Local (Villedieu-les-Poêles, listing)</name>
+    </wpt>
+    <wpt lat="48.83717" lon="-1.22080">
+        <name>Office de Tourisme Vitrine des Métiers d'Art (Villedieu-les-Poêles, listing)</name>
+    </wpt>
+    <wpt lat="48.83703" lon="-1.21981">
+        <name>La Poste (Villedieu-les-Poêles, listing)</name>
+    </wpt>
+    <wpt lat="48.83383" lon="-1.32571">
+        <name>Parc zoologique de Champrépus (Villedieu-les-Poêles, listing)</name>
+    </wpt>
+    <wpt lat="46.82771" lon="17.62995">
+        <name>Hullam Hostel (Révfülöp, listing)</name>
+    </wpt>
+    <wpt lat="43.520731" lon="13.251889">
+        <name>Bahnhof (Jesi, listing)</name>
+    </wpt>
+    <wpt lat="43.522173" lon="13.243616">
+        <name>Piazza del Popolo (Jesi, listing)</name>
+    </wpt>
+    <wpt lat="43.524335" lon="13.245379">
+        <name>Piazza Federico II (Jesi, listing)</name>
+    </wpt>
+    <wpt lat="43.524749" lon="13.245991">
+        <name>Dom (Jesi, listing)</name>
+    </wpt>
+    <wpt lat="43.521535" lon="13.242674">
+        <name>Pinacotea Civica (Jesi, see)</name>
+    </wpt>
+    <wpt lat="52.37991" lon="12.94544">
+        <name>Reederei Bernd Kuhl (Werder (Havel), listing)</name>
+    </wpt>
+    <wpt lat="52.4119" lon="12.9096">
+        <name>Hausbootvermietung Werder (Werder (Havel), listing)</name>
+    </wpt>
+    <wpt lat="52.4137" lon="12.9105">
+        <name>Fischer Berner (Werder (Havel), buy)</name>
+    </wpt>
+    <wpt lat="52.3470" lon="12.9454">
+        <name>Hofladen am Sanddorn-Garten (Werder (Havel), buy)</name>
+    </wpt>
+    <wpt lat="52.3687" lon="12.9344">
+        <name>Straußwirtschaft „Weintiene“ (Werder (Havel), listing)</name>
+    </wpt>
+    <wpt lat="52.37790" lon="12.94583">
+        <name>Fischrestaurant Arielle (Werder (Havel), eat)</name>
+    </wpt>
+    <wpt lat="52.38954" lon="12.93259">
+        <name>Restaurant Havelbucht (Werder (Havel), eat)</name>
+    </wpt>
+    <wpt lat="52.34754" lon="12.94395">
+        <name>Restaurant Orangerie (Werder (Havel), eat)</name>
+    </wpt>
+    <wpt lat="52.37677" lon="12.93600">
+        <name>MANGO Café - Restaurant - Bar (Werder (Havel), drink)</name>
+    </wpt>
+    <wpt lat="52.37910" lon="12.94253">
+        <name>Hotel Zur Insel (Werder (Havel), sleep)</name>
+    </wpt>
+    <wpt lat="52.37939" lon="12.94237">
+        <name>Hotel am Markt (Werder (Havel), sleep)</name>
+    </wpt>
+    <wpt lat="52.3713" lon="12.8973">
+        <name>Apfelhotel (Werder (Havel), sleep)</name>
+    </wpt>
+    <wpt lat="52.43472" lon="12.89960">
+        <name>Landgasthaus Mühlenberg (Werder (Havel), sleep)</name>
+    </wpt>
+    <wpt lat="52.3601" lon="12.9449">
+        <name>Blütencamping Riegelspitze (Werder (Havel), listing)</name>
+    </wpt>
+    <wpt lat="52.3602" lon="12.9170">
+        <name>Campingplatz Glindowsee (Werder (Havel), listing)</name>
+    </wpt>
+    <wpt lat="46.2249301" lon="14.60927">
+        <name>Kamnik-Mesto (Kamnik, listing)</name>
+    </wpt>
+    <wpt lat="46.2255272" lon="14.6136564">
+        <name>avtobusna postaja Kamnik (Kamnik, listing)</name>
+    </wpt>
+    <wpt lat="46.2248145" lon="14.6123192">
+        <name>Mali grad (Kamnik, listing)</name>
+    </wpt>
+    <wpt lat="46.223991" lon="14.6167272">
+        <name>Stari grad (Kamnik, listing)</name>
+    </wpt>
+    <wpt lat="46.2233069" lon="14.6056249">
+        <name>Medobčinski muzej Kamnik (Kamnik, see)</name>
+    </wpt>
+    <wpt lat="46.2255106" lon="14.6119994">
+        <name>Galerija Miha Maleš (Kamnik, see)</name>
+    </wpt>
+    <wpt lat="46.185113" lon="14.6064408">
+        <name>Volčji potok arboretum (Kamnik, do)</name>
+    </wpt>
+    <wpt lat="46.6147" lon="10.5954">
+        <name>St. Johann (Prad am Stilfserjoch, listing)</name>
+    </wpt>
+    <wpt lat="46.61787" lon="10.58908">
+        <name>Pfarrkirche Maria Königin (Prad am Stilfserjoch, listing)</name>
+    </wpt>
+    <wpt lat="46.617225" lon="10.590490">
+        <name>aquaprad (Prad am Stilfserjoch, listing)</name>
+    </wpt>
+    <wpt lat="46.6227" lon="10.5799">
+        <name>St. Georg (Prad am Stilfserjoch, listing)</name>
+    </wpt>
+    <wpt lat="46.6322" lon="10.5702">
+        <name>St. Christina (Prad am Stilfserjoch, listing)</name>
+    </wpt>
+    <wpt lat="46.6339" lon="10.5647">
+        <name>Burgruine Lichtenberg (Prad am Stilfserjoch, listing)</name>
+    </wpt>
+    <wpt lat="46.633363" lon="10.608817">
+        <name>Fischerteich Prad (Prad am Stilfserjoch, listing)</name>
+    </wpt>
+    <wpt lat="46.637515" lon="10.566517">
+        <name>Golfclub Vinschgau (Prad am Stilfserjoch, listing)</name>
+    </wpt>
+    <wpt lat="46.625054" lon="10.593185">
+        <name>Camping Kiefernhain (Prad am Stilfserjoch, listing)</name>
+    </wpt>
+    <wpt lat="46.61725" lon="10.59589">
+        <name>Camping Residence Sägemühle (Prad am Stilfserjoch, listing)</name>
+    </wpt>
+    <wpt lat="46.623162" lon="10.590081">
+        <name>Gardenparkhotel (Prad am Stilfserjoch, sleep)</name>
+    </wpt>
+    <wpt lat="46.61585" lon="10.59387">
+        <name>Residence Sankt Johann (Prad am Stilfserjoch, sleep)</name>
+    </wpt>
+    <wpt lat="46.619908" lon="10.585182">
+        <name>Gasthof St. Georg (Prad am Stilfserjoch, sleep)</name>
+    </wpt>
+    <wpt lat="46.61676" lon="10.59013">
+        <name>Hotel Zentral (Prad am Stilfserjoch, sleep)</name>
+    </wpt>
+    <wpt lat="46.619715" lon="10.595364">
+        <name>Residence Gustav Thöni (Prad am Stilfserjoch, sleep)</name>
+    </wpt>
+    <wpt lat="32.40777" lon="-87.01544">
+        <name>Ancient Africa Enslavement &amp; Civil War Museum (Selma (Alabama), see)</name>
+    </wpt>
+    <wpt lat="32.40869" lon="-87.01377">
+        <name>Old Depot Museum (Selma (Alabama), see)</name>
+    </wpt>
+    <wpt lat="32.40546" lon="-87.01854">
+        <name>Edmund Pettus Bridge (Selma (Alabama), listing)</name>
+    </wpt>
+    <wpt lat="32.43296" lon="-87.01665">
+        <name>Selma Mall (Selma (Alabama), buy)</name>
+    </wpt>
+    <wpt lat="32.43175" lon="-87.00962">
+        <name>Comfort Inn (Selma (Alabama), sleep)</name>
+    </wpt>
+    <wpt lat="32.43299" lon="-87.05797">
+        <name>Hampton Inn (Selma (Alabama), sleep)</name>
+    </wpt>
+    <wpt lat="32.43240" lon="-87.05752">
+        <name>Holiday Inn Express &amp; Suites (Selma (Alabama), sleep)</name>
+    </wpt>
+    <wpt lat="32.43106" lon="-87.02247">
+        <name>Luxury Inn &amp; Suites (Selma (Alabama), sleep)</name>
+    </wpt>
+    <wpt lat="32.43361" lon="-87.02375">
+        <name>Qualtiy Inn (Selma (Alabama), sleep)</name>
+    </wpt>
+    <wpt lat="32.42955" lon="-87.05586">
+        <name>Vaughan Regional Medical Center (Selma (Alabama), listing)</name>
+    </wpt>
+    <wpt lat="32.40933" lon="-87.01728">
+        <name>USPS Post Office (Selma (Alabama), listing)</name>
+    </wpt>
+    <wpt lat="57.65127" lon="-3.59157">
+        <name>Findhorn Foundation (Findhorn, see)</name>
+    </wpt>
+    <wpt lat="57.659321" lon="-3.610167">
+        <name>Findhorn Village Stores (Findhorn, buy)</name>
+    </wpt>
+    <wpt lat="57.651734" lon="-3.591700">
+        <name>The Phoenix Shop (Findhorn, buy)</name>
+    </wpt>
+    <wpt lat="57.6513" lon="-3.5905">
+        <name>Findhorn Bay Holiday Park (Findhorn, listing)</name>
     </wpt>
 </gpx>

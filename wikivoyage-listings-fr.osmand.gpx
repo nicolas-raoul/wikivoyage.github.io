@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created from 20160820 Wikivoyage data--><gpx xmlns="http://www.topografix.com/GPX/1/1" creator="wikivoyage-pois-converter" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<!--Created from 20160901 Wikivoyage data--><gpx xmlns="http://www.topografix.com/GPX/1/1" creator="wikivoyage-pois-converter" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
     <wpt lat="57.048236" lon="9.920728">
         <name>Ancien hôtel de ville (Aalborg, see)</name>
     </wpt>
@@ -51,11 +51,11 @@
     <wpt lat="5.322238" lon="-4.013646">
         <name>Pullman Abidjan (Abidjan, sleep)</name>
     </wpt>
-    <wpt lat="48.243" lon="-79.029">
-        <name>Rouyn-Noranda (Abitibi-Témiscamingue, listing)</name>
-    </wpt>
     <wpt lat="47.5933" lon="-79.4851">
         <name>Notre-Dame-du-Nord (Abitibi-Témiscamingue, listing)</name>
+    </wpt>
+    <wpt lat="48.243" lon="-79.029">
+        <name>Rouyn-Noranda (Abitibi-Témiscamingue, listing)</name>
     </wpt>
     <wpt lat="42.35" lon="13.4">
         <name>L'Aquila (Abruzzes, listing)</name>
@@ -239,9 +239,6 @@
     </wpt>
     <wpt lat="49.900833" lon="3.628333">
         <name>Guise (Aisne, listing)</name>
-    </wpt>
-    <wpt lat="49.7416" lon="4.1605">
-        <name>Parfondeval (Aisne, listing)</name>
     </wpt>
     <wpt lat="49.441357" lon="3.732088">
         <name>Chemin des Dames (Aisne, listing)</name>
@@ -7404,6 +7401,9 @@
     <wpt lat="50.05169" lon="19.94494">
         <name>Place Nowy (Cracovie, eat)</name>
     </wpt>
+    <wpt lat="50/04/N" lon="19/57/E">
+        <name>France (Cracovie, listing)</name>
+    </wpt>
     <wpt lat="46.1714" lon="1.869">
         <name>Guéret (Creuse, listing)</name>
     </wpt>
@@ -8282,6 +8282,9 @@
     </wpt>
     <wpt lat="32.75081" lon="51.86167">
         <name>Aéroport international Shahid Beheshti (Ispahan, listing)</name>
+    </wpt>
+    <wpt lat="32.657901" lon="51.678563">
+        <name>Café Spadana (Ispahan, drink)</name>
     </wpt>
     <wpt lat="40.41506" lon="-3.70445">
         <name>Madrid (Espagne, listing)</name>
@@ -12855,6 +12858,12 @@
     <wpt lat="-7.6481" lon="112.7811">
         <name>Parc national de Bromo-Tengger-Semeru (Java, listing)</name>
     </wpt>
+    <wpt lat="33.5129" lon="126.5232">
+        <name>Ville de Jeju (Jeju, listing)</name>
+    </wpt>
+    <wpt lat="34.720556" lon="127.310833">
+        <name>Île de Udo (Jeju, listing)</name>
+    </wpt>
     <wpt lat="39.836699" lon="45.668183">
         <name>Jermuk waterfall (Djermouk, see)</name>
     </wpt>
@@ -14143,7 +14152,7 @@
         <name>Musée de la brasserie de saké de Hakutsuru (Kobe, see)</name>
     </wpt>
     <wpt lat="34.7096" lon="135.2728">
-        <name>Brasserie et magasin Hamafukutsuru-ginjo (Kobe, see)</name>
+        <name>Brasserie et magasin Hamafukutsuru-ginjō (Kobe, see)</name>
     </wpt>
     <wpt lat="34.7099" lon="135.2581">
         <name>Compagnie Kiku-Masamune de brasserie de saké (Kobe, see)</name>
@@ -18195,6 +18204,18 @@
     <wpt lat="24.8515" lon="79.9251">
         <name>Kajuraho (Madhya Pradesh, listing)</name>
     </wpt>
+    <wpt lat="9.91958" lon="78.11884">
+        <name>Temple de Meenakshi (Madurai, see)</name>
+    </wpt>
+    <wpt lat="9.91482" lon="78.12412">
+        <name>Palais de Thirumalai Nayak (Madurai, see)</name>
+    </wpt>
+    <wpt lat="9.9104" lon="78.1479">
+        <name>Bassin et Temple de Vandiyur Mariamman (Madurai, see)</name>
+    </wpt>
+    <wpt lat="9.92994" lon="78.13857">
+        <name>Palais Tamukkam (Madurai, see)</name>
+    </wpt>
     <wpt lat="36.3837" lon="139.0735">
         <name>Gare de Maebashi (Maebashi, listing)</name>
     </wpt>
@@ -19235,6 +19256,9 @@
     </wpt>
     <wpt lat="49.11506" lon="6.16934">
         <name>Église abbatiale Saint-Pierre-aux-Nonnains (Metz, see)</name>
+    </wpt>
+    <wpt lat="48.4486" lon="6.738">
+        <name>Baccarat (Meurthe-et-Moselle, listing)</name>
     </wpt>
     <wpt lat="48.694" lon="6.185">
         <name>Nancy (Meurthe-et-Moselle, listing)</name>
@@ -20529,6 +20553,9 @@
     <wpt lat="47.736" lon="7.29085">
         <name>TablaPizza (Mulhouse, eat)</name>
     </wpt>
+    <wpt lat="47.73595" lon="7.29">
+        <name>Hippopotamus Mulhouse Dornach (Mulhouse, eat)</name>
+    </wpt>
     <wpt lat="47.7463" lon="7.3336">
         <name>Le Greffier (Mulhouse, drink)</name>
     </wpt>
@@ -21627,8 +21654,20 @@
     <wpt lat="28.916667" lon="80.333333">
         <name>Bhimdatta (Népal, listing)</name>
     </wpt>
+    <wpt lat="27.472" lon="84.364">
+        <name>Parc national de Chitwan (Népal, listing)</name>
+    </wpt>
     <wpt lat="27.71838" lon="85.519015">
         <name>Nagarkot (Népal, listing)</name>
+    </wpt>
+    <wpt lat="27.46888" lon="83.276111">
+        <name>Lumbini (Népal, listing)</name>
+    </wpt>
+    <wpt lat="27.72155" lon="85.36194">
+        <name>Bodnath (Népal, listing)</name>
+    </wpt>
+    <wpt lat="27.71497" lon="85.29048">
+        <name>Swayambunath (Népal, listing)</name>
     </wpt>
     <wpt lat="12.110898" lon="15.035986">
         <name>Musée national du Tchad (Ndjamena, see)</name>
@@ -23388,6 +23427,9 @@
     <wpt lat="35.073444" lon="135.864972">
         <name>Hiyoshi Taisha (Ōtsu, see)</name>
     </wpt>
+    <wpt lat="35.096944" lon="135.894722">
+        <name>Ogoto onsen (Ōtsu, sleep)</name>
+    </wpt>
     <wpt lat="45.32261" lon="-75.66782">
         <name>Aéroport international Macdonald-Cartier d'Ottawa (Ottawa, listing)</name>
     </wpt>
@@ -23805,8 +23847,11 @@
     <wpt lat="43.881125" lon="-102.238365">
         <name>Parc national des Badlands (Parcs nationaux des États-Unis, listing)</name>
     </wpt>
+    <wpt lat="38.555077" lon="-107.686654">
+        <name>Parc national de Black Canyon of the Gunnison (Parcs nationaux des États-Unis, listing)</name>
+    </wpt>
     <wpt lat="37.642" lon="-112.157">
-        <name>Parc national Bryce Canyon (Parcs nationaux des États-Unis, listing)</name>
+        <name>Parc national de Bryce Canyon (Parcs nationaux des États-Unis, listing)</name>
     </wpt>
     <wpt lat="38.219" lon="-109.851">
         <name>Parc national de Canyonlands (Parcs nationaux des États-Unis, listing)</name>
@@ -24752,6 +24797,30 @@
     </wpt>
     <wpt lat="-7.156944" lon="-78.5175">
         <name>Cajamarca (Pérou, listing)</name>
+    </wpt>
+    <wpt lat="-6.7704" lon="-79.8419">
+        <name>Chiclayo (Pérou, listing)</name>
+    </wpt>
+    <wpt lat="-13.5219" lon="-71.9766">
+        <name>Cuzco (Pérou, listing)</name>
+    </wpt>
+    <wpt lat="-12.0785" lon="-75.1976">
+        <name>Huancayo (Pérou, listing)</name>
+    </wpt>
+    <wpt lat="-3.7447" lon="-73.2405">
+        <name>Iquitos (Pérou, listing)</name>
+    </wpt>
+    <wpt lat="-15.8378" lon="-70.0232">
+        <name>Puno (Pérou, listing)</name>
+    </wpt>
+    <wpt lat="-6.48809" lon="-76.36028">
+        <name>Tarapoto (Pérou, listing)</name>
+    </wpt>
+    <wpt lat="-8.1124" lon="-79.0280">
+        <name>Trujillo (Pérou, listing)</name>
+    </wpt>
+    <wpt lat="-13.1661" lon="-72.5439">
+        <name>Machu Picchu (Pérou, listing)</name>
     </wpt>
     <wpt lat="45.9036" lon="5.1787">
         <name>Église-forteresse (Pérouges, see)</name>
@@ -33414,6 +33483,9 @@
     <wpt lat="46.45823" lon="6.84611">
         <name>Alimentarium (Vevey, see)</name>
     </wpt>
+    <wpt lat="46.46456" lon="6.84476">
+        <name>Le-Nest (Vevey, see)</name>
+    </wpt>
     <wpt lat="46.45954" lon="6.84229">
         <name>Le Marché (Vevey, do)</name>
     </wpt>
@@ -34580,6 +34652,9 @@
     </wpt>
     <wpt lat="35.41694" lon="139.6589">
         <name>Jardin Sankei-en (Yokohama, see)</name>
+    </wpt>
+    <wpt lat="35.446682" lon="139.651252">
+        <name>Yamate (Yokohama, see)</name>
     </wpt>
     <wpt lat="35.4458" lon="139.64975">
         <name>Parc Yamashita (Yokohama, see)</name>
@@ -41576,6 +41651,9 @@
     </wpt>
     <wpt lat="33.263" lon="131.356">
         <name>Yufuin (Beppu, listing)</name>
+    </wpt>
+    <wpt lat="68.439" lon="17.422">
+        <name>Narvik (Îles Lofoten, listing)</name>
     </wpt>
     <wpt lat="46.726889" lon="-72.762528">
         <name>Entrée Saint-Jean-des-Piles (Parc national de la Mauricie, listing)</name>
@@ -62409,6 +62487,42 @@
     <wpt lat="62.120" lon="28.312">
         <name>Holiday Centre Järvisydän (Savonlinna, sleep)</name>
     </wpt>
+    <wpt lat="48.95225" lon="7.93939">
+        <name>Office de tourisme de Hunspach (Hunspach, listing)</name>
+    </wpt>
+    <wpt lat="48.96404" lon="7.92106">
+        <name>Ma petite ferme d'antan (Hunspach, see)</name>
+    </wpt>
+    <wpt lat="48.9534" lon="7.9419">
+        <name>Boutique Kelsch'idées (Hunspach, see)</name>
+    </wpt>
+    <wpt lat="48.9530" lon="7.9408">
+        <name>Peintures d'Albert Niess (Hunspach, see)</name>
+    </wpt>
+    <wpt lat="48.9658" lon="7.9125">
+        <name>Le Fort de Schonenbourg LIGNE MAGINOT (Hunspach, see)</name>
+    </wpt>
+    <wpt lat="48.95330" lon="7.93944">
+        <name>Boulangerie-Pâtisserie Fischer &amp; Fils (Hunspach, buy)</name>
+    </wpt>
+    <wpt lat="48.95436" lon="7.94319">
+        <name>Restaurant Au Cerf (Hunspach, eat)</name>
+    </wpt>
+    <wpt lat="48.96365" lon="7.90576">
+        <name>Restaurant Chez Massimo (Hunspach, eat)</name>
+    </wpt>
+    <wpt lat="48.95219" lon="7.93956">
+        <name>Maison des Gîtes Ungerer à l'Office du tourisme (Hunspach, listing)</name>
+    </wpt>
+    <wpt lat="48.95398" lon="7.94213">
+        <name>Gîte et chambres d'hôtes Sabine Billmann (Hunspach, sleep)</name>
+    </wpt>
+    <wpt lat="48.9531" lon="7.9396">
+        <name>Gîte Lehmann Marliese (Hunspach, sleep)</name>
+    </wpt>
+    <wpt lat="48.95789" lon="7.93889">
+        <name>Meublé Derrendinger Evelyne (Hunspach, sleep)</name>
+    </wpt>
     <wpt lat="14.02028" lon="-60.99485">
         <name>Aéroport George F. L. Charles (Castries, listing)</name>
     </wpt>
@@ -72664,7 +72778,7 @@
         <name>Lima (Côte centrale (Pérou), listing)</name>
     </wpt>
     <wpt lat="-9.929" lon="-76.239">
-        <name>Huánuco (Sierra centrale, listing)</name>
+        <name>Huánuco (Sierra Centrale, listing)</name>
     </wpt>
     <wpt lat="-16.5003" lon="-68.1340">
         <name>La Paz (Altiplano (Bolivie), listing)</name>
@@ -76885,7 +76999,7 @@
         <name>Carrefour Saint-Georges (Saint-Georges (Québec), buy)</name>
     </wpt>
     <wpt lat="46.0961486" lon="-70.6443594">
-        <name>Accomodation 7-23 (Saint-Georges (Québec), eat)</name>
+        <name>Accommodation 7-23 (Saint-Georges (Québec), eat)</name>
     </wpt>
     <wpt lat="46.1302912" lon="-70.6912233">
         <name>Becco Pizza (Saint-Georges (Québec), eat)</name>
@@ -85944,14 +86058,23 @@
     <wpt lat="39.0317535" lon="-108.6307064">
         <name>Devil's Kitchen Trail (Monument national du Colorado, do)</name>
     </wpt>
+    <wpt lat="39.1008328" lon="-108.7344433">
+        <name>Centre d'informations Saddlehorn (Monument national du Colorado, buy)</name>
+    </wpt>
     <wpt lat="39.1043363" lon="-108.7287662">
-        <name>Book Cliffs Picnic Site (Monument national du Colorado, eat)</name>
+        <name>Book Cliffs Picnic Area (Monument national du Colorado, eat)</name>
     </wpt>
     <wpt lat="39.0328614" lon="-108.6338899">
-        <name>Devil's Kitchen Picnic Site (Monument national du Colorado, eat)</name>
+        <name>Devil's Kitchen Picnic Area (Monument national du Colorado, eat)</name>
     </wpt>
     <wpt lat="39.1044679" lon="-108.732874">
         <name>Saddlehorn Campground (Monument national du Colorado, sleep)</name>
+    </wpt>
+    <wpt lat="38.555013" lon="-107.686691">
+        <name>Parc national de Black Canyon of the Gunnison (Monument national du Colorado, listing)</name>
+    </wpt>
+    <wpt lat="40.243638" lon="-108.972738">
+        <name>Monument national de Dinosaur (Monument national du Colorado, listing)</name>
     </wpt>
     <wpt lat="44.66094" lon="6.64942">
         <name>Mairie (Guillestre, listing)</name>
@@ -86085,11 +86208,38 @@
     <wpt lat="38.917" lon="139.833">
         <name>Sakata (Tsuruoka, listing)</name>
     </wpt>
+    <wpt lat="42.7323" lon="143.2143">
+        <name>Aéroport de Tokachi Obihiro (Obihiro, listing)</name>
+    </wpt>
+    <wpt lat="42.9180" lon="143.2020">
+        <name>Gare JR d'Obihiro (Obihiro, listing)</name>
+    </wpt>
     <wpt lat="42.9227" lon="143.1822">
         <name>Hippodrome d'Obihiro (Obihiro, see)</name>
     </wpt>
     <wpt lat="42.9057" lon="143.1868">
         <name>Parc Midorigaoka (Obihiro, see)</name>
+    </wpt>
+    <wpt lat="42.904583" lon="143.185528">
+        <name>Musée d'art de Hokkaidō Obihiro (Obihiro, see)</name>
+    </wpt>
+    <wpt lat="42.906944" lon="143.186389">
+        <name>Mémorial du centenaire d'Obihiro (Obihiro, see)</name>
+    </wpt>
+    <wpt lat="42.902083" lon="143.184639">
+        <name>Zoo d'Obihiro (Obihiro, see)</name>
+    </wpt>
+    <wpt lat="42.9191" lon="143.1981">
+        <name>Hall culturel d'Obihiro (Obihiro, see)</name>
+    </wpt>
+    <wpt lat="42.70054" lon="143.02182">
+        <name>Terrains de camping du parc naturel de Poroshiri (Obihiro, sleep)</name>
+    </wpt>
+    <wpt lat="42.95429" lon="143.26026">
+        <name>Auberge de jeunesse de Toipirka (Obihiro, sleep)</name>
+    </wpt>
+    <wpt lat="42.91649" lon="143.20207">
+        <name>Bibliothèque municipale d'Obihiro (Obihiro, listing)</name>
     </wpt>
     <wpt lat="44.67232" lon="6.62657">
         <name>Parking (Mont-Dauphin, listing)</name>
@@ -86111,5 +86261,32 @@
     </wpt>
     <wpt lat="44.66876" lon="6.62377">
         <name>Cabine téléphonique (Mont-Dauphin, listing)</name>
+    </wpt>
+    <wpt lat="27.710" lon="85.322">
+        <name>Katmandou (Vallée de Katmandou, listing)</name>
+    </wpt>
+    <wpt lat="27.6716" lon="85.4288">
+        <name>Bhaktapur (Vallée de Katmandou, listing)</name>
+    </wpt>
+    <wpt lat="27.6730" lon="85.3243">
+        <name>Patan (Vallée de Katmandou, listing)</name>
+    </wpt>
+    <wpt lat="27.72155" lon="85.36194">
+        <name>Bodnath (Vallée de Katmandou, listing)</name>
+    </wpt>
+    <wpt lat="27.71497" lon="85.29048">
+        <name>Swayambunath (Vallée de Katmandou, listing)</name>
+    </wpt>
+    <wpt lat="39.100831" lon="-108.734681">
+        <name>Monument national du Colorado (Parc national de Black Canyon of the Gunnison, listing)</name>
+    </wpt>
+    <wpt lat="37.0867" lon="136.918">
+        <name>Wakura Onsen (Péninsule de Noto, listing)</name>
+    </wpt>
+    <wpt lat="37.293333" lon="136.962222">
+        <name>Aéroport de Noto (Péninsule de Noto, listing)</name>
+    </wpt>
+    <wpt lat="48.150005" lon="-69.716672">
+        <name>Tadoussac (Parc national du Fjord-du-Saguenay, listing)</name>
     </wpt>
 </gpx>
