@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--Created from 20160901 Wikivoyage data--><gpx xmlns="http://www.topografix.com/GPX/1/1" creator="wikivoyage-pois-converter" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<!--Created from 20161020 Wikivoyage data--><gpx xmlns="http://www.topografix.com/GPX/1/1" creator="wikivoyage-pois-converter" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
     <wpt lat="50.77503" lon="6.08280">
         <name>Dom (Aachen, listing)</name>
     </wpt>
@@ -1050,6 +1050,12 @@
     <wpt lat="52.35507" lon="4.89024">
         <name>Albert Cuyp Markt (Amsterdam, listing)</name>
     </wpt>
+    <wpt lat="52.376020" lon="4.899128">
+        <name>Het Karbeel (Amsterdam, listing)</name>
+    </wpt>
+    <wpt lat="52.369252" lon="4.888750">
+        <name>Kantjil &amp; De Tijger (Amsterdam, listing)</name>
+    </wpt>
     <wpt lat="52.36899" lon="4.89734">
         <name>Stayokay Amsterdam Stadsdoelen (Amsterdam, listing)</name>
     </wpt>
@@ -2079,6 +2085,18 @@
     <wpt lat="43.94926" lon="4.80788">
         <name>Collégiale Saint-Pierre (Avignon, listing)</name>
     </wpt>
+    <wpt lat="43.94694" lon="4.80342">
+        <name>Musée Calvet (Avignon, see)</name>
+    </wpt>
+    <wpt lat="43.94470" lon="4.80432">
+        <name>Collection Lambert (Avignon, see)</name>
+    </wpt>
+    <wpt lat="43.94606" lon="4.80695">
+        <name>Musée Angladon (Avignon, see)</name>
+    </wpt>
+    <wpt lat="43.94729" lon="4.80065">
+        <name>Musée Vouland (Avignon, see)</name>
+    </wpt>
     <wpt lat="43.94505" lon="4.80575">
         <name>Office de Tourisme d'Avignon (Avignon, listing)</name>
     </wpt>
@@ -2096,6 +2114,12 @@
     </wpt>
     <wpt lat="14.351667" lon="100.572222">
         <name>Luang Chumni Village (Ayutthaya, sleep)</name>
+    </wpt>
+    <wpt lat="36.7133" lon="3.1993">
+        <name>Centre Commercial Bab Ezzouar (Bab Azwâr, listing)</name>
+    </wpt>
+    <wpt lat="36.7140" lon="3.1961">
+        <name>Mercure Alger Aéroport (Bab Azwâr, sleep)</name>
     </wpt>
     <wpt lat="49.96150" lon="8.95364">
         <name>Ristorante und Pension Toscana (Babenhausen (Hessen), eat)</name>
@@ -2180,6 +2204,9 @@
     </wpt>
     <wpt lat="49.4912" lon="9.7759">
         <name>Deutschordensmuseum (Bad Mergentheim, see)</name>
+    </wpt>
+    <wpt lat="49.4439" lon="9.7491">
+        <name>Stuppacher Madonna (Bad Mergentheim, listing)</name>
     </wpt>
     <wpt lat="49.4695" lon="9.7977">
         <name>Wildtierpark (Bad Mergentheim, listing)</name>
@@ -2870,6 +2897,9 @@
     </wpt>
     <wpt lat="51.18341" lon="14.41972">
         <name>Sorbisches Museum (Bautzen, see)</name>
+    </wpt>
+    <wpt lat="51.18183" lon="14.42330">
+        <name>Bautz´ner Senfladen, Manufaktur &amp; Museum (Bautzen, buy)</name>
     </wpt>
     <wpt lat="51.18163" lon="14.42113">
         <name>Mönchshof zu Bautzen (Bautzen, eat)</name>
@@ -4005,6 +4035,12 @@
     <wpt lat="46.50356" lon="11.33406">
         <name>Krippensammlung Kloster Muri Gries (Bozen, see)</name>
     </wpt>
+    <wpt lat="46.503515" lon="11.368989">
+        <name>Hotel Restaurant Eberle Bozen (Bozen, sleep)</name>
+    </wpt>
+    <wpt lat="46.503515" lon="11.368989">
+        <name>Hotel Eberle Bozen (Bozen, sleep)</name>
+    </wpt>
     <wpt lat="46.49765" lon="11.35025">
         <name>Hotel Kolpinghaus Bozen (Bozen, sleep)</name>
     </wpt>
@@ -4823,6 +4859,18 @@
     </wpt>
     <wpt lat="53.07667" lon="8.80677">
         <name>Tourist-Information Obernstraße (Bremen, listing)</name>
+    </wpt>
+    <wpt lat="53.1662" lon="8.6264">
+        <name>Schulschiff Deutschland (Bremen/Nord, see)</name>
+    </wpt>
+    <wpt lat="53.2169" lon="8.5056">
+        <name>Denkort Bunker Valentin (Bremen/Nord, see)</name>
+    </wpt>
+    <wpt lat="53.17679" lon="8.61319">
+        <name>Freizeitbad Vegesack (Bremen/Nord, listing)</name>
+    </wpt>
+    <wpt lat="53.1983" lon="8.5799">
+        <name>Freibad Blumenthal (Bremen/Nord, listing)</name>
     </wpt>
     <wpt lat="51.117276" lon="17.035825">
         <name>Hotel HP Park Plaza (Breslau, sleep)</name>
@@ -7287,6 +7335,18 @@
     <wpt lat="49.86004" lon="8.67615">
         <name>Kletterwald Darmstadt (Darmstadt, do)</name>
     </wpt>
+    <wpt lat="49.8830288" lon="8.6560329">
+        <name>Café Belevue (Darmstadt, listing)</name>
+    </wpt>
+    <wpt lat="49.8806629" lon="8.6547405">
+        <name>Fuchs &amp;amp; Hase (Darmstadt, listing)</name>
+    </wpt>
+    <wpt lat="49.8721" lon="8.6680">
+        <name>Café Woog (Darmstadt, listing)</name>
+    </wpt>
+    <wpt lat="49.8783829" lon="8.6672606">
+        <name>Sirhaz (Darmstadt, listing)</name>
+    </wpt>
     <wpt lat="49.87210" lon="8.65166">
         <name>Darmstadt-Marketing / Tourist-Information (Darmstadt, listing)</name>
     </wpt>
@@ -7557,6 +7617,15 @@
     <wpt lat="51.7923" lon="12.2605">
         <name>Kirche St. Peter (Dessau, listing)</name>
     </wpt>
+    <wpt lat="51.8378" lon="12.2455">
+        <name>Palais Dietrich (Dessau, listing)</name>
+    </wpt>
+    <wpt lat="51.8325" lon="12.2479">
+        <name>Museum für Stadtgeschichte im Johannbau (Dessau, listing)</name>
+    </wpt>
+    <wpt lat="51.8441" lon="12.2304">
+        <name>Anhaltische Gemäldegalerie (Dessau, see)</name>
+    </wpt>
     <wpt lat="51.83970" lon="12.24130">
         <name>Rostbratwurstgrill (Dessau, listing)</name>
     </wpt>
@@ -7653,17 +7722,11 @@
     <wpt lat="51.84280" lon="12.23170">
         <name>Restaurant &amp; Cafe Am Georgengarten (Dessau, listing)</name>
     </wpt>
-    <wpt lat="51.85640" lon="12.21720">
-        <name>Kornhaus (Dessau, listing)</name>
-    </wpt>
     <wpt lat="51.82200" lon="12.24250">
         <name>Kroatien (Dessau, listing)</name>
     </wpt>
     <wpt lat="51.85640" lon="12.21720">
         <name>Gasthaus „Zur Försterklause“ (Dessau, listing)</name>
-    </wpt>
-    <wpt lat="51.83540" lon="12.27060">
-        <name>Restaurant Don Vincenzo (Dessau, listing)</name>
     </wpt>
     <wpt lat="51.85030" lon="12.27430">
         <name>Restaurant &amp; Café im Luisium (Dessau, listing)</name>
@@ -7673,6 +7736,9 @@
     </wpt>
     <wpt lat="51.84800" lon="12.22190">
         <name>Restaurant Weinstuben Pächterhaus (Dessau, listing)</name>
+    </wpt>
+    <wpt lat="51.85640" lon="12.21720">
+        <name>Kornhaus (Dessau, listing)</name>
     </wpt>
     <wpt lat="51.8368" lon="12.2370">
         <name>Anhaltisches Theater (Dessau, listing)</name>
@@ -8614,7 +8680,7 @@
         <name>Gunda-Niemann-Stirnemann-Halle (Erfurt, do)</name>
     </wpt>
     <wpt lat="50.97447" lon="11.01768">
-        <name>Theater Erfurt (Erfurt, listing)</name>
+        <name>Theater Erfurt (Erfurt, do)</name>
     </wpt>
     <wpt lat="50.97863" lon="11.03250">
         <name>BORN Senf-Laden &amp; Senf-Museum (Erfurt, buy)</name>
@@ -8766,6 +8832,90 @@
     <wpt lat="50.97842" lon="11.02981">
         <name>Tourist Information Erfurt (Erfurt, listing)</name>
     </wpt>
+    <wpt lat="49.5979041" lon="11.004684">
+        <name>Markgräflichem Schloss (Erlangen, see)</name>
+    </wpt>
+    <wpt lat="49.5967024" lon="11.0117533">
+        <name>Bohlenplatz (Erlangen, see)</name>
+    </wpt>
+    <wpt lat="49.5978172" lon="11.0040967">
+        <name>Markgrafenstatue (Erlangen, see)</name>
+    </wpt>
+    <wpt lat="49.5977168" lon="11.0034658">
+        <name>Paulibrunnen (Erlangen, see)</name>
+    </wpt>
+    <wpt lat="49.5972715" lon="11.0036204">
+        <name>Palais Sutterheim (Erlangen, see)</name>
+    </wpt>
+    <wpt lat="49.5978423" lon="11.0043723">
+        <name>Markgräfliche Schloss Erlangen (Erlangen, see)</name>
+    </wpt>
+    <wpt lat="49.5987014" lon="11.0051287">
+        <name>Orangerie Erlangen (Erlangen, see)</name>
+    </wpt>
+    <wpt lat="49.5989952" lon="11.0039881">
+        <name>Wasserturm (Erlangen, see)</name>
+    </wpt>
+    <wpt lat="49.6092399" lon="11.0050301">
+        <name>Wasserturm (Erlangen, see)</name>
+    </wpt>
+    <wpt lat="49.5963393" lon="11.0036496">
+        <name>Hugenottenkirche (Erlangen, see)</name>
+    </wpt>
+    <wpt lat="49.6014944" lon="11.0030906">
+        <name>Altstädter Dreifaltigkeitskirche (Erlangen, see)</name>
+    </wpt>
+    <wpt lat="49.603291" lon="10.9989489">
+        <name>St. Martinskirche (Erlangen, see)</name>
+    </wpt>
+    <wpt lat="49.5957771" lon="11.0057382">
+        <name>Neustädter Universitäts-Kirche (Erlangen, see)</name>
+    </wpt>
+    <wpt lat="49.5965976" lon="11.0102166">
+        <name>Deutsch-reformierte Kirche (Erlangen, see)</name>
+    </wpt>
+    <wpt lat="49.5972399" lon="11.0037696">
+        <name>Kunstpalais (Erlangen, see)</name>
+    </wpt>
+    <wpt lat="49.5937838" lon="11.0050345">
+        <name>Kunstmuseum Erlangen (Erlangen, see)</name>
+    </wpt>
+    <wpt lat="49.5972399" lon="11.0037696">
+        <name>Kunstverein Erlangen (Erlangen, see)</name>
+    </wpt>
+    <wpt lat="49.6018558" lon="11.0034413">
+        <name>Stadtmuseum Erlangen (Erlangen, see)</name>
+    </wpt>
+    <wpt lat="49.596625" lon="11.0186046">
+        <name>Siemens Med Museum (Erlangen, see)</name>
+    </wpt>
+    <wpt lat="49.5984193" lon="11.0080342">
+        <name>Schlossgarten (Erlangen, do)</name>
+    </wpt>
+    <wpt lat="49.5992608" lon="11.0067569">
+        <name>Botanische Garten (Erlangen, do)</name>
+    </wpt>
+    <wpt lat="49.602397" lon="11.016309">
+        <name>Aromagarten (Erlangen, do)</name>
+    </wpt>
+    <wpt lat="49.6078709" lon="11.0097296">
+        <name>Burgberggarten mit dem Heinrich-Kirchner-Skulpturengarten (Erlangen, do)</name>
+    </wpt>
+    <wpt lat="49.605138" lon="11.0095582">
+        <name>Schwabachanlage (Erlangen, do)</name>
+    </wpt>
+    <wpt lat="49.5872528" lon="11.027244">
+        <name>Exerzierplatz (Erlangen, do)</name>
+    </wpt>
+    <wpt lat="49.5651941" lon="11.0188564">
+        <name>Brucker Lache (Erlangen, do)</name>
+    </wpt>
+    <wpt lat="49.596269" lon="10.9911005">
+        <name>Wiesengrund (Erlangen, do)</name>
+    </wpt>
+    <wpt lat="49.5707949" lon="10.9832896">
+        <name>Brucker Wasserrad (Erlangen, see)</name>
+    </wpt>
     <wpt lat="49.60207" lon="11.00379">
         <name>Zum Pleitegeier (Erlangen, eat)</name>
     </wpt>
@@ -8904,8 +9054,26 @@
     <wpt lat="35.17479" lon="-111.66701">
         <name>Motel 6 Flagstaff West-Woodlands Village (Flagstaff, sleep)</name>
     </wpt>
+    <wpt lat="54.7862" lon="9.4315">
+        <name>Museumsberg (Flensburg, see)</name>
+    </wpt>
+    <wpt lat="54.7859" lon="9.4262">
+        <name>Eiszeit-Haus (Flensburg, see)</name>
+    </wpt>
+    <wpt lat="54.79303" lon="9.43336">
+        <name>Schifffahrtsmuseum (Flensburg, see)</name>
+    </wpt>
+    <wpt lat="54.79532" lon="9.42998">
+        <name>Phänomenta (Flensburg, see)</name>
+    </wpt>
+    <wpt lat="54.80050" lon="9.43884">
+        <name>Yachting Heritage Centre (Flensburg, see)</name>
+    </wpt>
     <wpt lat="54.78189" lon="9.43515">
         <name>Roter Hof (Flensburg, eat)</name>
+    </wpt>
+    <wpt lat="54.80322" lon="9.45184">
+        <name>DJH-Jugendherberge (Flensburg, listing)</name>
     </wpt>
     <wpt lat="54.78142" lon="9.43620">
         <name>Tourismus Agentur Flensburger Förde GmbH (Flensburg, listing)</name>
@@ -9492,6 +9660,9 @@
     <wpt lat="51.53350" lon="9.93385">
         <name>Stadtbibliothek (Göttingen, listing)</name>
     </wpt>
+    <wpt lat="47.056806" lon="16.322917">
+        <name>Burg Güssing (Güssing, listing)</name>
+    </wpt>
     <wpt lat="46.20918" lon="6.14994">
         <name>Hôtel Beau Rivage (Genf, sleep)</name>
     </wpt>
@@ -9729,14 +9900,14 @@
     <wpt lat="27.407967" lon="33.673906">
         <name>Turtle’s Inn Hotel (El Gouna, sleep)</name>
     </wpt>
-    <wpt lat="27.385858" lon="33.683999">
-        <name>Club Paradisio El Gouna (El Gouna, sleep)</name>
-    </wpt>
     <wpt lat="27.396908" lon="33.676996">
         <name>Dawar El Omda Hotel (El Gouna, sleep)</name>
     </wpt>
     <wpt lat="27.411462" lon="33.673101">
         <name>Fanadir Hotel (El Gouna, sleep)</name>
+    </wpt>
+    <wpt lat="27.385858" lon="33.683999">
+        <name>Labranda Club Paradisio El Gouna (El Gouna, sleep)</name>
     </wpt>
     <wpt lat="27.412229" lon="33.672463">
         <name>Mosaique Hotel (El Gouna, sleep)</name>
@@ -9767,6 +9938,15 @@
     </wpt>
     <wpt lat="27.422495" lon="33.670507">
         <name>La Maison Bleue (El Gouna, sleep)</name>
+    </wpt>
+    <wpt lat="27.398289" lon="33.669212">
+        <name>TU Berlin Campus El Gouna (El Gouna, do)</name>
+    </wpt>
+    <wpt lat="27.396979" lon="33.672677">
+        <name>El-Gouna International School (El Gouna, do)</name>
+    </wpt>
+    <wpt lat="27.397187" lon="33.670279">
+        <name>El Gouna Library (El Gouna, do)</name>
     </wpt>
     <wpt lat="27.395527" lon="33.669770">
         <name>El-Gouna Hospital (El Gouna, listing)</name>
@@ -9824,6 +10004,24 @@
     </wpt>
     <wpt lat="-42.44823" lon="171.21477">
         <name>i-SITE Visitor Information Centre (Greymouth, listing)</name>
+    </wpt>
+    <wpt lat="48.045986" lon="16.286123">
+        <name>Pension Haus Böhm (Gumpoldskirchen, listing)</name>
+    </wpt>
+    <wpt lat="46.875313" lon="14.290533">
+        <name>Zwergenpark (Gurk, do)</name>
+    </wpt>
+    <wpt lat="46.87485" lon="14.29345">
+        <name>Dom zu Gurk (Gurk, listing)</name>
+    </wpt>
+    <wpt lat="46.873772" lon="14.290732">
+        <name>Gasthof Erian (Gurk, eat)</name>
+    </wpt>
+    <wpt lat="46.874418" lon="14.291944">
+        <name>Gasthof Kronenwirt (Gurk, eat)</name>
+    </wpt>
+    <wpt lat="46.875283" lon="14.291204">
+        <name>Restaurant HEMMASTUBN (Gurk, eat)</name>
     </wpt>
     <wpt lat="51.35920" lon="7.47211">
         <name>KundenCenter City (Hagen, listing)</name>
@@ -9990,6 +10188,12 @@
     <wpt lat="51.360617" lon="7.462898">
         <name>Waschwerk Hagen (Hagen, listing)</name>
     </wpt>
+    <wpt lat="51.4770" lon="11.9876">
+        <name>Hauptbahnhof von Halle (Halle (Saale), listing)</name>
+    </wpt>
+    <wpt lat="51.4775" lon="11.9848">
+        <name>Zentrale Omnibusbahnhof (ZOB) (Halle (Saale), listing)</name>
+    </wpt>
     <wpt lat="51.48428" lon="11.96445">
         <name>Hallescher Dom (Halle (Saale), listing)</name>
     </wpt>
@@ -10122,7 +10326,7 @@
     <wpt lat="51.487672" lon="11.967931">
         <name>Denkmal für Robert Franz (Halle (Saale), listing)</name>
     </wpt>
-    <wpt lat="51.489226" lon="11.975112">
+    <wpt lat="51.489347" lon="11.975241">
         <name>Denkmal für Mahatma Gandhi (Halle (Saale), listing)</name>
     </wpt>
     <wpt lat="51.48581" lon="11.96929">
@@ -10200,7 +10404,7 @@
     <wpt lat="51.4866" lon="11.9631">
         <name>Moritzburg (Halle (Saale), see)</name>
     </wpt>
-    <wpt lat="51.48930" lon="11.97509">
+    <wpt lat="51.489116" lon="11.974148">
         <name>Museum für Haustierkunde „Julius Kühn“ (Halle (Saale), see)</name>
     </wpt>
     <wpt lat="51.4904" lon="12.0001">
@@ -10440,9 +10644,6 @@
     <wpt lat="51.49499" lon="11.96643">
         <name>Sushi und Wok Bar Reileck (Halle (Saale), eat)</name>
     </wpt>
-    <wpt lat="51.48777" lon="11.97084">
-        <name>Sushifreunde am Opernhaus (Halle (Saale), eat)</name>
-    </wpt>
     <wpt lat="51.48281" lon="11.97294">
         <name>Weinstube Rathausstraße (Halle (Saale), eat)</name>
     </wpt>
@@ -10598,6 +10799,9 @@
     </wpt>
     <wpt lat="51.48294" lon="11.96835">
         <name>Tourist-Information (Halle (Saale), listing)</name>
+    </wpt>
+    <wpt lat="47.563621" lon="13.636649">
+        <name>Salzwelten/Salzbergwerk Hallstatt (Hallstatt, listing)</name>
     </wpt>
     <wpt lat="53.6329" lon="10.0078">
         <name>Flughafen-Hamburg (Hamburg, listing)</name>
@@ -11124,6 +11328,12 @@
     <wpt lat="-42.71834" lon="170.96440">
         <name>i-SITE Visitor Information Centre (Hokitika, listing)</name>
     </wpt>
+    <wpt lat="22°17'01.8&quot;N" lon="114°09'34.1&quot;E">
+        <name>General Post Office (Hongkong, listing)</name>
+    </wpt>
+    <wpt lat="22°18'34.7&quot;N" lon="114°10'15.9&quot;E">
+        <name>Kowloon Central Post Office (Hongkong, listing)</name>
+    </wpt>
     <wpt lat="27.283642" lon="33.772230">
         <name>Meeresbiologisches Museum (Hurghada, see)</name>
     </wpt>
@@ -11316,17 +11526,17 @@
     <wpt lat="47.560157" lon="10.219218">
         <name>Gasthof Hotel Drei König (Immenstadt, sleep)</name>
     </wpt>
-    <wpt lat="47.558997" lon="10.217125">
-        <name>Riefler Medienladen (Immenstadt, listing)</name>
-    </wpt>
-    <wpt lat="47.561050" lon="10.209298">
-        <name>Spielcenter Extra Games (Immenstadt, listing)</name>
-    </wpt>
     <wpt lat="47.559963" lon="10.218675">
         <name>Tourist-Info Immenstadt (Immenstadt, listing)</name>
     </wpt>
     <wpt lat="47.559689" lon="10.219320">
         <name>Stadt Immenstadt i. Allgäu (Immenstadt, listing)</name>
+    </wpt>
+    <wpt lat="47.558997" lon="10.217125">
+        <name>Riefler Medienladen (Immenstadt, listing)</name>
+    </wpt>
+    <wpt lat="47.561050" lon="10.209298">
+        <name>Spielcenter Extra Games (Immenstadt, listing)</name>
     </wpt>
     <wpt lat="48.76484" lon="11.41459">
         <name>Jugendherberge Ingolstadt (Ingolstadt, listing)</name>
@@ -11553,6 +11763,9 @@
     <wpt lat="30.072125" lon="31.228332">
         <name>Nile City Towers Mall (Kairo/Būlāq, buy)</name>
     </wpt>
+    <wpt lat="30.051275" lon="31.232747">
+        <name>Ramses Hilton Commercial Annex (Kairo/Būlāq, buy)</name>
+    </wpt>
     <wpt lat="30.053963" lon="31.236990">
         <name>Centro Ricreativo Italiano (Kairo/Būlāq, eat)</name>
     </wpt>
@@ -11663,6 +11876,9 @@
     </wpt>
     <wpt lat="30.086715" lon="31.330261">
         <name>Palast des Barons Empain (Kairo/Heliopolis, see)</name>
+    </wpt>
+    <wpt lat="30.085967" lon="31.309914">
+        <name>Gamal-Abdel-Nasser-Museum (Kairo/Heliopolis, see)</name>
     </wpt>
     <wpt lat="30.0737" lon="31.3467">
         <name>City Stars Mall (Kairo/Heliopolis, buy)</name>
@@ -12360,11 +12576,26 @@
     <wpt lat="22.298661" lon="114.168785">
         <name>Yummy (Hongkong/Kowloon, eat)</name>
     </wpt>
+    <wpt lat="22°17'59.8&quot;N" lon="114°10'30.2&quot;E">
+        <name> (Hongkong/Kowloon, eat)</name>
+    </wpt>
     <wpt lat="22.31948" lon="114.16155">
         <name>Das Bier (Hongkong/Kowloon, eat)</name>
     </wpt>
+    <wpt lat="22°17'46.9&quot;N" lon="114°10'16.2&quot;E">
+        <name>im Viertel zwischen Haiphong und Middle Rd. (Hongkong/Kowloon, eat)</name>
+    </wpt>
+    <wpt lat="22°17'47.9&quot;N" lon="114°10'22.2&quot;E">
+        <name>Chungking Mansions (Hongkong/Kowloon, sleep)</name>
+    </wpt>
     <wpt lat="22.32098" lon="114.16222">
         <name>Rosedale Kowloon Hotel (Hongkong/Kowloon, sleep)</name>
+    </wpt>
+    <wpt lat="22°18'34.7&quot;N" lon="114°10'15.9&quot;E">
+        <name>Kowloon Central Post Office (Hongkong/Kowloon, listing)</name>
+    </wpt>
+    <wpt lat="22°17'59.0&quot;N" lon="114°10'21.6&quot;E">
+        <name>Granville Post Office (Hongkong/Kowloon, listing)</name>
     </wpt>
     <wpt lat="50.07713" lon="19.98980">
         <name>Luftfahrtmuseum (Muzeum Lotnictwa Polskiego) (Krakau, see)</name>
@@ -12466,7 +12697,7 @@
         <name>Lara Beach (Kyrenia, listing)</name>
     </wpt>
     <wpt lat="49.47249" lon="8.61086">
-        <name>Vanité (Ladenburg, eat)</name>
+        <name>Gasthaus zum Schwan (Ladenburg, eat)</name>
     </wpt>
     <wpt lat="49.47262" lon="8.61176">
         <name>Backmulde (Ladenburg, eat)</name>
@@ -12774,9 +13005,6 @@
     <wpt lat="51.3490028" lon="12.3655415">
         <name>Rosental (Leipzig/Mitte, do)</name>
     </wpt>
-    <wpt lat="51.3484968" lon="12.370761">
-        <name>Zoo Leipzig (Leipzig/Mitte, listing)</name>
-    </wpt>
     <wpt lat="51.3510063" lon="12.3646295">
         <name>Zooschaufenster. (Leipzig/Mitte, do)</name>
     </wpt>
@@ -12856,7 +13084,7 @@
         <name>Sol y Mar (Leipzig/Mitte, eat)</name>
     </wpt>
     <wpt lat="51.3288284" lon="12.3814523">
-        <name>Gasthaus und Gosebrauerei Bayerischer Bahnhof (Leipzig/Mitte, eat)</name>
+        <name>Gasthaus und Gosebrauerei Bayerischer Bahnhof (Leipzig/Mitte, listing)</name>
     </wpt>
     <wpt lat="51.3422678" lon="12.3748004">
         <name>Phố Việt Restaurant (Leipzig/Mitte, eat)</name>
@@ -12980,6 +13208,9 @@
     </wpt>
     <wpt lat="46.37987" lon="7.62832">
         <name>Kur- und Ferienhaus Volksheilbad (Leukerbad, listing)</name>
+    </wpt>
+    <wpt lat="46.78390" lon="12.65820">
+        <name>Vitalpinum (Lienz, do)</name>
     </wpt>
     <wpt lat="45.6590" lon="13.0657">
         <name>Parco Zoo Punta Verde (Lignano, listing)</name>
@@ -13172,6 +13403,9 @@
     </wpt>
     <wpt lat="38.7164523" lon="-9.1408729">
         <name>Residencial Florescente (Lissabon, listing)</name>
+    </wpt>
+    <wpt lat="38.725690" lon="-9.207877">
+        <name>Lisboa Camping (Lissabon, listing)</name>
     </wpt>
     <wpt lat="54.64302" lon="25.28031">
         <name>Flughafen Vilnius (Litauen, listing)</name>
@@ -13923,8 +14157,284 @@
     <wpt lat="45.8152527" lon="4.8468973">
         <name>Auberge du Pont de Collonges (Lyon, listing)</name>
     </wpt>
+    <wpt lat="45.7668687" lon="4.8348241">
+        <name>Café 203 (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7669404" lon="4.8351324">
+        <name>Café 100 Tabac (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7702429" lon="4.8241425">
+        <name>L'Absinthe (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7660795" lon="4.8288906">
+        <name>Le bistrot de la pêcherie (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.767073" lon="4.8277958">
+        <name>Le Voxx (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7625913" lon="4.8332535">
+        <name>Bar Américain &amp; Café Anglais (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7632276" lon="4.8322763">
+        <name>Café des négociants (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7736038" lon="4.8203064">
+        <name>Modern art café (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7537965" lon="4.8384855">
+        <name>Le Gato Negro (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7536834" lon="4.8380098">
+        <name>El Loco Latino (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7541296" lon="4.837243">
+        <name>Le Gonzo Bar (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7662783" lon="4.8258395">
+        <name>Rock'n'Eat (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7691161" lon="4.8303027">
+        <name>L'Orienthé (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7693636" lon="4.8314244">
+        <name>Bagat'elles (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7623425" lon="4.8325053">
+        <name>Polo Club (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7661656" lon="4.8255114">
+        <name>La cave des voyageurs (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7503485" lon="4.8433663">
+        <name>Le Vercoquin (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7560013" lon="4.8213983">
+        <name>The Antidote Pub (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7636024" lon="4.8265798">
+        <name>Kelly's Irish Pub (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7680248" lon="4.8312258">
+        <name>Albion-The Original British Pub (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7684526" lon="4.8324434">
+        <name>Ayers Rock Café (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7686595" lon="4.8339164">
+        <name>The Down Under (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7649256" lon="4.8224305">
+        <name>The smoking dog (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7629343" lon="4.8259967">
+        <name>Saint Jame's Pub (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7622883" lon="4.8264038">
+        <name>Pub Danois (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7647165" lon="4.8255953">
+        <name>Fleming's (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7663431" lon="4.8261845">
+        <name>The Wallace (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7574264" lon="4.8224782">
+        <name>Johnny Walsh's (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7614301" lon="4.8247676">
+        <name>James Joyce (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.774746" lon="4.8285244">
+        <name>Paddy's Corner (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7482762" lon="4.8261169">
+        <name>Brasserie Georges (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.774531" lon="4.8275748">
+        <name>Café Chantecler (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.728009" lon="4.8283996">
+        <name>Ninkasi Gerland (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7529332" lon="4.8261702">
+        <name>Ninkasi Ampère (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7668257" lon="4.8352048">
+        <name>Ninkasi Opéra (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7698416" lon="4.8325123">
+        <name>Lax Bar (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7680661" lon="4.834576">
+        <name>Gama Opéra (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7666097" lon="4.8346055">
+        <name>L'Étoile Opéra (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7655195" lon="4.8311702">
+        <name>L'United Café (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7523879" lon="4.8129981">
+        <name>La Chapelle (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7593612" lon="4.8353903">
+        <name>Broc'Café (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7541296" lon="4.8372377">
+        <name>Le Gonzo Bar (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7654488" lon="4.8256465">
+        <name>MZ le Bar (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7701688" lon="4.8367683">
+        <name>Le DV1 (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7615875" lon="4.834488">
+        <name>Le Marais (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7563276" lon="4.8555923">
+        <name>Le Bloc (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7582641" lon="4.8387956">
+        <name>L'ayers Boat (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7668637" lon="4.8592391">
+        <name>Le F&amp;K (Lyon, drink)</name>
+    </wpt>
+    <wpt lat="45.7591" lon="4.82418">
+        <name>Auberge de jeunesse du Vieux Lyon (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.729877" lon="4.867533">
+        <name>Centre international de séjour (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.8196902" lon="4.7626176">
+        <name>Camping international de Lyon (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7652581" lon="4.8255629">
+        <name>Hôtel Saint Paul (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7633811" lon="4.8256126">
+        <name>Le Petit Tramassac - Gite Vieux Lyon (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7649533" lon="4.8252386">
+        <name>LaTour-Lyon - Gite de charme atypique du Vieux Lyon (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.76350" lon="4.82768">
+        <name>Lyon Renaissance (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7640639" lon="4.8261968">
+        <name>Les Demeures de Morphée (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7664435" lon="4.8305429">
+        <name>Hôtel Saint Pierre des Terreaux (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.749822" lon="4.8263427">
+        <name>Hôtel Campanile (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7480706" lon="4.8264838">
+        <name>Hôtel Victoria Perrache - Confluence (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7599798" lon="4.8561625">
+        <name>Hôtel Athéna Part-Dieu (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7333665" lon="4.8206267">
+        <name>Hôtel Ibis Lyon Gerlan (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7431437" lon="4.8680172">
+        <name>Hôtel B&amp;B Lyon Monplaisir (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.7524055" lon="4.857601">
+        <name>Park&amp;Suites Appart'City Lyon Part-Dieu - Appart Hôtel (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.8199006" lon="4.8383">
+        <name>Gîtes les Balmes (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.76296" lon="4.82569">
+        <name>Villa florentine (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.76328" lon="4.82730">
+        <name>Cour des Loges (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.76274" lon="4.82675">
+        <name>La Tour Rose (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.76075" lon="4.83710">
+        <name>Boscolo Grand hôtel (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.75450" lon="4.83434">
+        <name>Sofitel Lyon Bellecour (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.75624" lon="4.83306">
+        <name>Hôtel Le Royal (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.78881" lon="4.81992">
+        <name>Hôtel Lyon Métropole (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.78490" lon="4.85304">
+        <name>Hilton Lyon (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="45.78550" lon="4.85701">
+        <name>Hôtel de la Cité Concorde (Lyon, listing)</name>
+    </wpt>
+    <wpt lat="22°17'19.8&quot;N" lon="114°09'07.9&quot;E">
+        <name>Macau Ferry Terminal (Macau, listing)</name>
+    </wpt>
+    <wpt lat="22°11'50.4&quot;N" lon="113°33'32.6&quot;E">
+        <name>Outer Harbour Ferry Terminal (Macau, listing)</name>
+    </wpt>
+    <wpt lat="22°09'44.1&quot;N" lon="113°34'39.3&quot;E">
+        <name>Taipa Temporary Ferry Terminal (Macau, listing)</name>
+    </wpt>
+    <wpt lat="22°36'03.3&quot;N" lon="113°48'52.6&quot;E">
+        <name>Shenzhen Airport Fu Yong Ferry Terminal (Macau, listing)</name>
+    </wpt>
+    <wpt lat="22°22'19.0&quot;N" lon="113°57'57.9&quot;E">
+        <name>Tuen Mun Ferry Pier (Macau, listing)</name>
+    </wpt>
+    <wpt lat="22°28'36.8&quot;N" lon="113°54'44.6&quot;E">
+        <name>Shekou Harbour Passenger Terminal (Macau, listing)</name>
+    </wpt>
+    <wpt lat="22°07'22.0&quot;N" lon="113°33'47.8&quot;E">
+        <name>A-Ma Cultural Village (Macau, see)</name>
+    </wpt>
+    <wpt lat="22°07'16.0&quot;N" lon="113°34'13.6&quot;E">
+        <name>Baía de Hác Sá (黑沙海灘) (Macau, listing)</name>
+    </wpt>
+    <wpt lat="22°07'32.1&quot;N" lon="113°34'36.2&quot;E">
+        <name>Grand Coloane Resort (Macau, sleep)</name>
+    </wpt>
+    <wpt lat="22°06'48.2&quot;N" lon="113°33'37.4&quot;E">
+        <name>Cheoc Van-Bucht (竹灣) (Macau, listing)</name>
+    </wpt>
+    <wpt lat="22°07'00.8&quot;N" lon="113°33'05.3&quot;E">
+        <name>St. Xavier-Kirche (路環聖方濟各堂) (Macau, listing)</name>
+    </wpt>
+    <wpt lat="22° 7′ 33″ N" lon="113° 33′ 23.5″ E">
+        <name>Museu Natural e Agrário (土地暨自然博物館) (Macau, see)</name>
+    </wpt>
+    <wpt lat="22°11'35.7&quot;N" lon="113°32'24.8&quot;E">
+        <name>Hauptpost (Macau, listing)</name>
+    </wpt>
     <wpt lat="40.42790" lon="-3.68923">
         <name>Café «Embassy» (Madrid, listing)</name>
+    </wpt>
+    <wpt lat="52.1304" lon="11.6267">
+        <name>Magdeburger Hauptbahnhof (Magdeburg, listing)</name>
+    </wpt>
+    <wpt lat="52.1485" lon="11.6416">
+        <name>Magdeburg-Neustadt (Magdeburg, listing)</name>
+    </wpt>
+    <wpt lat="52.1089" lon="11.6306">
+        <name>Magdeburg-Buckau (Magdeburg, listing)</name>
+    </wpt>
+    <wpt lat="52.1204" lon="11.5969">
+        <name>Magdeburg-Sudenburg (Magdeburg, listing)</name>
+    </wpt>
+    <wpt lat="52.1453" lon="11.6768">
+        <name>Magdeburg-Herrenkrug (Magdeburg, listing)</name>
+    </wpt>
+    <wpt lat="52.1338" lon="11.6495">
+        <name>Schiffsanleger Petriförder (Magdeburg, listing)</name>
     </wpt>
     <wpt lat="45.461575" lon="9.279671">
         <name>Flughafen Linate (Mailand, listing)</name>
@@ -14064,44 +14574,113 @@
     <wpt lat="40.645016" lon="14.647472">
         <name>Hotel Club 2 Torri **** (Maiori, sleep)</name>
     </wpt>
-    <wpt lat="26.987445" lon="33.898616">
-        <name>Iberotel Makadi Oasis Family (Makadi Bay, sleep)</name>
+    <wpt lat="26.991211" lon="33.852691">
+        <name>Delfinarium (Makadi Bay, listing)</name>
     </wpt>
-    <wpt lat="26.989089" lon="33.900633">
-        <name>Iberotel Makadi Beach (Makadi Bay, sleep)</name>
+    <wpt lat="26.989385" lon="33.852884">
+        <name>Mini Park Egypt (Makadi Bay, do)</name>
     </wpt>
-    <wpt lat="26.987980" lon="33.896341">
-        <name>Iberotel Makadi Saraya Suites Resort (Makadi Bay, sleep)</name>
+    <wpt lat="26.992139" lon="33.894249">
+        <name>Aquapark (Makadi Bay, do)</name>
+    </wpt>
+    <wpt lat="26.991011" lon="33.894936">
+        <name>Aqua Room (Makadi Bay, do)</name>
+    </wpt>
+    <wpt lat="26.988480" lon="33.899184">
+        <name>La Loca (Makadi Bay, listing)</name>
+    </wpt>
+    <wpt lat="26.968070" lon="33.920415">
+        <name>Al Nabila Grand Bay Makadi (Makadi Bay, sleep)</name>
+    </wpt>
+    <wpt lat="26.98570" lon="33.90354">
+        <name>Cleopatra Luxury Resort Makadi Bay (Makadi Bay, sleep)</name>
+    </wpt>
+    <wpt lat="26.98660" lon="33.90599">
+        <name>Cleopatra Luxury Beach Resort (Makadi Bay, sleep)</name>
+    </wpt>
+    <wpt lat="26.99891" lon="33.90251">
+        <name>Fort Arabesque Resort, Spa &amp; Villas (Makadi Bay, sleep)</name>
+    </wpt>
+    <wpt lat="26.98049" lon="33.91514">
+        <name>Harmony Makadi Bay Hotel &amp; Resort (Makadi Bay, sleep)</name>
+    </wpt>
+    <wpt lat="26.987862" lon="33.898067">
+        <name>Jaz Makadi Oasis Club (Makadi Bay, sleep)</name>
+    </wpt>
+    <wpt lat="26.987213" lon="33.898809">
+        <name>Jaz Makadi Oasis Resort (Makadi Bay, sleep)</name>
+    </wpt>
+    <wpt lat="26.987865" lon="33.896430">
+        <name>Jaz Makadi Saraya Resort (Makadi Bay, sleep)</name>
+    </wpt>
+    <wpt lat="26.984539" lon="33.894292">
+        <name>Jaz Makadi Saraya Palms (Makadi Bay, sleep)</name>
+    </wpt>
+    <wpt lat="26.982945" lon="33.912940">
+        <name>Labranda Club Makadi (Makadi Bay, sleep)</name>
+    </wpt>
+    <wpt lat="26.974179" lon="33.904323">
+        <name>Labranda Makadi Garden (Makadi Bay, sleep)</name>
     </wpt>
     <wpt lat="26.983496" lon="33.911136">
-        <name>Royal Azur Resort (Makadi Bay, sleep)</name>
+        <name>Labranda Royal Makadi (Makadi Bay, sleep)</name>
     </wpt>
-    <wpt lat="26.972032" lon="33.919301">
-        <name>Serenity Makadi Heights (Makadi Bay, sleep)</name>
+    <wpt lat="27.00028" lon="33.90476">
+        <name>Prima Life Makadi Resort (Makadi Bay, sleep)</name>
     </wpt>
     <wpt lat="26.989739" lon="33.898659">
         <name>Sensimar Makadi Hotel (Makadi Bay, sleep)</name>
     </wpt>
-    <wpt lat="26.990695" lon="33.898058">
-        <name>Solymar Club Makadi (Makadi Bay, sleep)</name>
+    <wpt lat="26.969885" lon="33.914183">
+        <name>Serenity Fun City Resort (Makadi Bay, sleep)</name>
+    </wpt>
+    <wpt lat="26.972032" lon="33.919301">
+        <name>Serenity Makadi Heights (Makadi Bay, sleep)</name>
     </wpt>
     <wpt lat="26.989930" lon="33.896213">
-        <name>Solymar Makadi Sun Resort (Makadi Bay, sleep)</name>
+        <name>Sol Y Mar Makadi Sun Resort (Makadi Bay, sleep)</name>
     </wpt>
-    <wpt lat="27.001402" lon="33.908143">
+    <wpt lat="26.985035" lon="33.909087">
+        <name>Stella Di Mare Beach Resort &amp; Spa Makadi Bay (Makadi Bay, sleep)</name>
+    </wpt>
+    <wpt lat="26.9801" lon="33.9047">
+        <name>Stella Di Mare Gardens Resort &amp; Spa (Makadi Bay, sleep)</name>
+    </wpt>
+    <wpt lat="26.993009" lon="33.896384">
+        <name>TIA Aqua Park Hotel &amp; Resort (Makadi Bay, sleep)</name>
+    </wpt>
+    <wpt lat="27.002869" lon="33.910010">
         <name>Grand Makadi Hotel (Makadi Bay, sleep)</name>
+    </wpt>
+    <wpt lat="26.989089" lon="33.900633">
+        <name>Iberotel Makadi Beach (Makadi Bay, sleep)</name>
+    </wpt>
+    <wpt lat="26.982379" lon="33.874425">
+        <name>Jaz Aquaviva (Makadi Bay, sleep)</name>
     </wpt>
     <wpt lat="26.989471" lon="33.895140">
         <name>Jaz Makadi Star &amp; Spa Resort (Makadi Bay, sleep)</name>
     </wpt>
-    <wpt lat="26.993181" lon="33.895955">
-        <name>Tia Heights Hotel Makadi Bay (Makadi Bay, sleep)</name>
+    <wpt lat="26.99054" lon="33.89781">
+        <name>Jaz Makadina (Makadi Bay, sleep)</name>
     </wpt>
-    <wpt lat="26.985035" lon="33.909087">
-        <name>Stella Makadi Beach Resort (Makadi Bay, sleep)</name>
+    <wpt lat="27.002148" lon="33.908261">
+        <name>Makadi Palace (Makadi Bay, sleep)</name>
     </wpt>
-    <wpt lat="26.996928" lon="33.898144">
-        <name>Sunrise Royal Makadi Resort (Makadi Bay, sleep)</name>
+    <wpt lat="26.999918" lon="33.909495">
+        <name>Makadi Spa (Makadi Bay, sleep)</name>
+    </wpt>
+    <wpt lat="26.983818" lon="33.887683">
+        <name>Steigenberger Makadi Hotel &amp; Golf Resort (Makadi Bay, sleep)</name>
+    </wpt>
+    <wpt lat="26.997406" lon="33.897886">
+        <name>Sunrise Select Royal Makadi Resort (Makadi Bay, sleep)</name>
+    </wpt>
+    <wpt lat="27.001751" lon="33.905751">
+        <name>Sunwing Family Star Makadi (Makadi Bay, sleep)</name>
+    </wpt>
+    <wpt lat="26.999579" lon="33.907816">
+        <name>Sunwing Waterworld Makadi Hotel (Makadi Bay, sleep)</name>
     </wpt>
     <wpt lat="27.735570" lon="30.844519">
         <name>Archäologisches Museum Mallawī (Mallawī, see)</name>
@@ -14488,13 +15067,16 @@
         <name>Sol Y Mar Dolphin House (Marsā ʿAlam, sleep)</name>
     </wpt>
     <wpt lat="24.913333" lon="34.966667">
-        <name>Dream Lagoon Hotel (Marsā ʿAlam, sleep)</name>
+        <name>Future Dream Lagoon Hotel (Marsā ʿAlam, sleep)</name>
     </wpt>
     <wpt lat="24.913056" lon="34.970833">
-        <name>Emerald Lagoon (Marsā ʿAlam, sleep)</name>
+        <name>Future Emerald Lagoon (Marsā ʿAlam, sleep)</name>
     </wpt>
     <wpt lat="24.705278" lon="35.086111">
         <name>Gorgonia Beach Marsa Alam Resort (Marsā ʿAlam, sleep)</name>
+    </wpt>
+    <wpt lat="24.897264" lon="34.980162">
+        <name>Labranda Gemma Premium Resort (Marsā ʿAlam, sleep)</name>
     </wpt>
     <wpt lat="31.365639" lon="27.248444">
         <name>Rommel-Museum (Marsā Maṭrūḥ, see)</name>
@@ -14654,6 +15236,9 @@
     </wpt>
     <wpt lat="47.801840" lon="16.647883">
         <name>Familypark Neusiedler See (Mattersburg, listing)</name>
+    </wpt>
+    <wpt lat="53.63042" lon="10.69126">
+        <name>Tourist-Information (Mölln, listing)</name>
     </wpt>
     <wpt lat="48.383077" lon="9.105842">
         <name>Historische Messerschmiede (Mössingen, see)</name>
@@ -15552,17 +16137,23 @@
     <wpt lat="51.16307" lon="13.47165">
         <name>Tourist-Information Meißen (Meißen, listing)</name>
     </wpt>
+    <wpt lat="50.56765" lon="10.41689">
+        <name>Asia-Drachen (Meiningen, eat)</name>
+    </wpt>
+    <wpt lat="50.57003" lon="10.41268">
+        <name>Schloss-Stuben (Meiningen, eat)</name>
+    </wpt>
     <wpt lat="50.57206" lon="10.41599">
-        <name>Das Meininger Theater (Meiningen, listing)</name>
+        <name>Das Meininger Theater (Meiningen, do)</name>
     </wpt>
     <wpt lat="50.56971" lon="10.41737">
-        <name>Casino-Lichtspiele (Meiningen, listing)</name>
+        <name>Casino-Lichtspiele (Meiningen, do)</name>
     </wpt>
     <wpt lat="50.56898" lon="10.41385">
-        <name>Kunsthaus Meiningen (Meiningen, listing)</name>
+        <name>Kunsthaus Meiningen (Meiningen, do)</name>
     </wpt>
     <wpt lat="50.56761" lon="10.41326">
-        <name>Kleinkunstbühne Rautenkranz (Meiningen, listing)</name>
+        <name>Kleinkunstbühne Rautenkranz (Meiningen, do)</name>
     </wpt>
     <wpt lat="50.56954" lon="10.42822">
         <name>Restaurant-Cafe-Pension "Schlemmerstube" (Meiningen, listing)</name>
@@ -15590,6 +16181,9 @@
     </wpt>
     <wpt lat="50.56747" lon="10.41367">
         <name>Hotel &amp; Restaurant "Schlundhaus" (Meiningen, sleep)</name>
+    </wpt>
+    <wpt lat="50.55812" lon="10.39713">
+        <name>Helios Klinikum Meiningen (Meiningen, listing)</name>
     </wpt>
     <wpt lat="33.8814" lon="-5.5347">
         <name>Zaki Hotel (Meknès, sleep)</name>
@@ -16671,6 +17265,9 @@
     <wpt lat="50.69112" lon="10.72147">
         <name>Naturpark-Informationszentrum (Oberhof, listing)</name>
     </wpt>
+    <wpt lat="46.6861946" lon="12.8953833">
+        <name>Mega-Dive (Oberkärnten, listing)</name>
+    </wpt>
     <wpt lat="47.40622" lon="10.28085">
         <name>Heimatmuseum (Oberstdorf, see)</name>
     </wpt>
@@ -16728,7 +17325,7 @@
     <wpt lat="47.408459" lon="10.271929">
         <name>Gästehaus Alpenhorst (Oberstdorf, sleep)</name>
     </wpt>
-    <wpt lat="47.405791" lon="10.277115">
+    <wpt lat="47.4057" lon="10.2771">
         <name>Tourismus Oberstdorf (Oberstdorf, listing)</name>
     </wpt>
     <wpt lat="50.10328" lon="8.75497">
@@ -17219,6 +17816,9 @@
     </wpt>
     <wpt lat="54.13843" lon="13.76543">
         <name>Historisch-Technisches Informationszentrum (Peenemünde, see)</name>
+    </wpt>
+    <wpt lat="48.12751" lon="16.26114">
+        <name>Hotel In Vino Veritas (Perchtoldsdorf, sleep)</name>
     </wpt>
     <wpt lat="43.11247" lon="12.38893">
         <name>Cattedrale San Lorenzo (Perugia, listing)</name>
@@ -17988,6 +18588,12 @@
     <wpt lat="46.528303" lon="11.403294">
         <name>Hotel Post Victoria (Ritten, sleep)</name>
     </wpt>
+    <wpt lat="41.899133" lon="12.469988">
+        <name>Il Corallo (Rom, listing)</name>
+    </wpt>
+    <wpt lat="41.900494" lon="12.471575">
+        <name>Antica Dimora De Michaelis (Rom, listing)</name>
+    </wpt>
     <wpt lat="41.8820191" lon="12.3961884">
         <name>Casa «Monte Tabor» delle ''Suore Minime'' (Rom, listing)</name>
     </wpt>
@@ -18391,10 +18997,10 @@
         <name>Club Magic Life Kalawy Imperial (Safāgā, sleep)</name>
     </wpt>
     <wpt lat="47.567715" lon="-52.711029">
-        <name>Basilica of John the Baptist (St. John's (Neufundland), listing)</name>
+        <name>Basilica of John the Baptist (St. John’s (Neufundland), listing)</name>
     </wpt>
     <wpt lat="47.565384" lon="-52.708379">
-        <name>Anglican Cathedral of St. John the Baptist (St. John's (Neufundland), listing)</name>
+        <name>Anglican Cathedral of St. John the Baptist (St. John’s (Neufundland), listing)</name>
     </wpt>
     <wpt lat="47.80001" lon="13.04355">
         <name>Mozarts Geburtshaus (Salzburg, see)</name>
@@ -19067,6 +19673,9 @@
     </wpt>
     <wpt lat="19° 30' 58.80&quot; N" lon="98° 14' 58.80&quot; E">
         <name>Soppong River Inn (Pang Mapha, sleep)</name>
+    </wpt>
+    <wpt lat="49.31138" lon="8.44610">
+        <name>Technik Museum Speyer (Speyer, see)</name>
     </wpt>
     <wpt lat="53.77034" lon="7.69385">
         <name>Inselmuseum (Spiekeroog, see)</name>
@@ -19851,6 +20460,27 @@
     <wpt lat="45.7801547" lon="21.2664843">
         <name>CarpatZoo – Zoologischer Garten Timișoara (Timișoara, listing)</name>
     </wpt>
+    <wpt lat="45.754668" lon="21.226717">
+        <name>Casa cu flori (Timișoara, eat)</name>
+    </wpt>
+    <wpt lat="45.7518" lon="21.224378">
+        <name>Cofetaria Violeta (Timișoara, listing)</name>
+    </wpt>
+    <wpt lat="45.751553" lon="21.226168">
+        <name>The Note Pub (Timișoara, listing)</name>
+    </wpt>
+    <wpt lat="45.758362" lon="21.226171">
+        <name>Aethernative Café (Timișoara, listing)</name>
+    </wpt>
+    <wpt lat="45.75524" lon="21.23217">
+        <name>North Star Continental Resort (Timișoara, sleep)</name>
+    </wpt>
+    <wpt lat="45.754914" lon="21.225117">
+        <name>Hotel Timișoara (Timișoara, sleep)</name>
+    </wpt>
+    <wpt lat="45.748688" lon="21.221514">
+        <name>Deutsches Konsulat in Temeswar (Timișoara, listing)</name>
+    </wpt>
     <wpt lat="41°19'42.4&quot;N" lon="19°49'09.2&quot;E">
         <name>"Albania Touristeninformation" (Tirana, listing)</name>
     </wpt>
@@ -20268,8 +20898,26 @@
     <wpt lat="45.639263" lon="9.006501">
         <name>Hotel Concorde (Varese, sleep)</name>
     </wpt>
+    <wpt lat="45.47953" lon="12.23061">
+        <name>Casa Villa Gardenia (Venedig, sleep)</name>
+    </wpt>
+    <wpt lat="45.43462" lon="12.17514">
+        <name>B&amp;B Faronhof (Venedig, sleep)</name>
+    </wpt>
+    <wpt lat="45.50469" lon="12.27103">
+        <name>Hotel Holiday (Venedig, sleep)</name>
+    </wpt>
+    <wpt lat="45.40269" lon="12.36471">
+        <name>Hotel Rivamare (Venedig, sleep)</name>
+    </wpt>
+    <wpt lat="45.40607" lon="12.36523">
+        <name>Hotel Villa Albertina (Venedig, sleep)</name>
+    </wpt>
     <wpt lat="45.92325" lon="8.54800">
         <name>Noleggio barche «Marina di Pallanza» (Verbania, listing)</name>
+    </wpt>
+    <wpt lat="45.93744" lon="8.57176">
+        <name>Basilica di San Vittore (Verbania, listing)</name>
     </wpt>
     <wpt lat="45.92591" lon="8.56561">
         <name>Giardini botanici di «Villa Taranto» (Verbania, listing)</name>
@@ -21441,6 +22089,45 @@
     <wpt lat="48.2369" lon="16.3835">
         <name>Lorenz-Böhler-Unfallkrankenhaus (Wien/Brigittenau, listing)</name>
     </wpt>
+    <wpt lat="48.23886" lon="16.36509">
+        <name>Adalbert Stifter Apotheke (Wien/Brigittenau, listing)</name>
+    </wpt>
+    <wpt lat="48.23814" lon="16.38395">
+        <name>Allerheiligen Apotheke (Wien/Brigittenau, listing)</name>
+    </wpt>
+    <wpt lat="48.23021" lon="16.38679">
+        <name>Apotheke Zwischenbrücken (Wien/Brigittenau, listing)</name>
+    </wpt>
+    <wpt lat="48.230137" lon="16.3711862">
+        <name>Apotheke "Zur heiligen Brigitta" (Wien/Brigittenau, listing)</name>
+    </wpt>
+    <wpt lat="48.23332" lon="16.36573">
+        <name>Apotheke "Zur heiligen Elisabeth" (Wien/Brigittenau, listing)</name>
+    </wpt>
+    <wpt lat="48.23597" lon="16.37008">
+        <name>Arkaden-Apotheke (Wien/Brigittenau, listing)</name>
+    </wpt>
+    <wpt lat="48.24397" lon="16.38053">
+        <name>Aurora Apotheke (Wien/Brigittenau, listing)</name>
+    </wpt>
+    <wpt lat="48.24648" lon="16.37539">
+        <name>Engelshof-Apotheke (Wien/Brigittenau, listing)</name>
+    </wpt>
+    <wpt lat="48.22860" lon="16.36546">
+        <name>Herminen-Apotheke (Wien/Brigittenau, listing)</name>
+    </wpt>
+    <wpt lat="48.23929" lon="16.37662">
+        <name>Leonhardus-Apotheke (Wien/Brigittenau, listing)</name>
+    </wpt>
+    <wpt lat="48.23314" lon="16.37312">
+        <name>Marien-Apotheke (Wien/Brigittenau, listing)</name>
+    </wpt>
+    <wpt lat="48.24132" lon="16.38579">
+        <name>Millennium-Apotheke (Wien/Brigittenau, listing)</name>
+    </wpt>
+    <wpt lat="48.23398" lon="16.36943">
+        <name>Stadtpolizeikommando Brigittenau (Wien/Brigittenau, listing)</name>
+    </wpt>
     <wpt lat="48.24496" lon="16.34376">
         <name>Gasthaus Bajones (Wien/Döbling, eat)</name>
     </wpt>
@@ -21476,6 +22163,9 @@
     </wpt>
     <wpt lat="48.23793" lon="16.33376">
         <name>Hotel das Modul (Wien/Döbling, sleep)</name>
+    </wpt>
+    <wpt lat="48.24972" lon="16.44356">
+        <name>"St. Georg" (Wien/Donaustadt, listing)</name>
     </wpt>
     <wpt lat="48.2283" lon="16.4295">
         <name>Strandbad Gänsehäufel (Wien/Donaustadt, listing)</name>
@@ -21624,6 +22314,15 @@
     <wpt lat="48.17419" lon="16.35073">
         <name>Sozialmedizinisches Zentrum Süd - Geriatriezentrum Favoriten (Wien/Favoriten, listing)</name>
     </wpt>
+    <wpt lat="48.25300" lon="16.40852">
+        <name>Pfarrkirche "Hl. Leopold" (Wien/Floridsdorf, listing)</name>
+    </wpt>
+    <wpt lat="48.26318" lon="16.44095">
+        <name>Pfarrkirche von Leopoldau "Maria im Elend" (Wien/Floridsdorf, listing)</name>
+    </wpt>
+    <wpt lat="48.28135" lon="16.40829">
+        <name>Jedlersdorfer Alm (Wien/Floridsdorf, eat)</name>
+    </wpt>
     <wpt lat="48.2165912" lon="16.3276919">
         <name>Jetzt (Wien/Hernals, drink)</name>
     </wpt>
@@ -21648,11 +22347,86 @@
     <wpt lat="48.19319" lon="16.26184">
         <name>Hostel Hütteldorf (Wien/Hietzing, listing)</name>
     </wpt>
-    <wpt lat="48.20716" lon="16.36943">
+    <wpt lat="48.21201" lon="16.37438">
+        <name>Ruprechtskirche (Wien/Innere Stadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21287" lon="16.37063">
+        <name>Maria am Gestade (Wien/Innere Stadt, listing)</name>
+    </wpt>
+    <wpt lat="48.20488" lon="16.37106">
+        <name>Malteserkirche (Wien/Innere Stadt, listing)</name>
+    </wpt>
+    <wpt lat="48.20952" lon="16.36381">
+        <name>Alte Jesuitenkirche, Minoritenkirche (Wien/Innere Stadt, listing)</name>
+    </wpt>
+    <wpt lat="48.20437" lon="16.37211">
+        <name>Annakirche (Wien/Innere Stadt, listing)</name>
+    </wpt>
+    <wpt lat="48.20762" lon="16.37325">
+        <name>Deutschordenskirche (Wien/Innere Stadt, listing)</name>
+    </wpt>
+    <wpt lat="48.20882" lon="16.37913">
+        <name>Dominikanerkirche (Wien/Innere Stadt, listing)</name>
+    </wpt>
+    <wpt lat="48.20632" lon="16.37439">
+        <name>Franziskanerkirche (Wien/Innere Stadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21069" lon="16.37739">
+        <name>Griechisch-orthodoxe Kathedrale (Wien/Innere Stadt, listing)</name>
+    </wpt>
+    <wpt lat="48.20903" lon="16.37769">
+        <name>Jesuitenkirche (Wien/Innere Stadt, listing)</name>
+    </wpt>
+    <wpt lat="48.20806" lon="16.36703">
+        <name>Michaelerkirche (Wien/Innere Stadt, listing)</name>
+    </wpt>
+    <wpt lat="48.20943" lon="16.36396">
+        <name>Minoritenkirche (Wien/Innere Stadt, listing)</name>
+    </wpt>
+    <wpt lat="48.20941" lon="16.37000">
+        <name>Peterskirche (Wien/Innere Stadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21196" lon="16.37155">
+        <name>Salvatorkapelle (Wien/Innere Stadt, listing)</name>
+    </wpt>
+    <wpt lat="48.21199" lon="16.36471">
+        <name>Schottenstift (Wien/Innere Stadt, listing)</name>
+    </wpt>
+    <wpt lat="48.20378" lon="16.36180">
+        <name>Kunsthistorisches Museum (Wien/Innere Stadt, see)</name>
+    </wpt>
+    <wpt lat="48.20519" lon="16.35985">
+        <name>Naturhistorisches Museum (Wien/Innere Stadt, see)</name>
+    </wpt>
+    <wpt lat="48.20872" lon="16.37417">
+        <name>Erzbischöfliches Dom- und Diözesanmuseum (Wien/Innere Stadt, see)</name>
+    </wpt>
+    <wpt lat="48.20469" lon="16.36818">
+        <name>Albertina (Wien/Innere Stadt, see)</name>
+    </wpt>
+    <wpt lat="48.20760" lon="16.38160">
+        <name>Museum für Angewandte Kunst (Wien/Innere Stadt, see)</name>
+    </wpt>
+    <wpt lat="48.21097" lon="16.36926">
+        <name>Wienmuseum - Uhrenmuseum (Wien/Innere Stadt, see)</name>
+    </wpt>
+    <wpt lat="48.20947" lon="16.36571">
+        <name>Globenmuseum (Wien/Innere Stadt, see)</name>
+    </wpt>
+    <wpt lat="48.20712" lon="16.36937">
         <name>Jüdisches Museum Wien (Wien/Innere Stadt, see)</name>
     </wpt>
-    <wpt lat="48.20168" lon="16.36484">
-        <name>Akademie der Bildenden Künste (Wien/Innere Stadt, listing)</name>
+    <wpt lat="48.20382" lon="16.37303">
+        <name>Haus der Musik (Wien/Innere Stadt, see)</name>
+    </wpt>
+    <wpt lat="48.21123" lon="16.36567">
+        <name>Xocolat (Wien/Innere Stadt, buy)</name>
+    </wpt>
+    <wpt lat="48.20913" lon="16.37305">
+        <name>Männer (Wien/Innere Stadt, buy)</name>
+    </wpt>
+    <wpt lat="48.20859" lon="16.36722">
+        <name>Demel (Wien/Innere Stadt, listing)</name>
     </wpt>
     <wpt lat="48.20753" lon="16.36807">
         <name>Café Bräunerhof (Wien/Innere Stadt, eat)</name>
@@ -21686,6 +22460,54 @@
     </wpt>
     <wpt lat="48.21002" lon="16.36825">
         <name>Zum Schwarzen Kameel (Wien/Innere Stadt, eat)</name>
+    </wpt>
+    <wpt lat="48.21029" lon="16.36146">
+        <name>Burgtheater (Wien/Innere Stadt, do)</name>
+    </wpt>
+    <wpt lat="48.20131" lon="16.37493">
+        <name>Kasino am Schwarzenbergplatz (Wien/Innere Stadt, do)</name>
+    </wpt>
+    <wpt lat="48.21035" lon="16.37762">
+        <name>Drachengasse 2 Theater (Wien/Innere Stadt, do)</name>
+    </wpt>
+    <wpt lat="48.20910" lon="16.37012">
+        <name>Garage X / Theater Petersplatz (Wien/Innere Stadt, do)</name>
+    </wpt>
+    <wpt lat="48.21113" lon="16.37610">
+        <name>Kammerspiele (Wien/Innere Stadt, do)</name>
+    </wpt>
+    <wpt lat="48.21215" lon="16.37492">
+        <name>Komödie am Kai (Wien/Innere Stadt, do)</name>
+    </wpt>
+    <wpt lat="48.20065" lon="16.37166">
+        <name>Koproduktionshaus Wien (Wien/Innere Stadt, do)</name>
+    </wpt>
+    <wpt lat="48.20332" lon="16.37098">
+        <name>Stadt Theater Walfischgasse (Wien/Innere Stadt, do)</name>
+    </wpt>
+    <wpt lat="48.21156" lon="16.36145">
+        <name>Theater Die neue Tribüne (Wien/Innere Stadt, do)</name>
+    </wpt>
+    <wpt lat="48.20726" lon="16.37285">
+        <name>Theater im Zentrum (Wien/Innere Stadt, do)</name>
+    </wpt>
+    <wpt lat="48.20318" lon="16.36914">
+        <name>Wiener Staatsoper (Wien/Innere Stadt, listing)</name>
+    </wpt>
+    <wpt lat="48.20520" lon="16.37505">
+        <name>Ronacher Etablissement (Wien/Innere Stadt, do)</name>
+    </wpt>
+    <wpt lat="48.20054" lon="16.37248">
+        <name>Musikverein Wien (Wien/Innere Stadt, do)</name>
+    </wpt>
+    <wpt lat="48.20061" lon="16.37762">
+        <name>Wiener Konzerthaus (Wien/Innere Stadt, do)</name>
+    </wpt>
+    <wpt lat="48.20683" lon="16.37664">
+        <name>Jazzclub Porgy &amp; Bess (Wien/Innere Stadt, do)</name>
+    </wpt>
+    <wpt lat="48.21210" lon="16.37468">
+        <name>Jazzland (Wien/Innere Stadt, do)</name>
     </wpt>
     <wpt lat="48.21214" lon="16.34031">
         <name>Breitenfelder Pfarrkirche Hgl. Franziskus Seraphicus (Wien/Josefstadt, listing)</name>
@@ -22059,8 +22881,59 @@
     <wpt lat="48.2191442" lon="16.3758092">
         <name>Meininger Hotel Wien Downtown Sissi (Wien/Leopoldstadt, sleep)</name>
     </wpt>
+    <wpt lat="48.21529" lon="16.39020">
+        <name>Adlon Wien (Wien/Leopoldstadt, sleep)</name>
+    </wpt>
+    <wpt lat="48.22135" lon="16.38460">
+        <name>Austria Hotels International - Hotel Am Augarten (Wien/Leopoldstadt, sleep)</name>
+    </wpt>
+    <wpt lat="48.21527" lon="16.38604">
+        <name>[http://www.hotelcapri.at Capri Hotel] (Wien/Leopoldstadt, sleep)</name>
+    </wpt>
+    <wpt lat="48.21353" lon="16.38005">
+        <name>Hotel City Central (Wien/Leopoldstadt, sleep)</name>
+    </wpt>
     <wpt lat="48.217839" lon="16.389499">
         <name>[http://www.classic-hotelwien.at Classic Hotel Wien] (Wien/Leopoldstadt, sleep)</name>
+    </wpt>
+    <wpt lat="48.22084" lon="16.38901">
+        <name>Hotel KUNSThof (Wien/Leopoldstadt, sleep)</name>
+    </wpt>
+    <wpt lat="48.22730" lon="16.40018">
+        <name>Hotel Lassalle (Austria Trend) (Wien/Leopoldstadt, sleep)</name>
+    </wpt>
+    <wpt lat="48.21573" lon="16.40518">
+        <name>Austria Trend Hotel Messe Wien (Wien/Leopoldstadt, sleep)</name>
+    </wpt>
+    <wpt lat="48.20524" lon="16.39919">
+        <name>Suite Hotel 200m zum Prater (Wien/Leopoldstadt, sleep)</name>
+    </wpt>
+    <wpt lat="48.21731" lon="16.38065">
+        <name>City Hotel Tabor (Wien/Leopoldstadt, sleep)</name>
+    </wpt>
+    <wpt lat="48.22484" lon="16.36983">
+        <name>"This is not a HOTEL" (Wien/Leopoldstadt, sleep)</name>
+    </wpt>
+    <wpt lat="48.21964" lon="16.38642">
+        <name>Hotel Vienna (Wien/Leopoldstadt, sleep)</name>
+    </wpt>
+    <wpt lat="48.21327" lon="16.38316">
+        <name>Novotel Wien City (Wien/Leopoldstadt, sleep)</name>
+    </wpt>
+    <wpt lat="48.22235" lon="16.39775">
+        <name>IBIS Hotel Wien Messe (Wien/Leopoldstadt, sleep)</name>
+    </wpt>
+    <wpt lat="48.21396" lon="16.42150">
+        <name>Hilton Vienna Danube (Wien/Leopoldstadt, sleep)</name>
+    </wpt>
+    <wpt lat="48.21760" lon="16.38199">
+        <name>Hotel Imlauer Wien (Wien/Leopoldstadt, sleep)</name>
+    </wpt>
+    <wpt lat="48.21438" lon="16.38023">
+        <name>Hotel Stefanie (Wien/Leopoldstadt, sleep)</name>
+    </wpt>
+    <wpt lat="48.21858" lon="16.38813">
+        <name>Hotel Der Wilhelmshof (Wien/Leopoldstadt, sleep)</name>
     </wpt>
     <wpt lat="48.21039" lon="16.42165">
         <name>Apotheke im Stadion Center (Wien/Leopoldstadt, listing)</name>
@@ -22109,6 +22982,9 @@
     </wpt>
     <wpt lat="48.22351" lon="16.38552">
         <name>Schwan-Apotheke (Wien/Leopoldstadt, listing)</name>
+    </wpt>
+    <wpt lat="48.14762" lon="16.25346">
+        <name>Wotruba-Kirche (Wien/Liesing, listing)</name>
     </wpt>
     <wpt lat="48.19076" lon="16.35451">
         <name>Margaretner Pfarrkirche Hlg. Josef (Wien/Margareten, listing)</name>
@@ -22752,6 +23628,42 @@
     <wpt lat="48.20983" lon="16.25584">
         <name>Ernst Fuchs Museum (Wien/Penzing, see)</name>
     </wpt>
+    <wpt lat="48.1897" lon="16.3050">
+        <name>Bezirksmuseum Penzing (Wien/Penzing, see)</name>
+    </wpt>
+    <wpt lat="48.2097" lon="16.2779">
+        <name>Der Krieg gegen die "Minderwertigen" (Gedenkstätte Steinhof) (Wien/Penzing, see)</name>
+    </wpt>
+    <wpt lat="48.2300" lon="16.2026">
+        <name>Skianlage Hohe-Wand-Wiese (Wien/Penzing, listing)</name>
+    </wpt>
+    <wpt lat="48.2300" lon="16.2026">
+        <name>Schischule Wien Hohe-Wand-Wiese (Wien/Penzing, listing)</name>
+    </wpt>
+    <wpt lat="48.2300" lon="16.2026">
+        <name>Sommerrodelbahn Hohe-Wand-Wiese (Wien/Penzing, listing)</name>
+    </wpt>
+    <wpt lat="48.19755" lon="16.26476">
+        <name>SK Rapid Wien, Allianz-Arena (Wien/Penzing, listing)</name>
+    </wpt>
+    <wpt lat="48.2029" lon="16.2645">
+        <name>Hütteldorfer Bad (Wien/Penzing, listing)</name>
+    </wpt>
+    <wpt lat="48.2090" lon="16.2230">
+        <name>Hadersdorf-Weidlingauer Bad (Wien/Penzing, listing)</name>
+    </wpt>
+    <wpt lat="48.19742" lon="16.29547">
+        <name>Penzinger Bad (Wien/Penzing, listing)</name>
+    </wpt>
+    <wpt lat="48.1965" lon="16.3115">
+        <name>Familienbad Reinlgasse (Wien/Penzing, listing)</name>
+    </wpt>
+    <wpt lat="48.19968" lon="16.27102">
+        <name>Minigolf Baumgarten (Wien/Penzing, listing)</name>
+    </wpt>
+    <wpt lat="48.1968953" lon="16.2912864">
+        <name>Spielwarenfabrik Piatnik und Söhne (Wien/Penzing, buy)</name>
+    </wpt>
     <wpt lat="48.20254" lon="16.33129">
         <name>Pfarrkirche Christkönig Neufünfhaus (Wien/Rudolfsheim-Fünfhaus, listing)</name>
     </wpt>
@@ -22899,14 +23811,104 @@
     <wpt lat="47.51153" lon="8.73158">
         <name>Sammlung Oskar Reinhart 'Am Römerholz' (Winterthur, see)</name>
     </wpt>
+    <wpt lat="47.5004" lon="8.729">
+        <name>Museum Oskar Reinhart (Winterthur, see)</name>
+    </wpt>
+    <wpt lat="47.49602" lon="8.73902">
+        <name>Fotomuseum (Winterthur, see)</name>
+    </wpt>
+    <wpt lat="47.50157" lon="8.73039">
+        <name>Naturmuseum Winterthur (Winterthur, see)</name>
+    </wpt>
+    <wpt lat="47.50157" lon="8.73039">
+        <name>Kunstmuseum Winterthur (Winterthur, see)</name>
+    </wpt>
+    <wpt lat="47.51351" lon="8.76426">
+        <name>Technorama (Winterthur, see)</name>
+    </wpt>
+    <wpt lat="47.498188" lon="8.749747">
+        <name>Nagelfabrik (Winterthur, see)</name>
+    </wpt>
+    <wpt lat="47.498991" lon="8.728687">
+        <name>Stadtkirche (Winterthur, listing)</name>
+    </wpt>
+    <wpt lat="47.50657" lon="8.75589">
+        <name>Kirche St. Aborgast, Oberwinterthur (Winterthur, listing)</name>
+    </wpt>
+    <wpt lat="47.45861" lon="8.74361">
+        <name>Schloss Kyburg (Winterthur, listing)</name>
+    </wpt>
+    <wpt lat="47.508253" lon="8.77146">
+        <name>Schloss Hegi (Winterthur, listing)</name>
+    </wpt>
+    <wpt lat="47.51128" lon="8.6993426">
+        <name>Schloss Wülflingen (Winterthur, listing)</name>
+    </wpt>
+    <wpt lat="47.539756" lon="8.768855">
+        <name>Mörsburg (Winterthur, listing)</name>
+    </wpt>
     <wpt lat="47.51098" lon="8.69447">
         <name>Restaurant Hirschen Wülflingen (Winterthur, eat)</name>
     </wpt>
     <wpt lat="47.51097" lon="8.69259">
         <name>Restaurant Bären (Winterthur, eat)</name>
     </wpt>
+    <wpt lat="47.499713" lon="8.729869">
+        <name>Restaurant Sonne (Winterthur, eat)</name>
+    </wpt>
+    <wpt lat="47.498713" lon="8.727712">
+        <name>Gasthof zum Widder (Winterthur, eat)</name>
+    </wpt>
+    <wpt lat="47.509284" lon="8.717196">
+        <name>Bunter Hund (Winterthur, eat)</name>
+    </wpt>
+    <wpt lat="47.498191" lon="8.729112">
+        <name>Restaurant Walliser Kanne (Winterthur, eat)</name>
+    </wpt>
     <wpt lat="47.51127" lon="8.69927">
         <name>Restaurant Schloss Wülflingen (Winterthur, eat)</name>
+    </wpt>
+    <wpt lat="47.519845" lon="8.683968">
+        <name>Restaurant Taggenberg (Winterthur, eat)</name>
+    </wpt>
+    <wpt lat="47.499415" lon="8.727345">
+        <name>Restaurant Pearl (Winterthur, eat)</name>
+    </wpt>
+    <wpt lat="47.497291" lon="8.727545">
+        <name>Bar zum Schmalen Handtuch (Winterthur, drink)</name>
+    </wpt>
+    <wpt lat="47.501617" lon="8.725951">
+        <name>Paddy O'Brien's (Winterthur, listing)</name>
+    </wpt>
+    <wpt lat="47.498408" lon="8.729235">
+        <name>Albani (Winterthur, do)</name>
+    </wpt>
+    <wpt lat="47.498234" lon="8.727064">
+        <name>Fahrenheit (Winterthur, drink)</name>
+    </wpt>
+    <wpt lat="47.498349" lon="8.72048">
+        <name>plan b (Winterthur, drink)</name>
+    </wpt>
+    <wpt lat="47.499228" lon="8.728501">
+        <name>Sahara Bar (Winterthur, drink)</name>
+    </wpt>
+    <wpt lat="47.519786" lon="8.717092">
+        <name>Zeltplatz am Schützenweiher (Winterthur, listing)</name>
+    </wpt>
+    <wpt lat="47.495435" lon="8.718279">
+        <name>Depot 195 - Hostel Winterthur (Winterthur, listing)</name>
+    </wpt>
+    <wpt lat="47.495837" lon="8.711769">
+        <name>Hotel Ibis (Winterthur, sleep)</name>
+    </wpt>
+    <wpt lat="47.495837" lon="8.711769">
+        <name>Hotel Wartmann (Winterthur, sleep)</name>
+    </wpt>
+    <wpt lat="47.504075" lon="8.725484">
+        <name>Hotel Banana City (Winterthur, sleep)</name>
+    </wpt>
+    <wpt lat="47.500882" lon="8.732945">
+        <name>Gartenhotel Winterthur (Winterthur, sleep)</name>
     </wpt>
     <wpt lat="53.89507" lon="11.46646">
         <name>Stadtgeschichtliches Museum der Hansestadt Wismar (Wismar, see)</name>
@@ -23136,11 +24138,74 @@
     <wpt lat="54.2209" lon="9.6009">
         <name>Verkehrslandeplatz Rendsburg-Schachtholm (Rendsburg, listing)</name>
     </wpt>
+    <wpt lat="54.30534" lon="9.66518">
+        <name>St. Marien (Rendsburg, listing)</name>
+    </wpt>
+    <wpt lat="54.29955" lon="9.66302">
+        <name>Christkirche (Rendsburg, listing)</name>
+    </wpt>
+    <wpt lat="54.31348" lon="9.63974">
+        <name>St. Jürgen Kirche (Rendsburg, listing)</name>
+    </wpt>
+    <wpt lat="54.30122" lon="9.66943">
+        <name>St. Martin (Rendsburg, listing)</name>
+    </wpt>
     <wpt lat="54.2992" lon="9.6685">
         <name>Jüdisches Museum Rendsburg und Dr. Bamberger Haus (Rendsburg, see)</name>
     </wpt>
     <wpt lat="54.3012" lon="9.6615">
-        <name>Norddeutsches Druckmuseum im Hohen Arsenal Rendsburg (Rendsburg, see)</name>
+        <name>Museen im Kulturzentrum Rendsburg (Rendsburg, see)</name>
+    </wpt>
+    <wpt lat="54.29878" lon="9.66529">
+        <name>Rendsburger Schifffahrtsarchiv (Rendsburg, see)</name>
+    </wpt>
+    <wpt lat="54.30316" lon="9.66954">
+        <name>Stellwerk-Museum (Rendsburg, see)</name>
+    </wpt>
+    <wpt lat="54.31333" lon="9.66781">
+        <name>Eisenkunstguss-Museum (Rendsburg, see)</name>
+    </wpt>
+    <wpt lat="54.30534" lon="9.67168">
+        <name>Elektromuseum Rendsburg (Rendsburg, see)</name>
+    </wpt>
+    <wpt lat="54.30370" lon="9.66730">
+        <name>Stadttheater/Kammerspiele (Rendsburg, do)</name>
+    </wpt>
+    <wpt lat="54.3029" lon="9.6534">
+        <name>Schwimmzentrum Rendsburg (Rendsburg, listing)</name>
+    </wpt>
+    <wpt lat="54.30029" lon="9.66623">
+        <name>Hauptwache (Rendsburg, eat)</name>
+    </wpt>
+    <wpt lat="54.3400" lon="9.7498">
+        <name>Brauer`s Aalkate (Rendsburg, eat)</name>
+    </wpt>
+    <wpt lat="54.2944" lon="9.68327">
+        <name>Restaurant Brückenterrassen (Rendsburg, eat)</name>
+    </wpt>
+    <wpt lat="54.30413" lon="9.65641">
+        <name>Wohnmobil-Hafen (Rendsburg, listing)</name>
+    </wpt>
+    <wpt lat="54.2253" lon="9.6028">
+        <name>Wohnmobilstellplatz Schachtholm (Rendsburg, listing)</name>
+    </wpt>
+    <wpt lat="54.29166" lon="9.66318">
+        <name>ConventGarten Hotel und Restaurant (Rendsburg, sleep)</name>
+    </wpt>
+    <wpt lat="54.2967" lon="9.6670">
+        <name>Polizeirevier (Rendsburg, listing)</name>
+    </wpt>
+    <wpt lat="54.32145" lon="9.61530">
+        <name>Polizei-Bezirksrevier Rendsburg (Rendsburg, listing)</name>
+    </wpt>
+    <wpt lat="54.3006" lon="9.6697">
+        <name>Freiwillige Feuerwehr Rendsburg (Rendsburg, listing)</name>
+    </wpt>
+    <wpt lat="54.2973" lon="9.6583">
+        <name>imland Klinik (Rendsburg, listing)</name>
+    </wpt>
+    <wpt lat="54.30466" lon="9.66450">
+        <name>Tourist-Information Nord-Ostsee-Kanal &amp; Ticket-Service (Rendsburg, listing)</name>
     </wpt>
     <wpt lat="54.3089" lon="8.68694">
         <name>Flugplatz Sankt Peter-Ording (Sankt Peter-Ording, listing)</name>
@@ -23507,6 +24572,15 @@
     </wpt>
     <wpt lat="51.11272" lon="9.07858">
         <name>Quellen-Therme (Bad Wildungen, listing)</name>
+    </wpt>
+    <wpt lat="51.11733" lon="9.11486">
+        <name>Stadtklinik (Bad Wildungen, listing)</name>
+    </wpt>
+    <wpt lat="51.11836" lon="9.11496">
+        <name>Helenenklinik Bad Wildungen (Bad Wildungen, listing)</name>
+    </wpt>
+    <wpt lat="51.11258" lon="9.07116">
+        <name>Quellental Rehaklinik Reinhardshausen (Bad Wildungen, listing)</name>
     </wpt>
     <wpt lat="51.11812" lon="9.11821">
         <name>Kur- und Tourist Information (Bad Wildungen, listing)</name>
@@ -24757,7 +25831,7 @@
         <name>Badhotel * * * (Bad Brückenau, sleep)</name>
     </wpt>
     <wpt lat="50.30119" lon="9.74994">
-        <name>Bellevue - Restaurant Castello Belvedere (Bad Brückenau, listing)</name>
+        <name>Bellevue - Restaurant Castello Belvedere (Bad Brückenau, sleep)</name>
     </wpt>
     <wpt lat="50.30558" lon="9.76114">
         <name>Regena Gesundheits-Resort &amp; Spa (Bad Brückenau, sleep)</name>
@@ -25623,6 +26697,9 @@
     <wpt lat="50.29868" lon="10.46496">
         <name>Filiale Deutsche Post (Bad Königshofen, listing)</name>
     </wpt>
+    <wpt lat="50.81251" lon="10.22458">
+        <name>Kulturzentrum KW70 (Bad Salzungen, listing)</name>
+    </wpt>
     <wpt lat="47.4382" lon="11.27036">
         <name>Karwendelbahn (Mittenwald, listing)</name>
     </wpt>
@@ -25755,6 +26832,12 @@
     <wpt lat="41.8167" lon="44.7725">
         <name>Tbilisi Mall (Tiflis, buy)</name>
     </wpt>
+    <wpt lat="41.6893" lon="44.8976">
+        <name>East Point Mall (Tiflis, buy)</name>
+    </wpt>
+    <wpt lat="41.7073" lon="44.8576">
+        <name>Tbilisi Sea Plaza (Tiflis, buy)</name>
+    </wpt>
     <wpt lat="41.7890" lon="44.7660">
         <name>Goodwill (გუდვილი, Gudvili) Hypermarket Didi Dighomi (Tiflis, buy)</name>
     </wpt>
@@ -25797,9 +26880,6 @@
     <wpt lat="41.6897" lon="44.8089">
         <name>Machakhela Meidani (მაჭახელა მეიდანი) (Tiflis, eat)</name>
     </wpt>
-    <wpt lat="41.7236" lon="44.7435">
-        <name>Okros Gasagheba ("Goldener Schlüssel") (Tiflis, eat)</name>
-    </wpt>
     <wpt lat="41.69320" lon="44.80482">
         <name>Shemoikhede Genatsvale (შემოიხედე გენაცვალე) (Tiflis, eat)</name>
     </wpt>
@@ -25812,12 +26892,6 @@
     <wpt lat="41.69087" lon="44.80843">
         <name>Maspindzelo! (მასპინძელო!) (Tiflis, listing)</name>
     </wpt>
-    <wpt lat="41.7047" lon="44.7989">
-        <name>Mirzaani (მირზაანი) (Tiflis, eat)</name>
-    </wpt>
-    <wpt lat="41.7495" lon="44.7769">
-        <name>Mirzaani (მირზაანი) (Tiflis, eat)</name>
-    </wpt>
     <wpt lat="41.7272" lon="44.7674">
         <name>Tiflisi (ტიფლისი) (Tiflis, eat)</name>
     </wpt>
@@ -25826,6 +26900,12 @@
     </wpt>
     <wpt lat="41.7178" lon="44.7404">
         <name>Tsarapi (წარაფი) (Tiflis, eat)</name>
+    </wpt>
+    <wpt lat="41.72374" lon="44.71676">
+        <name>Amra (ამრა) (Tiflis, eat)</name>
+    </wpt>
+    <wpt lat="41.68990" lon="44.79879">
+        <name>Ezo (ეზო) (Tiflis, eat)</name>
     </wpt>
     <wpt lat="41.68856" lon="44.81245">
         <name>Puris Sachli (პურის სახლი, Bread House) (Tiflis, listing)</name>
@@ -25892,9 +26972,6 @@
     </wpt>
     <wpt lat="41.71769" lon="44.79058">
         <name>Ori Lula in Didube (Tiflis, listing)</name>
-    </wpt>
-    <wpt lat="41.7073" lon="44.7855">
-        <name>ELVIS American Diner (Tiflis, eat)</name>
     </wpt>
     <wpt lat="41.69394" lon="44.80079">
         <name>Lik &amp; Nik (Tiflis, listing)</name>
@@ -26203,22 +27280,22 @@
         <name>Eckbauer (Garmisch-Partenkirchen, eat)</name>
     </wpt>
     <wpt lat="47.07996" lon="11.67122">
-        <name>Spannagelhaus (Zillertaler Alpen, sleep)</name>
+        <name>Spannagelhaus (Zillertaler Alpen, listing)</name>
     </wpt>
     <wpt lat="47.05540" lon="11.75187">
-        <name>Klausenalm (Zillertaler Alpen, sleep)</name>
+        <name>Klausenalm (Zillertaler Alpen, listing)</name>
     </wpt>
     <wpt lat="47.09353" lon="11.76479">
-        <name>Pitzenalm (Zillertaler Alpen, sleep)</name>
+        <name>Pitzenalm (Zillertaler Alpen, listing)</name>
     </wpt>
     <wpt lat="47.11978" lon="11.87217">
         <name>Alpengasthaus Wasserfall (Zillertaler Alpen, eat)</name>
     </wpt>
     <wpt lat="47.03985" lon="11.70226">
-        <name>Alpengasthaus Dominikushütte (Zillertaler Alpen, sleep)</name>
+        <name>Alpengasthaus Dominikushütte (Zillertaler Alpen, listing)</name>
     </wpt>
     <wpt lat="47.03798" lon="11.70088">
-        <name>Bergrestaurant Schlegeis (Zillertaler Alpen, sleep)</name>
+        <name>Bergrestaurant Schlegeis (Zillertaler Alpen, listing)</name>
     </wpt>
     <wpt lat="47.03056" lon="11.69857">
         <name>Zamsereck (Zillertaler Alpen, eat)</name>
@@ -26868,8 +27945,17 @@
     <wpt lat="51.8472" lon="10.4322">
         <name>Ski Alpinum Schulenberg (Wintersport im Harz, listing)</name>
     </wpt>
+    <wpt lat="51.83278" lon="10.78336">
+        <name>Harzmuseum (Wernigerode, see)</name>
+    </wpt>
+    <wpt lat="51.83949" lon="10.77280">
+        <name>Luftfahrt-Museum Wernigerode (Wernigerode, see)</name>
+    </wpt>
     <wpt lat="51.83323" lon="10.78405">
         <name>Travel Charme Gothisches Haus (Wernigerode, sleep)</name>
+    </wpt>
+    <wpt lat="51.83313" lon="10.78447">
+        <name>Tourist-Information (Wernigerode, listing)</name>
     </wpt>
     <wpt lat="26.685065" lon="88.325517">
         <name>Badroga (Sikkim, listing)</name>
@@ -27212,6 +28298,9 @@
     </wpt>
     <wpt lat="8.033713" lon="98.819822">
         <name>Foxbar (Ao Nang, drink)</name>
+    </wpt>
+    <wpt lat="7.878707" lon="98.393383">
+        <name>2W Hostel Phuket (Phuket (Stadt), listing)</name>
     </wpt>
     <wpt lat="25° 44’ 46.95” S" lon="28° 10’ 53.02” E">
         <name>Krugerhaus (Pretoria, see)</name>
@@ -27852,6 +28941,15 @@
     <wpt lat="18.7783272" lon="100.7754314">
         <name>Pukha Nanfa Hotel (Nan, sleep)</name>
     </wpt>
+    <wpt lat="51.8670" lon="12.6619">
+        <name>Bahnhof Lutherstadt Wittenberg (Lutherstadt Wittenberg, listing)</name>
+    </wpt>
+    <wpt lat="51.8637" lon="12.6414">
+        <name>Haltepunkt Lutherstadt Wittenberg-Altstadt (Lutherstadt Wittenberg, listing)</name>
+    </wpt>
+    <wpt lat="51.8719" lon="12.5966">
+        <name>Haltepunkt Lutherstadt Wittenberg-Piesteritz (Lutherstadt Wittenberg, listing)</name>
+    </wpt>
     <wpt lat="51.8637" lon="12.6183">
         <name>Anlegestelle Elbhafen (Lutherstadt Wittenberg, listing)</name>
     </wpt>
@@ -27861,11 +28959,23 @@
     <wpt lat="51.8663" lon="12.6380">
         <name>Schlosskirche (Lutherstadt Wittenberg, listing)</name>
     </wpt>
+    <wpt lat="51.8665" lon="12.6449">
+        <name>Stadtkirche St. Marien (Lutherstadt Wittenberg, listing)</name>
+    </wpt>
+    <wpt lat="51.86598" lon="12.63784">
+        <name>Residenzschloss (Lutherstadt Wittenberg, listing)</name>
+    </wpt>
     <wpt lat="51.8640" lon="12.6524">
         <name>Lutherhaus (Lutherstadt Wittenberg, listing)</name>
     </wpt>
     <wpt lat="51.8647" lon="12.6510">
         <name>Melanchthonhaus (Lutherstadt Wittenberg, listing)</name>
+    </wpt>
+    <wpt lat="51.86605" lon="12.64331">
+        <name>Cranachs Welt (Lutherstadt Wittenberg, listing)</name>
+    </wpt>
+    <wpt lat="51.86622" lon="12.65385">
+        <name>Asisi-Panometer (Lutherstadt Wittenberg, listing)</name>
     </wpt>
     <wpt lat="51.8648" lon="12.6401">
         <name>Luthergarten (Lutherstadt Wittenberg, listing)</name>
@@ -28072,73 +29182,73 @@
         <name>Freilichtbühne Spremberg (Spremberg, do)</name>
     </wpt>
     <wpt lat="51.86899" lon="13.96957">
-        <name>Spreewald-Idyll (Lübbenau (Spreewald), eat)</name>
+        <name>Spreewald-Idyll (Lübbenau/Spreewald, eat)</name>
     </wpt>
     <wpt lat="51.86386" lon="13.96936">
-        <name>Gasthaus und Hotel Spreewaldeck (Lübbenau (Spreewald), listing)</name>
+        <name>Gasthaus und Hotel Spreewaldeck (Lübbenau/Spreewald, listing)</name>
     </wpt>
     <wpt lat="51.85826" lon="13.95818">
-        <name>Santa Fe Steakhouse (Lübbenau (Spreewald), eat)</name>
+        <name>Santa Fe Steakhouse (Lübbenau/Spreewald, eat)</name>
     </wpt>
     <wpt lat="51.86631" lon="13.99098">
-        <name>Restaurant Suez (Lübbenau (Spreewald), eat)</name>
+        <name>Restaurant Suez (Lübbenau/Spreewald, eat)</name>
     </wpt>
     <wpt lat="51.86724" lon="13.97354">
-        <name>Flaggschiff - Das Erlebnisrestaurant (Lübbenau (Spreewald), eat)</name>
+        <name>Flaggschiff - Das Erlebnisrestaurant (Lübbenau/Spreewald, eat)</name>
     </wpt>
     <wpt lat="51.86189" lon="13.96813">
-        <name>Restaurant &amp; Café Hanschick (Lübbenau (Spreewald), eat)</name>
+        <name>Restaurant &amp; Café Hanschick (Lübbenau/Spreewald, eat)</name>
     </wpt>
     <wpt lat="51.86811" lon="13.96845">
-        <name>"Zeitlos" das Brunnen &amp; Keller Café (Lübbenau (Spreewald), listing)</name>
+        <name>"Zeitlos" das Brunnen &amp; Keller Café (Lübbenau/Spreewald, listing)</name>
     </wpt>
     <wpt lat="51.87438" lon="13.98413">
-        <name>Gasthaus Wotschofska (Lübbenau (Spreewald), eat)</name>
+        <name>Gasthaus Wotschofska (Lübbenau/Spreewald, eat)</name>
     </wpt>
     <wpt lat="51.85668" lon="13.90489">
-        <name>Gasthaus Café Venedig (Lübbenau (Spreewald), listing)</name>
+        <name>Gasthaus Café Venedig (Lübbenau/Spreewald, listing)</name>
     </wpt>
     <wpt lat="51.86040" lon="13.93377">
-        <name>Hotel Nordic Spreewald*** (Lübbenau (Spreewald), sleep)</name>
+        <name>Hotel Nordic Spreewald*** (Lübbenau/Spreewald, sleep)</name>
     </wpt>
     <wpt lat="51.86924" lon="13.97287">
-        <name>Hotel Schloss Lübbenau (Lübbenau (Spreewald), sleep)</name>
+        <name>Hotel Schloss Lübbenau (Lübbenau/Spreewald, sleep)</name>
     </wpt>
     <wpt lat="51.86897" lon="13.96690">
-        <name>Hotel Lausitzhof (Lübbenau (Spreewald), sleep)</name>
+        <name>Hotel Lausitzhof (Lübbenau/Spreewald, sleep)</name>
     </wpt>
     <wpt lat="51.86807" lon="13.96856">
-        <name>Hotel &amp; Restaurant Charleston (Lübbenau (Spreewald), sleep)</name>
+        <name>Hotel &amp; Restaurant Charleston (Lübbenau/Spreewald, sleep)</name>
     </wpt>
     <wpt lat="51.85029" lon="14.05307">
-        <name>Gasthaus Dubkow Mühle (Lübbenau (Spreewald), sleep)</name>
+        <name>Gasthaus Dubkow Mühle (Lübbenau/Spreewald, sleep)</name>
     </wpt>
     <wpt lat="51.85714" lon="14.04066">
-        <name>Pension Spreewaldhof Leipe (Lübbenau (Spreewald), listing)</name>
+        <name>Pension Spreewaldhof Leipe (Lübbenau/Spreewald, listing)</name>
     </wpt>
     <wpt lat="51.86631" lon="13.99098">
-        <name>Hotelanlage Starick (Lübbenau (Spreewald), sleep)</name>
+        <name>Hotelanlage Starick (Lübbenau/Spreewald, sleep)</name>
     </wpt>
     <wpt lat="51.85058" lon="13.91564">
-        <name>Hotel &amp; Pension Am Mühlberg (Lübbenau (Spreewald), sleep)</name>
+        <name>Hotel &amp; Pension Am Mühlberg (Lübbenau/Spreewald, sleep)</name>
     </wpt>
     <wpt lat="51.86576" lon="13.95519">
-        <name>Turmhotel Lübbenau (Lübbenau (Spreewald), sleep)</name>
+        <name>Turmhotel Lübbenau (Lübbenau/Spreewald, sleep)</name>
     </wpt>
     <wpt lat="51.86760" lon="13.96032">
-        <name>Pension Am alten Bauernhafen (Lübbenau (Spreewald), listing)</name>
+        <name>Pension Am alten Bauernhafen (Lübbenau/Spreewald, listing)</name>
     </wpt>
     <wpt lat="51.86856" lon="13.91951">
-        <name>Pension Erlenhof (Lübbenau (Spreewald), listing)</name>
+        <name>Pension Erlenhof (Lübbenau/Spreewald, listing)</name>
     </wpt>
     <wpt lat="51.86925" lon="13.96608">
-        <name>Pension Ebusch (Lübbenau (Spreewald), listing)</name>
+        <name>Pension Ebusch (Lübbenau/Spreewald, listing)</name>
     </wpt>
     <wpt lat="51.87038" lon="13.96061">
-        <name>Pension Lübbenau "Am Stadtgraben" (Lübbenau (Spreewald), listing)</name>
+        <name>Pension Lübbenau "Am Stadtgraben" (Lübbenau/Spreewald, listing)</name>
     </wpt>
     <wpt lat="51.87031" lon="13.96052">
-        <name>Pension Scherz (Lübbenau (Spreewald), listing)</name>
+        <name>Pension Scherz (Lübbenau/Spreewald, listing)</name>
     </wpt>
     <wpt lat="51.84606" lon="14.15703">
         <name>Bismarckturm (Burg (Spreewald), listing)</name>
@@ -29091,6 +30201,21 @@
     <wpt lat="47.67063" lon="8.63329">
         <name>Bed and Breakfast "Les Mignardises" (Laufen-Uhwiesen, listing)</name>
     </wpt>
+    <wpt lat="13.841174" lon="100.492072">
+        <name>Provinzregierung (Nonthaburi, listing)</name>
+    </wpt>
+    <wpt lat="13.847903" lon="100.484315">
+        <name>Wat Chaloem Phra Kiat (Nonthaburi, listing)</name>
+    </wpt>
+    <wpt lat="13.887256" lon="100.496074">
+        <name>Wat Chomphuwek (Nonthaburi, listing)</name>
+    </wpt>
+    <wpt lat="13.821828" lon="100.503852">
+        <name>Wat Khema Phirataram (Nonthaburi, listing)</name>
+    </wpt>
+    <wpt lat="13.839226" lon="100.451818">
+        <name>Wat Prasat (Nonthaburi, listing)</name>
+    </wpt>
     <wpt lat="34.683207" lon="135.831302">
         <name>Kofuku-ji (Nara, listing)</name>
     </wpt>
@@ -29234,6 +30359,9 @@
     </wpt>
     <wpt lat="50.77302" lon="11.07687">
         <name>Zum Ginkgobaum (Stadtilm, sleep)</name>
+    </wpt>
+    <wpt lat="53.703889" lon="10.775">
+        <name>Ratzeburger Dom (Ratzeburg, listing)</name>
     </wpt>
     <wpt lat="53.70893" lon="10.76692">
         <name>Campingplatz Schwalkenberg (Ratzeburg, listing)</name>
@@ -29396,6 +30524,30 @@
     </wpt>
     <wpt lat="47.64649" lon="9.19842">
         <name>Campingplatz Fischerhaus (Kreuzlingen, listing)</name>
+    </wpt>
+    <wpt lat="47.067079" lon="9.503444">
+        <name>Restaurant Zentrum (Balzers, eat)</name>
+    </wpt>
+    <wpt lat="47.060553" lon="9.495987">
+        <name>Restaurant &amp; Metzgerei Falknis (Balzers, eat)</name>
+    </wpt>
+    <wpt lat="47.068525" lon="9.506974">
+        <name>Restaurant Engel (Balzers, eat)</name>
+    </wpt>
+    <wpt lat="47.064773" lon="9.505874">
+        <name>Restaurant Riet (Balzers, eat)</name>
+    </wpt>
+    <wpt lat="47.063902" lon="9.493888">
+        <name>Stobacafe (Balzers, listing)</name>
+    </wpt>
+    <wpt lat="47.066727" lon="9.507500">
+        <name>Hotel Hofbalzers (Balzers, sleep)</name>
+    </wpt>
+    <wpt lat="47.066882" lon="9.502297">
+        <name>Gemeinde Balzers (Balzers, listing)</name>
+    </wpt>
+    <wpt lat="50.27072" lon="8.28074">
+        <name>Hotel Lindner (Idstein, sleep)</name>
     </wpt>
     <wpt lat="50.22128" lon="8.26949">
         <name>Tourist-Information (Idstein, listing)</name>
@@ -30108,6 +31260,12 @@
     <wpt lat="51.54373" lon="9.53703">
         <name>Dornröschenschloss Sababurg (Sababurg, listing)</name>
     </wpt>
+    <wpt lat="35.02624" lon="-114.38333">
+        <name>Olive Oatman Restaurant and Saloon (Oatman, eat)</name>
+    </wpt>
+    <wpt lat="35.02641" lon="-114.38340">
+        <name>Oatman Hotel (Oatman, sleep)</name>
+    </wpt>
     <wpt lat="51.58034" lon="9.43119">
         <name>Freibad Trendelburg (Trendelburg, listing)</name>
     </wpt>
@@ -30239,6 +31397,21 @@
     </wpt>
     <wpt lat="51.72506" lon="11.14343">
         <name>Cyriacus-Apotheke (Gernrode, listing)</name>
+    </wpt>
+    <wpt lat="44.23236" lon="9.49726">
+        <name>Camping Il Rospo (Moneglia, listing)</name>
+    </wpt>
+    <wpt lat="44.24034" lon="9.48507">
+        <name>Camping la Secca (Moneglia, listing)</name>
+    </wpt>
+    <wpt lat="44.23849" lon="9.47792">
+        <name>Camping Smeraldo (Moneglia, listing)</name>
+    </wpt>
+    <wpt lat="44.24194" lon="9.48785">
+        <name>Villa Argentina (Moneglia, listing)</name>
+    </wpt>
+    <wpt lat="44.2415377" lon="9.4852055">
+        <name>Villa Edera (Moneglia, listing)</name>
     </wpt>
     <wpt lat="47.47331" lon="11.46725">
         <name>Unserer Lieben Frau Mariä Heimsuchung (Hinterriß, listing)</name>
@@ -30534,6 +31707,9 @@
     <wpt lat="47.67712" lon="12.47005">
         <name>Milchbar (Reit im Winkl, listing)</name>
     </wpt>
+    <wpt lat="47.6757570" lon="12.4701930">
+        <name>Gästehaus Bergwinkl (Reit im Winkl, listing)</name>
+    </wpt>
     <wpt lat="47.67747" lon="12.47745">
         <name>Gästehaus Bergstüberl (Reit im Winkl, listing)</name>
     </wpt>
@@ -30720,6 +31896,93 @@
     <wpt lat="45.813730" lon="9.081620">
         <name>Albergo Terminus (Como, sleep)</name>
     </wpt>
+    <wpt lat="16° 24′ 6″ N" lon="107° 42′ 10″ E">
+        <name>Flughafen Phu Bai (Huế, listing)</name>
+    </wpt>
+    <wpt lat="16°27'23.8&quot;N" lon="107°34'40.4&quot;E">
+        <name>Hauptbahnhof Hué (Huế, listing)</name>
+    </wpt>
+    <wpt lat="16°27'02.3&quot;N" lon="107°36'25.4&quot;E">
+        <name>Busstation: Bến Xe Phía Nam (Huế, listing)</name>
+    </wpt>
+    <wpt lat="16°27'57.4&quot;N" lon="107°35'39.2&quot;E">
+        <name>Sinh Tourist Busunternehmung (Huế, listing)</name>
+    </wpt>
+    <wpt lat="16°28'03.7&quot;N" lon="107°34'45.5&quot;E">
+        <name>innere kaiserliche Bereich (Kinh thành Huế) (Huế, see)</name>
+    </wpt>
+    <wpt lat="6°27'52.2&quot;N" lon="107°34'53.6&quot;E">
+        <name>Ngự Thuyền (Huế, eat)</name>
+    </wpt>
+    <wpt lat="16°28'11.8&quot;N" lon="107°34'57.4&quot;E">
+        <name>General Museum Complex (Quốc Tử Giám) (Huế, see)</name>
+    </wpt>
+    <wpt lat="16°27'13.2&quot;N" lon="107°32'42.9&quot;E">
+        <name>Thien Mu-Pagode (Chùa Thiên Mụ) (Huế, see)</name>
+    </wpt>
+    <wpt lat="16°27'14.8&quot;N" lon="107°32'20.8&quot;E">
+        <name>Khanh Van Pagode (Chùa Khánh Vân) (Huế, see)</name>
+    </wpt>
+    <wpt lat="16°27'55.5&quot;N" lon="107°35'16.8&quot;E">
+        <name>Ba Dang Kunstmuseum (Huế, see)</name>
+    </wpt>
+    <wpt lat="16°27'15.7&quot;N" lon="107°34'45.1&quot;E">
+        <name>Bao Quoc Pagode (Huế, see)</name>
+    </wpt>
+    <wpt lat="16°26'33.1&quot;N" lon="107°34'54.6&quot;E">
+        <name>Tempel Chùa Thiên Minh (Huế, see)</name>
+    </wpt>
+    <wpt lat="16°27'04.5&quot;N" lon="107°34'54.5&quot;E">
+        <name>Từ Đàm (Huế, see)</name>
+    </wpt>
+    <wpt lat="16°26'58.9&quot;N" lon="107°34'58.4&quot;E">
+        <name>Từ Vân-Tempel (Huế, see)</name>
+    </wpt>
+    <wpt lat="16°27'11.1&quot;N" lon="107°35'15.7&quot;E">
+        <name>Phu Cam-Kirche (Nhà thờ Phủ Cam) (Huế, listing)</name>
+    </wpt>
+    <wpt lat="16°27'25.9&quot;N" lon="107°35'52.8&quot;E">
+        <name>An Định-Palast (Huế, see)</name>
+    </wpt>
+    <wpt lat="16°25'59.4&quot;N" lon="107°33'57.8&quot;E">
+        <name>Grabmal des Tu Duc (Lăng Tự Đức Khiêm Lăng) (Huế, see)</name>
+    </wpt>
+    <wpt lat="16°23'56.5&quot;N" lon="107°35'25.4&quot;E">
+        <name>Grabmal des Khai Dinh (Lăng Khải Định. Ứng Lăng) (Huế, see)</name>
+    </wpt>
+    <wpt lat="16°28'22.2&quot;N" lon="107°35'18.4&quot;E">
+        <name>Dong Ba Markt (Chợ Đông Ba) (Huế, buy)</name>
+    </wpt>
+    <wpt lat="16°28'10.3&quot;N" lon="107°35'39.5&quot;E">
+        <name>Phạm Ngũ Lão (Huế, sleep)</name>
+    </wpt>
+    <wpt lat="16°27'49.0&quot;N" lon="107°35'36.3&quot;E">
+        <name>Minh Thai Hotel (Huế, sleep)</name>
+    </wpt>
+    <wpt lat="16°27'45.6&quot;N" lon="107°35'28.7&quot;E">
+        <name>Hue Heritage (Huế, sleep)</name>
+    </wpt>
+    <wpt lat="16°27'54.6&quot;N" lon="107°35'43.4&quot;E">
+        <name>Alba Boutique Hotel (Huế, sleep)</name>
+    </wpt>
+    <wpt lat="16°27'53.5&quot;N" lon="107°35'26.2&quot;E">
+        <name>Hauptpost (Bưu điện Trung tâm) (Huế, listing)</name>
+    </wpt>
+    <wpt lat="17° 30′ 0″ N" lon="106° 10′ 30″ E">
+        <name>Phong Nha-Kẻ Bàng-Nationalpark (Huế, see)</name>
+    </wpt>
+    <wpt lat="16° 10′ 55″ N" lon="107° 54′ 21″ E">
+        <name>Bạch Mã-Nationalpark (Huế, see)</name>
+    </wpt>
+    <wpt lat="16°33'24.6&quot;N" lon="107°39'30.2&quot;E">
+        <name>Thuan An-Strand (Bãi tắm Thuận An) (Huế, listing)</name>
+    </wpt>
+    <wpt lat="17°04'27.2&quot;N" lon="107°06'37.5&quot;E">
+        <name>Tunnel  von Vinh Moc (Địa đạo Vĩnh Mốc) (Huế, see)</name>
+    </wpt>
+    <wpt lat="16°57'29.3&quot;N" lon="106°57'16.3&quot;E">
+        <name>Truong Son (Vào nghĩa trang Trường Sơn) (Huế, see)</name>
+    </wpt>
     <wpt lat="47.5266952" lon="11.7076651">
         <name>Kronthaler - Alpine Lifestyle Hotel am Achensee (Achenkirch, sleep)</name>
     </wpt>
@@ -30836,6 +32099,9 @@
     </wpt>
     <wpt lat="47.384722" lon="11.743056°">
         <name>Schloss Tratzberg (Jenbach, listing)</name>
+    </wpt>
+    <wpt lat="47.286084" lon="11.496831">
+        <name>Austria Classic Hotel Heiligkreuz * * * * (Hall in Tirol, sleep)</name>
     </wpt>
     <wpt lat="47.28223" lon="11.51513">
         <name>Landeskrankenhaus Hall in Tirol (Hall in Tirol, listing)</name>
@@ -31128,6 +32394,18 @@
     <wpt lat="13.7560125" lon="100.5125052">
         <name>Damrong-Rajanubhab-Bibliothek (Bangkok/Rattanakosin, do)</name>
     </wpt>
+    <wpt lat="13.762257" lon="100.493977">
+        <name>BB House (Bangkok/Rattanakosin, listing)</name>
+    </wpt>
+    <wpt lat="13.760835" lon="100.497547">
+        <name>NapPark Hostel @ Khaosan (Bangkok/Rattanakosin, listing)</name>
+    </wpt>
+    <wpt lat="13.760384" lon="100.497994">
+        <name>The Street Hostel (Bangkok/Rattanakosin, listing)</name>
+    </wpt>
+    <wpt lat="13.760663" lon="100.49903">
+        <name>Suneta Hostel Khaosan (Bangkok/Rattanakosin, listing)</name>
+    </wpt>
     <wpt lat="13.7481705" lon="100.4965997">
         <name>The Asadang (Bangkok/Rattanakosin, sleep)</name>
     </wpt>
@@ -31260,6 +32538,12 @@
     <wpt lat="51.13135" lon="9.27481">
         <name>Toilette an der Fischergasse (Fritzlar, listing)</name>
     </wpt>
+    <wpt lat="49.67873" lon="9.00401">
+        <name>Tourist Information (Michelstadt, listing)</name>
+    </wpt>
+    <wpt lat="49.67830" lon="9.00442">
+        <name>Information für Touristik (Michelstadt, listing)</name>
+    </wpt>
     <wpt lat="49.68045" lon="8.62197">
         <name>Tourist-Information der Stadt Bensheim (Bensheim, listing)</name>
     </wpt>
@@ -31304,6 +32588,75 @@
     </wpt>
     <wpt lat="50.468197" lon="4.865491">
         <name>Office du Tourisme de Namur (Namur, listing)</name>
+    </wpt>
+    <wpt lat="19 53 50 N" lon="102 09 39 E">
+        <name>Flughafen von Luang Prabang (LPQ) (Luang Prabang, listing)</name>
+    </wpt>
+    <wpt lat="19°53'55.9&quot;N" lon="102°09'16.1&quot;E">
+        <name>Northern Bus station (Luang Prabang, listing)</name>
+    </wpt>
+    <wpt lat="19°52'06.6&quot;N" lon="102°07'54.3&quot;E">
+        <name>Southern Bus Terminal (Luang Prabang, listing)</name>
+    </wpt>
+    <wpt lat="19°53'32.4&quot;N" lon="102°08'02.6&quot;E">
+        <name>Khem-Kong-Ablegestelle (Luang Prabang, listing)</name>
+    </wpt>
+    <wpt lat="19°53'24.7&quot;N" lon="102°08'13.1&quot;E">
+        <name>Berg Phou Si (Luang Prabang, see)</name>
+    </wpt>
+    <wpt lat="19°53'32.0&quot;N" lon="102°08'08.0&quot;E">
+        <name>Nationalmuseum (Luang Prabang, see)</name>
+    </wpt>
+    <wpt lat="19°53'14.1&quot;N" lon="102°08'18.4&quot;E">
+        <name>Wat Visoun (oder Visunalat) (Luang Prabang, listing)</name>
+    </wpt>
+    <wpt lat="19°53'51.1&quot;N" lon="102°08'35.2&quot;E">
+        <name>Wat Xienthong (Luang Prabang, listing)</name>
+    </wpt>
+    <wpt lat="19°53'20.9&quot;N" lon="102°08'02.1&quot;E">
+        <name>Hmong Market (Luang Prabang, buy)</name>
+    </wpt>
+    <wpt lat="19°53'15.6&quot;N" lon="102°08'07.8&quot;E">
+        <name>Dara Market (Luang Prabang, buy)</name>
+    </wpt>
+    <wpt lat="19°53'27.8&quot;N" lon="102°08'02.8&quot;E">
+        <name>alten Bezirk (Luang Prabang, buy)</name>
+    </wpt>
+    <wpt lat="19°52'01.5&quot;N" lon="102°07'13.8&quot;E">
+        <name>Bowling Alley (Luang Prabang, eat)</name>
+    </wpt>
+    <wpt lat="19°53'06.2&quot;N" lon="102°07'54.9&quot;E">
+        <name>Cheng Guest House 2 (Luang Prabang, sleep)</name>
+    </wpt>
+    <wpt lat="19°53'39.8&quot;N" lon="102°08'25.2&quot;E">
+        <name>Villa Santi (Luang Prabang, sleep)</name>
+    </wpt>
+    <wpt lat="19°51'38.8&quot;N" lon="102°06'31.9&quot;E">
+        <name>Villa Santi Resort (Luang Prabang, sleep)</name>
+    </wpt>
+    <wpt lat="19°51'51.9&quot;N" lon="102°13'49.0&quot;E">
+        <name>Lao Spirit Resort (Luang Prabang, sleep)</name>
+    </wpt>
+    <wpt lat="19°49'31.6&quot;N" lon="102°06'50.5&quot;E">
+        <name>Hillside - Nature Lifestyle Lodge (Luang Prabang, sleep)</name>
+    </wpt>
+    <wpt lat="19°53'35.5&quot;N" lon="102°08'20.2&quot;E">
+        <name>Polizeiposten (Luang Prabang, listing)</name>
+    </wpt>
+    <wpt lat="19°51'53.1&quot;N" lon="102°07'09.8&quot;E">
+        <name>Krankenhaus der Provinz (Luang Prabang, listing)</name>
+    </wpt>
+    <wpt lat="19°53'20.4&quot;N" lon="102°07'59.2&quot;E">
+        <name>Postamt (Luang Prabang, listing)</name>
+    </wpt>
+    <wpt lat="19°53'19.5&quot;N" lon="102°08'15.4&quot;E">
+        <name>Chitravala Guest House (Luang Prabang, sleep)</name>
+    </wpt>
+    <wpt lat="20°03'06.7&quot;N" lon="102°12'25.6&quot;E">
+        <name>Pak Ou-Höhlen (Luang Prabang, see)</name>
+    </wpt>
+    <wpt lat="19°44'55.9&quot;N" lon="101°59'33.3&quot;E">
+        <name>Kuang-Si-Wasserfall (Luang Prabang, see)</name>
     </wpt>
     <wpt lat="23.105111" lon="35.560639">
         <name>Moschee (Schalātīn, listing)</name>
@@ -31545,6 +32898,9 @@
     <wpt lat="13.720372" lon="100.547664">
         <name>Hansaah Guest House Bangkok (Bangkok/Silom, listing)</name>
     </wpt>
+    <wpt lat="13.723116" lon="100.5194199">
+        <name>Holiday Inn Silom Bangkok (Bangkok/Silom, sleep)</name>
+    </wpt>
     <wpt lat="13.7235434" lon="100.5298269">
         <name>i-Residence Hotel (Bangkok/Silom, sleep)</name>
     </wpt>
@@ -31557,8 +32913,8 @@
     <wpt lat="13.7284315" lon="100.53738">
         <name>Dusit Thani Bangkok (Bangkok/Silom, sleep)</name>
     </wpt>
-    <wpt lat="13.723116" lon="100.5194199">
-        <name>Holiday Inn Silom Bangkok (Bangkok/Silom, sleep)</name>
+    <wpt lat="13.7220529" lon="100.5169576">
+        <name>Lebua at State Tower (Bangkok/Silom, sleep)</name>
     </wpt>
     <wpt lat="13.723309" lon="100.539172">
         <name>Metropolitan by COMO (Bangkok/Silom, sleep)</name>
@@ -31568,9 +32924,6 @@
     </wpt>
     <wpt lat="13.7242104" lon="100.5396652">
         <name>Banyan Tree Bangkok (Bangkok/Silom, sleep)</name>
-    </wpt>
-    <wpt lat="13.7220529" lon="100.5169576">
-        <name>Lebua at State Tower (Bangkok/Silom, sleep)</name>
     </wpt>
     <wpt lat="13.7235225" lon="100.5143237">
         <name>Hotel Mandarin Oriental Bangkok (Bangkok/Silom, sleep)</name>
@@ -32049,6 +33402,9 @@
     <wpt lat="50.249140" lon="7.446888">
         <name>Tourist-Information  Alken (Alken (Mosel), listing)</name>
     </wpt>
+    <wpt lat="51.5743" lon="11.3133">
+        <name>Europa-Rosarium (Sangerhausen, listing)</name>
+    </wpt>
     <wpt lat="51.49358" lon="11.31356">
         <name>Gaststätte Markl`s Pferdestall (Sangerhausen, eat)</name>
     </wpt>
@@ -32427,6 +33783,9 @@
     <wpt lat="50.96215" lon="13.93457">
         <name>Postbank Finanzcenter (Pirna, listing)</name>
     </wpt>
+    <wpt lat="47.961081" lon="3.513088">
+        <name>Laroche-Migennes (Yonne, listing)</name>
+    </wpt>
     <wpt lat="50.10959" lon="11.45198">
         <name>Bahnhof Kulmbach (Kulmbach, listing)</name>
     </wpt>
@@ -32598,11 +33957,26 @@
     <wpt lat="57.147375" lon="-2.095064">
         <name>Aberdeen Visitor Information Centre (Aberdeen, listing)</name>
     </wpt>
+    <wpt lat="47.40144" lon="10.91822">
+        <name>Hallenbad Ehrwald (Ehrwald, listing)</name>
+    </wpt>
     <wpt lat="47.40659" lon="10.90439">
         <name>Golfplatz Golfclub Zugspitze Tirol (Ehrwald, listing)</name>
     </wpt>
+    <wpt lat="47.40568" lon="10.91789">
+        <name>Restaurant Loisachstube (Ehrwald, eat)</name>
+    </wpt>
     <wpt lat="47.38500" lon="10.96937">
         <name>Tirolerhaus (Ehrwald, eat)</name>
+    </wpt>
+    <wpt lat="47.39656" lon="10.91912">
+        <name>Gästehaus Seebenblick (Ehrwald, sleep)</name>
+    </wpt>
+    <wpt lat="47.39931" lon="10.91901">
+        <name>Zugspitz-Apotheke (Ehrwald, listing)</name>
+    </wpt>
+    <wpt lat="47.40021" lon="10.91820">
+        <name>Postfiliale (Ehrwald, listing)</name>
     </wpt>
     <wpt lat="47.39803" lon="10.88811">
         <name>Hotel Post Lermoos (Lermoos, sleep)</name>
@@ -32910,8 +34284,50 @@
     <wpt lat="47.8475" lon="1.937778">
         <name>Parc Floral de la Source (Orléans, do)</name>
     </wpt>
-    <wpt lat="51.54668" lon="3.66678">
-        <name>OFFICE DE TOURISME (Dijon, listing)</name>
+    <wpt lat="47.323516" lon="5.027122">
+        <name>Dijon Ville (Dijon, listing)</name>
+    </wpt>
+    <wpt lat="47.322672" lon="5.055017">
+        <name>Dijon Porte Neuve (Dijon, listing)</name>
+    </wpt>
+    <wpt lat="47.321505" lon="5.034525">
+        <name>Cathédrale Saint-Bénigne (Dijon, listing)</name>
+    </wpt>
+    <wpt lat="47.32168" lon="5.041456">
+        <name>Palais des ducs de Bourgogne (Dijon, listing)</name>
+    </wpt>
+    <wpt lat="47.323283" lon="5.034734">
+        <name>Porte Guillaume (Dijon, do)</name>
+    </wpt>
+    <wpt lat="47.321389" lon="5.042384">
+        <name>Musée des beaux arts (Dijon, see)</name>
+    </wpt>
+    <wpt lat="47.321661" lon="5.03497">
+        <name>Musée archéologique (Dijon, see)</name>
+    </wpt>
+    <wpt lat="47.317399" lon="5.037645">
+        <name>Musée de la Vie Bourguignonne (Dijon, see)</name>
+    </wpt>
+    <wpt lat="47.321865" lon="5.028903">
+        <name>Muséum d'histoire naturelle (Dijon, see)</name>
+    </wpt>
+    <wpt lat="47.320269" lon="5.026833">
+        <name>Jardin des sciences und Planetarium (Dijon, see)</name>
+    </wpt>
+    <wpt lat="47.32344" lon="5.0343831">
+        <name>Place Darcy (Dijon, do)</name>
+    </wpt>
+    <wpt lat="47.321269" lon="5.041311">
+        <name>Place de la Libération (Dijon, do)</name>
+    </wpt>
+    <wpt lat="47.321676" lon="5.027932">
+        <name>Jardin de l'Arquebuse (Dijon, do)</name>
+    </wpt>
+    <wpt lat="47.324076" lon="5.032707">
+        <name>Jardin Darcy (Dijon, do)</name>
+    </wpt>
+    <wpt lat="47.322065" lon="5.04085">
+        <name>Office de Tourisme (Dijon, listing)</name>
     </wpt>
     <wpt lat="49.481713" lon="0.108971">
         <name>Terminal Croisière (Le Havre, listing)</name>
@@ -32972,6 +34388,18 @@
     </wpt>
     <wpt lat="46.12275" lon="3.42286">
         <name>Musée Municipal de Vichy (Vichy, see)</name>
+    </wpt>
+    <wpt lat="47.797604" lon="3.585161">
+        <name>Auxerre-St Gervais (Auxerre, listing)</name>
+    </wpt>
+    <wpt lat="48.839194" lon="2.382727">
+        <name>Bahnhof Paris-Bercy (Auxerre, listing)</name>
+    </wpt>
+    <wpt lat="47.961081" lon="3.513088">
+        <name>Bahnhof Laroche-Migennes (Auxerre, listing)</name>
+    </wpt>
+    <wpt lat="47.323516" lon="5.027122">
+        <name>Bahnhof Dijon Ville (Auxerre, listing)</name>
     </wpt>
     <wpt lat="48.4480" lon="1.4881">
         <name>La cathédrale Notre-Dame de Chartres (Chartres, listing)</name>
@@ -33177,11 +34605,35 @@
     <wpt lat="50.89821" lon="14.80555">
         <name>Hotel und Parkhaus Dreiländereck (Zittau, sleep)</name>
     </wpt>
+    <wpt lat="51.9539" lon="12.0892">
+        <name>Bahnhof (Zerbst/Anhalt, listing)</name>
+    </wpt>
+    <wpt lat="51.9693" lon="12.0848">
+        <name>Kirche St. Nikolai (Zerbst/Anhalt, listing)</name>
+    </wpt>
+    <wpt lat="51.9695" lon="12.0872">
+        <name>Kitche St. Trinitatis (Zerbst/Anhalt, listing)</name>
+    </wpt>
+    <wpt lat="51.96893" lon="12.09145">
+        <name>Klostergebäude des „Francisceum" (Zerbst/Anhalt, listing)</name>
+    </wpt>
+    <wpt lat="51.9636" lon="12.0822">
+        <name>Stadtschloss (Zerbst/Anhalt, listing)</name>
+    </wpt>
+    <wpt lat="51.9637" lon="12.0847">
+        <name>Kirche St. Bartholomaei (Zerbst/Anhalt, listing)</name>
+    </wpt>
+    <wpt lat="51.8921" lon="12.0285">
+        <name>Nikolaikirche Steckby (Zerbst/Anhalt, listing)</name>
+    </wpt>
     <wpt lat="51.99700" lon="12.08800">
         <name>Vogelherd (Zerbst/Anhalt, listing)</name>
     </wpt>
-    <wpt lat="51.96000" lon="12.08550">
+    <wpt lat="51.9601" lon="12.0873">
         <name>Rephuns Garten (Zerbst/Anhalt, listing)</name>
+    </wpt>
+    <wpt lat="51.9606" lon="12.0939">
+        <name>HELIOS Klinik Zerbst/Anhalt (Zerbst/Anhalt, listing)</name>
     </wpt>
     <wpt lat="54.0325" lon="21.7485">
         <name>Boyen Festung (Giżycko, listing)</name>
@@ -33712,7 +35164,7 @@
         <name>Seiland Explore (Hammerfest, listing)</name>
     </wpt>
     <wpt lat="47.01028" lon="4.89639">
-        <name>Aérodrome de) Beaune (Beaune, listing)</name>
+        <name>Aérodrome de Beaune (Beaune, listing)</name>
     </wpt>
     <wpt lat="47.023" lon="4.84852">
         <name>Gare de Beaune (Beaune, listing)</name>
@@ -33722,6 +35174,12 @@
     </wpt>
     <wpt lat="47.022026" lon="4.8365004">
         <name>Hôtel-Dieu (Beaune, listing)</name>
+    </wpt>
+    <wpt lat="47.0233653" lon="4.8341773">
+        <name>Hôtel des Ducs de Bourgogne (Beaune, listing)</name>
+    </wpt>
+    <wpt lat="47.021006" lon="4.832297">
+        <name>Moutarderie Edmond Fallot (Beaune, listing)</name>
     </wpt>
     <wpt lat="47.02336" lon="4.83893">
         <name>Le Conty (Beaune, eat)</name>
@@ -33885,6 +35343,9 @@
     <wpt lat="50.50325" lon="9.12031">
         <name>Naturschutz-Informationszentrum am Hoherodskopf (Hoherodskopf, listing)</name>
     </wpt>
+    <wpt lat="47.961081" lon="3.513088">
+        <name>Laroche-Migennes (Vézelay, listing)</name>
+    </wpt>
     <wpt lat="52.8816" lon="11.5255">
         <name>Maränenhof Kagel (Arendsee, listing)</name>
     </wpt>
@@ -33893,6 +35354,9 @@
     </wpt>
     <wpt lat="52.85309" lon="11.15347">
         <name>Tourist-Information Salzwedel (Salzwedel, listing)</name>
+    </wpt>
+    <wpt lat="52.4348" lon="11.8064">
+        <name>Tourist-Information (Tangerhütte, listing)</name>
     </wpt>
     <wpt lat="43.536727" lon="16.299033">
         <name>Split Airport Kaštela (Trogir, listing)</name>
@@ -34254,6 +35718,9 @@
     <wpt lat="54.96879" lon="-1.60596">
         <name>The Slug And Lettuce, Newcastle upon Tyne (Newcastle upon Tyne, listing)</name>
     </wpt>
+    <wpt lat="51.3568" lon="11.9908">
+        <name>Bahnhof (Merseburg, listing)</name>
+    </wpt>
     <wpt lat="51.32365" lon="11.96316">
         <name>Zur Schiene (Merseburg, eat)</name>
     </wpt>
@@ -34280,6 +35747,9 @@
     </wpt>
     <wpt lat="51.35561" lon="11.99232">
         <name>Pizzeria Marco Polo (Merseburg, eat)</name>
+    </wpt>
+    <wpt lat="51.35425" lon="11.99562">
+        <name>Taverne Zeus (Merseburg, eat)</name>
     </wpt>
     <wpt lat="51.35463" lon="11.99552">
         <name>Der Whiskykeller Merseburg (Merseburg, drink)</name>
@@ -34728,6 +36198,9 @@
     <wpt lat="51.915291" lon="4.476479">
         <name>King Kong Hostel (Rotterdam, listing)</name>
     </wpt>
+    <wpt lat="51.93060" lon="4.44524">
+        <name>Stadscamping (Rotterdam, listing)</name>
+    </wpt>
     <wpt lat="51.897924" lon="4.473284">
         <name>Kreuzfahrtschiff  ss Rotterdam (Rotterdam, sleep)</name>
     </wpt>
@@ -34743,7 +36216,7 @@
     <wpt lat="52.00713" lon="5.89798">
         <name>Burgers' Zoo (Arnheim, listing)</name>
     </wpt>
-    <wpt lat="52.00080" lon="5.91408">
+    <wpt lat="52.000" lon="5.914">
         <name>Stayokay Hostel Arnhem (Arnheim, listing)</name>
     </wpt>
     <wpt lat="51.98231" lon="5.89605">
@@ -34848,6 +36321,15 @@
     <wpt lat="55° 25' 39.9&quot; N" lon="13° 49' 15.8&quot; E">
         <name>Touristenbüro Ystad (Ystad, listing)</name>
     </wpt>
+    <wpt lat="49.64469" lon="12.15572">
+        <name>Spargelhof Brunner (Weiden in der Oberpfalz, buy)</name>
+    </wpt>
+    <wpt lat="49.67592" lon="12.16395">
+        <name>Gasthausbrauerei BräuWirt (Weiden in der Oberpfalz, listing)</name>
+    </wpt>
+    <wpt lat="49.62888" lon="12.13851">
+        <name>Gaststätte Schinderhannes (Weiden in der Oberpfalz, eat)</name>
+    </wpt>
     <wpt lat="51.36841" lon="6.17040">
         <name>Eetcafé de Brasserie (Venlo, eat)</name>
     </wpt>
@@ -34871,6 +36353,12 @@
     </wpt>
     <wpt lat="53.72375" lon="14.03289">
         <name>Hotel Pommern Mühle (Ueckermünde, sleep)</name>
+    </wpt>
+    <wpt lat="49.598056" lon="17.2625">
+        <name>Olmützer Burg (Olmütz, listing)</name>
+    </wpt>
+    <wpt lat="49.593942" lon="17.250425">
+        <name>Dreifaltigkeitssäule (Olmütz, listing)</name>
     </wpt>
     <wpt lat="48.97529" lon="14.46853">
         <name>Schwimmbad (Budweis, listing)</name>
@@ -34937,9 +36425,6 @@
     </wpt>
     <wpt lat="51.79608" lon="11.74364">
         <name>Ristorante Bella Napoli (Bernburg (Saale), eat)</name>
-    </wpt>
-    <wpt lat="51.79475" lon="11.73963">
-        <name>Indian Palace (Bernburg (Saale), eat)</name>
     </wpt>
     <wpt lat="51.78495" lon="11.73682">
         <name>Brutzelhaus (Bernburg (Saale), eat)</name>
@@ -35589,6 +37074,12 @@
     <wpt lat="48.35368" lon="11.78593">
         <name>Polizeiinspektion Flughafen München (Flughafen München, listing)</name>
     </wpt>
+    <wpt lat="46.731995" lon="10.814503">
+        <name>Ötzi-Rope-Park (Schnalstal, listing)</name>
+    </wpt>
+    <wpt lat="46.770086" lon="10.797164">
+        <name>Glacier Hotel Grawand (Schnalstal, sleep)</name>
+    </wpt>
     <wpt lat="51.47217" lon="13.86899">
         <name>Gaststätte Schlemmerstübchen (Schwarzheide, eat)</name>
     </wpt>
@@ -35617,16 +37108,16 @@
         <name>Tourist Info (Bad Überkingen, listing)</name>
     </wpt>
     <wpt lat="51.838389" lon="6.620547">
-        <name>Stadtmuseum Bocholt (Bocholt, listing)</name>
+        <name>Stadtmuseum Bocholt (Bocholt, see)</name>
     </wpt>
     <wpt lat="51.838615" lon="6.620611">
         <name>Kunsthaus (Bocholt, listing)</name>
     </wpt>
     <wpt lat="51.83515" lon="6.62834">
-        <name>Textilmuseum (Bocholt, listing)</name>
+        <name>Textilmuseum (Bocholt, see)</name>
     </wpt>
     <wpt lat="51.830845" lon="6.621358">
-        <name>Handwerksmuseum (Bocholt, listing)</name>
+        <name>Handwerksmuseum (Bocholt, see)</name>
     </wpt>
     <wpt lat="51.83753" lon="6.59649">
         <name>Rose Biketown (Bocholt, listing)</name>
@@ -36369,6 +37860,9 @@
     <wpt lat="40.76551" lon="-73.98344">
         <name>Meze Grill (Manhattan/Midtown, listing)</name>
     </wpt>
+    <wpt lat="40.75249" lon="-73.97774">
+        <name>Great Northern Food Hall (Manhattan/Midtown, eat)</name>
+    </wpt>
     <wpt lat="40.76182" lon="-73.98339">
         <name>Iridium (Manhattan/Midtown, do)</name>
     </wpt>
@@ -36923,6 +38417,9 @@
     </wpt>
     <wpt lat="40.71938" lon="-74.00478">
         <name>Tribeca Grand Hotel (Manhattan/TriBeCa, sleep)</name>
+    </wpt>
+    <wpt lat="50.55338" lon="6.23680">
+        <name>Monschauer Glashütte (Monschau, listing)</name>
     </wpt>
     <wpt lat="50.55329" lon="6.24155">
         <name>Monschau-Touristik (Monschau, listing)</name>
@@ -37491,31 +38988,40 @@
     <wpt lat="47.62793" lon="11.75788">
         <name>Schwaigeralm (Kreuth, eat)</name>
     </wpt>
-    <wpt lat="25.534039" lon="34.635601">
+    <wpt lat="25.534114" lon="34.635698">
         <name>Extra Divers Ghalib (Port Ghālib, listing)</name>
     </wpt>
-    <wpt lat="25.528453" lon="34.636341">
-        <name>Extra Divers Port Ghalib (Port Ghālib, listing)</name>
+    <wpt lat="25.528334" lon="34.635834">
+        <name>Emperor Divers (Port Ghālib, listing)</name>
     </wpt>
-    <wpt lat="25.534194" lon="34.634770">
+    <wpt lat="25.534215" lon="34.636368">
+        <name>Book Shop Port Ghalib (Port Ghālib, buy)</name>
+    </wpt>
+    <wpt lat="25.534036" lon="34.635124">
+        <name>Bicafé (Port Ghālib, listing)</name>
+    </wpt>
+    <wpt lat="25.534189" lon="34.636135">
+        <name>BR Baskin-Robbins (Port Ghālib, listing)</name>
+    </wpt>
+    <wpt lat="25.534341" lon="34.637240">
         <name>Costa Coffee (Port Ghālib, listing)</name>
     </wpt>
-    <wpt lat="25.534041" lon="34.634960">
-        <name>Grand Café (Port Ghālib, listing)</name>
+    <wpt lat="25.534225" lon="34.636545">
+        <name>Egyptian Café (Port Ghālib, listing)</name>
     </wpt>
-    <wpt lat="25.533833" lon="34.634666">
+    <wpt lat="25.534070" lon="34.635547">
+        <name>TuttiFrutti (Port Ghālib, listing)</name>
+    </wpt>
+    <wpt lat="25.533867" lon="34.634823">
         <name>Divino Restaurant (Port Ghālib, eat)</name>
     </wpt>
-    <wpt lat="25.534092" lon="34.634558">
-        <name>Pizza Hut (Port Ghālib, eat)</name>
+    <wpt lat="25.534099" lon="34.635094">
+        <name>Ikura Sushi (Port Ghālib, eat)</name>
     </wpt>
-    <wpt lat="25.534296" lon="34.637142">
+    <wpt lat="25.534169" lon="34.637208">
         <name>Sultan Restaurant and Cafe Port Ghalib (Port Ghālib, eat)</name>
     </wpt>
-    <wpt lat="25.534208" lon="34.636395">
-        <name>T.G.I. Friday’s (Port Ghālib, eat)</name>
-    </wpt>
-    <wpt lat="25.534" lon="34.636">
+    <wpt lat="25.534189" lon="34.635990">
         <name>Wunder-Bar (Port Ghālib, drink)</name>
     </wpt>
     <wpt lat="25.53632" lon="34.627213">
@@ -37538,6 +39044,12 @@
     </wpt>
     <wpt lat="25.536982" lon="34.639292">
         <name>Siva Port Ghalib (Port Ghālib, sleep)</name>
+    </wpt>
+    <wpt lat="25.540864" lon="34.616799">
+        <name>Port Ghalib Hospital (Port Ghālib, listing)</name>
+    </wpt>
+    <wpt lat="25.534745" lon="34.636497">
+        <name>Apotheke (Port Ghālib, listing)</name>
     </wpt>
     <wpt lat="41.87349" lon="12.50151">
         <name>Museo delle Mura (Rom/Südosten, see)</name>
@@ -37798,10 +39310,10 @@
         <name>Calle 62 (Varadero, drink)</name>
     </wpt>
     <wpt lat="23.18090905744508" lon="-81.19190186262131">
-        <name>Cueva de Pirata (Varadero, listing)</name>
+        <name>Cueva de Pirata (Varadero, do)</name>
     </wpt>
     <wpt lat="23.152957826427716" lon="-81.2472814321518">
-        <name>Havana Club (Varadero, listing)</name>
+        <name>Havana Club (Varadero, do)</name>
     </wpt>
     <wpt lat="23.183" lon="-81.191">
         <name>Hotel Occidental Allegro Varadero (Varadero, sleep)</name>
@@ -39174,6 +40686,9 @@
     <wpt lat="47.428064" lon="9.673875">
         <name>Rheinhalle (Lustenau, do)</name>
     </wpt>
+    <wpt lat="47.42842" lon="9.67299">
+        <name>Riedlaufstrecken (Lustenau, do)</name>
+    </wpt>
     <wpt lat="47.42640" lon="9.65815">
         <name>Markt am Kirchplatz (Lustenau, listing)</name>
     </wpt>
@@ -39467,6 +40982,12 @@
     </wpt>
     <wpt lat="50.36376" lon="11.63463">
         <name>Therme Bad Steben (Bad Steben, listing)</name>
+    </wpt>
+    <wpt lat="50.36365" lon="11.63497">
+        <name>Tourist-Information (Bad Steben, listing)</name>
+    </wpt>
+    <wpt lat="50.36656" lon="11.64175">
+        <name>Postagentur (Bad Steben, listing)</name>
     </wpt>
     <wpt lat="49.96181" lon="15.28814">
         <name>Sedletz-Ossarium (Kutná Hora, listing)</name>
@@ -40047,6 +41568,9 @@
     <wpt lat="51.87036" lon="10.55973">
         <name>Tannenstube (Bad Harzburg, eat)</name>
     </wpt>
+    <wpt lat="51.86829" lon="10.5575">
+        <name>Harz-Camp Göttingerode (Bad Harzburg, listing)</name>
+    </wpt>
     <wpt lat="51.58279" lon="10.61951">
         <name>Zisterzienser Museum (Walkenried, see)</name>
     </wpt>
@@ -40481,6 +42005,9 @@
     </wpt>
     <wpt lat="50.27584" lon="11.76325">
         <name>Gasthaus Heinrich "Zum Schwarzen Roß" (Schauenstein, eat)</name>
+    </wpt>
+    <wpt lat="50.2783" lon="11.7652">
+        <name>Gastwirtschaft &amp; Landmetzgerei Matz'n (Schauenstein, eat)</name>
     </wpt>
     <wpt lat="50.26863" lon="11.73876">
         <name>Café Herpich (mit FeWo) (Schauenstein, eat)</name>
@@ -42705,8 +44232,14 @@
     <wpt lat="50.14079" lon="11.24808">
         <name>Stadt Apotheke (Burgkunstadt, listing)</name>
     </wpt>
+    <wpt lat="51.20922" lon="11.59107">
+        <name>Hotel &amp; Restaurant Bibermühle (Bad Bibra, sleep)</name>
+    </wpt>
     <wpt lat="48.90360" lon="9.65413">
         <name>Schwaben Park (Schwaben Park, listing)</name>
+    </wpt>
+    <wpt lat="5.13333" lon="115.95">
+        <name>Sabah Agricultural Park (Tenom, do)</name>
     </wpt>
     <wpt lat="51.43492" lon="13.21811">
         <name>Gasthof "Zum Kronprinz" (Mühlberg (Brandenburg), eat)</name>
@@ -42800,6 +44333,12 @@
     </wpt>
     <wpt lat="51.79051" lon="12.95269">
         <name>Hotel zur Alten Brauerei (Jessen, sleep)</name>
+    </wpt>
+    <wpt lat="51.8825" lon="12.4588">
+        <name>Kirche St. Nikolai (Coswig (Anhalt), listing)</name>
+    </wpt>
+    <wpt lat="52.0678" lon="11.8197">
+        <name>Hotel Robinien-Hof (Gommern, sleep)</name>
     </wpt>
     <wpt lat="53.33438" lon="11.49453">
         <name>Bahn (Ludwigslust, listing)</name>
@@ -42948,7 +44487,7 @@
     <wpt lat="58.414622" lon="15.623231">
         <name>Scandic Frimurarehotellet (Linköping, sleep)</name>
     </wpt>
-    <wpt lat="49.380365" lon="9.385065">
+    <wpt lat="49.38036" lon="9.38506">
         <name>Ehemalige Synagoge Semmfeld (Adelsheim, see)</name>
     </wpt>
     <wpt lat="49.37995" lon="9.38166">
@@ -43956,6 +45495,9 @@
     <wpt lat="50.58754" lon="6.77178">
         <name>Römische Kalkbrennerei Iversheim (Bad Münstereifel, listing)</name>
     </wpt>
+    <wpt lat="50.55483" lon="6.76408">
+        <name>Schwanen Apotheken-Museum (Bad Münstereifel, see)</name>
+    </wpt>
     <wpt lat="50.54458" lon="6.76619">
         <name>Wohnmobilpark (Bad Münstereifel, listing)</name>
     </wpt>
@@ -44106,7 +45648,7 @@
     <wpt lat="48.19913" lon="11.25234">
         <name>Münchner Kindl Senf (Fürstenfeldbruck, buy)</name>
     </wpt>
-    <wpt lat="48.620068" lon="10.241672">
+    <wpt lat="48.62113" lon="10.24166">
         <name>Steiff-Museum (Giengen an der Brenz, see)</name>
     </wpt>
     <wpt lat="48.5836" lon="10.2080">
@@ -45168,11 +46710,41 @@
     <wpt lat="47.235743" lon="13.231873">
         <name>Hotel Lammwirt (Großarl, sleep)</name>
     </wpt>
-    <wpt lat="47.235743" lon="13.231873">
+    <wpt lat="47.237971" lon="13.201027">
         <name>Hotel Neuwirt (Großarl, sleep)</name>
     </wpt>
-    <wpt lat="47.237989" lon="13.200952">
+    <wpt lat="47.237385" lon="13.201816">
         <name>Hotel-Gasthof Alte Post (Großarl, sleep)</name>
+    </wpt>
+    <wpt lat="47.793674" lon="13.298852">
+        <name>Fuschlseebad (Fuschl am See, listing)</name>
+    </wpt>
+    <wpt lat="47.791265" lon="13.305303">
+        <name>Sommerrodelbahn (Fuschl am See, listing)</name>
+    </wpt>
+    <wpt lat="47.791279" lon="13.296720">
+        <name>Red Bull (Fuschl am See, buy)</name>
+    </wpt>
+    <wpt lat="47.792029" lon="13.295368">
+        <name>Restaurant Brunnwirt (Fuschl am See, eat)</name>
+    </wpt>
+    <wpt lat="47.796559" lon="13.300636">
+        <name>Pension Huber (Fuschl am See, listing)</name>
+    </wpt>
+    <wpt lat="47.796199" lon="13.299703">
+        <name>Hotel Stefanihof (Fuschl am See, sleep)</name>
+    </wpt>
+    <wpt lat="47.798678" lon="13.301613">
+        <name>Hotel Garni Sonnleitn (Fuschl am See, sleep)</name>
+    </wpt>
+    <wpt lat="47.796559" lon="13.302278">
+        <name>Hotel Mohrenwirt * * * * (Fuschl am See, sleep)</name>
+    </wpt>
+    <wpt lat="47.799442" lon="13.300242">
+        <name>Wellnesshotel Ebner’s Waldhof * * * * * (Fuschl am See, sleep)</name>
+    </wpt>
+    <wpt lat="47.796234" lon="13.303104">
+        <name>Fuschlsee Tourismus (Fuschl am See, listing)</name>
     </wpt>
     <wpt lat="28.043413" lon="34.430539">
         <name>Hard Rock Café Nabq (Nabq Bay, eat)</name>
@@ -46272,6 +47844,9 @@
     <wpt lat="-25.85992" lon="25.63935">
         <name>Mafikeng Museum (Mahikeng, see)</name>
     </wpt>
+    <wpt lat="47.1757" lon="11.146227">
+        <name>Apartment Fernerkogel (Gries im Sellrain, listing)</name>
+    </wpt>
     <wpt lat="36.857198" lon="31.517019">
         <name>Adventure Park (Side, listing)</name>
     </wpt>
@@ -47071,28 +48646,28 @@
         <name>Postfiliale Iphofen (Iphofen, listing)</name>
     </wpt>
     <wpt lat="51.80413" lon="14.02930">
-        <name>Slawenburg Raddusch (Vetschau (Spreewald), see)</name>
+        <name>Slawenburg Raddusch (Vetschau/Spreewald, see)</name>
     </wpt>
     <wpt lat="51.79940" lon="14.09085">
-        <name>Spreewaldstube (Vetschau (Spreewald), eat)</name>
+        <name>Spreewaldstube (Vetschau/Spreewald, eat)</name>
     </wpt>
     <wpt lat="51.77845" lon="14.08735">
-        <name>Neustadt Klause – Pension &amp; Gaststätte (Vetschau (Spreewald), eat)</name>
+        <name>Neustadt Klause – Pension &amp; Gaststätte (Vetschau/Spreewald, eat)</name>
     </wpt>
     <wpt lat="51.78709" lon="14.09775">
-        <name>Hotel-Pension Märkischheide (Vetschau (Spreewald), sleep)</name>
+        <name>Hotel-Pension Märkischheide (Vetschau/Spreewald, sleep)</name>
     </wpt>
     <wpt lat="51.81764" lon="14.04264">
-        <name>Spreewald Hotel Radduscher Hafen (Vetschau (Spreewald), sleep)</name>
+        <name>Spreewald Hotel Radduscher Hafen (Vetschau/Spreewald, sleep)</name>
     </wpt>
     <wpt lat="51.81764" lon="14.04264">
-        <name>Spreewaldhotel Raddusch (Vetschau (Spreewald), sleep)</name>
+        <name>Spreewaldhotel Raddusch (Vetschau/Spreewald, sleep)</name>
     </wpt>
     <wpt lat="51.78359" lon="14.07316">
-        <name>Ratskeller Vetschau (Vetschau (Spreewald), sleep)</name>
+        <name>Ratskeller Vetschau (Vetschau/Spreewald, sleep)</name>
     </wpt>
     <wpt lat="51.78721" lon="14.09193">
-        <name>Spreewaldhof (Vetschau (Spreewald), listing)</name>
+        <name>Spreewaldhof (Vetschau/Spreewald, listing)</name>
     </wpt>
     <wpt lat="49.11185" lon="9.12826">
         <name>Privatkellerei Rolf Willy (Nordheim (Württemberg), buy)</name>
@@ -47195,6 +48770,21 @@
     </wpt>
     <wpt lat="51.95743" lon="5.22380">
         <name>Elisabeth Weeshuis (Culemborg, see)</name>
+    </wpt>
+    <wpt lat="46.833572" lon="13.529727">
+        <name>Bonsai Museum (Seeboden, see)</name>
+    </wpt>
+    <wpt lat="46.817151" lon="13.513159">
+        <name>Restaurant Moserhof**** (Seeboden, eat)</name>
+    </wpt>
+    <wpt lat="46.814845" lon="13.517055">
+        <name>Hotel KOLLERs****S (Seeboden, sleep)</name>
+    </wpt>
+    <wpt lat="N46°49´1.7´´" lon="E13°30´47.3´´">
+        <name>Hotel Moserhof**** (Seeboden, sleep)</name>
+    </wpt>
+    <wpt lat="46.819048" lon="13.519293">
+        <name>Tourismusbüro Seeboden (Seeboden, listing)</name>
     </wpt>
     <wpt lat="47.76228" lon="12.64209">
         <name>St. Georg (Ruhpolding, listing)</name>
@@ -47301,7 +48891,7 @@
     <wpt lat="50.01029" lon="10.59460">
         <name>Grohehäuschen (Zeil am Main, listing)</name>
     </wpt>
-    <wpt lat="29.203" lon="25.519472">
+    <wpt lat="29.202933" lon="25.519196">
         <name>König-Fārūq-Moschee (Siwa (Stadt), listing)</name>
     </wpt>
     <wpt lat="29.202417" lon="25.521139">
@@ -47403,6 +48993,12 @@
     <wpt lat="46.90821" lon="13.53288">
         <name>Porsche Automuseum Helmut Pfeifhofer (Gmünd in Kärnten, see)</name>
     </wpt>
+    <wpt lat="46.904445" lon="13.539938">
+        <name>Erlebnisfreibad Gmund (Gmünd in Kärnten, listing)</name>
+    </wpt>
+    <wpt lat="46.56786" lon="11.55829">
+        <name>Hotel Schgaguler**** (Kastelruth, sleep)</name>
+    </wpt>
     <wpt lat="47.68148" lon="11.57703">
         <name>Snow and Raft (Lenggries, do)</name>
     </wpt>
@@ -47465,6 +49061,9 @@
     </wpt>
     <wpt lat="47.520046" lon="19.037214">
         <name>Császár-Komjádi-Bad (Óbuda, listing)</name>
+    </wpt>
+    <wpt lat="46.951873" lon="11.918559">
+        <name>Krippenmuseum “Maranatha (Luttach, see)</name>
     </wpt>
     <wpt lat="46.958296" lon="11.920152">
         <name>Posthotel Luttach (Luttach, sleep)</name>
@@ -47853,8 +49452,8 @@
     <wpt lat="49.079519" lon="8.896933">
         <name>Gästehof am Bühlweinberg (Zaberfeld, listing)</name>
     </wpt>
-    <wpt lat="48.87901" lon="8.67434">
-        <name>Erstes Deutsches Historic Actien Museum (Kürnbach, see)</name>
+    <wpt lat="49.076665" lon="8.844699">
+        <name>Erstes Deutsches Historic Actien Museum (EDHAM) (Kürnbach, see)</name>
     </wpt>
     <wpt lat="49.07785" lon="8.84115">
         <name>Weingut und Besenwirtschaft Czech (Kürnbach, eat)</name>
@@ -48693,6 +50292,9 @@
     <wpt lat="20.483611" lon="99.935278">
         <name>Tachilek Airport (Shan State, listing)</name>
     </wpt>
+    <wpt lat="51.9904" lon="9.2559">
+        <name>Hufelandtherme (Bad Pyrmont, listing)</name>
+    </wpt>
     <wpt lat="51.15562" lon="14.18416">
         <name>Berg-Gasthof Butterberg (Bischofswerda, eat)</name>
     </wpt>
@@ -48830,6 +50432,9 @@
     </wpt>
     <wpt lat="51.570682" lon="7.60584">
         <name>Hotel "In der Kaisreau" (Kamen, sleep)</name>
+    </wpt>
+    <wpt lat="50.624407" lon="6.94919">
+        <name>Glasmuseum Rheinbach (Rheinbach, see)</name>
     </wpt>
     <wpt lat="40.0968" lon="23.7747">
         <name>Camping Marmaras (Nèos Marmaras, listing)</name>
@@ -49053,6 +50658,9 @@
     <wpt lat="48.69266" lon="9.19332">
         <name>Wyndham Stuttgart AirportMesse (Flughafen Stuttgart, sleep)</name>
     </wpt>
+    <wpt lat="49.84066" lon="12.19003">
+        <name>Blockhütte im Waldnaabtal (Naabtal, eat)</name>
+    </wpt>
     <wpt lat="12.17841" lon="-68.27649">
         <name>AquaSpace (Kralendijk, listing)</name>
     </wpt>
@@ -49082,6 +50690,18 @@
     </wpt>
     <wpt lat="38.933804" lon="30.499289">
         <name>Gazligol Thermal Baths (Afyonkarahisar, listing)</name>
+    </wpt>
+    <wpt lat="46.919897" lon="11.958077">
+        <name>Residence Mair zu Hof (Sand in Taufers, sleep)</name>
+    </wpt>
+    <wpt lat="46.918234" lon="11.952155">
+        <name>Apparthotel Central (Sand in Taufers, sleep)</name>
+    </wpt>
+    <wpt lat="46.919516" lon="11.953850">
+        <name>Hotel Tubris &amp; Appartements (Sand in Taufers, sleep)</name>
+    </wpt>
+    <wpt lat="46.918555" lon="11.952413">
+        <name>Tourist Information (Sand in Taufers, listing)</name>
     </wpt>
     <wpt lat="19.3814" lon="-81.4148">
         <name>Cayman Turtle Farm (West Bay, listing)</name>
@@ -49671,6 +51291,24 @@
     <wpt lat="45.29834" lon="6.58219">
         <name>Office de Tourisme (Val Thorens, listing)</name>
     </wpt>
+    <wpt lat="49.98207" lon="11.93669">
+        <name>Metzgermeister Hans Reichel (Nagel, buy)</name>
+    </wpt>
+    <wpt lat="49.97569" lon="11.90381">
+        <name>Gasthof Pension Waldfrieden (Nagel, eat)</name>
+    </wpt>
+    <wpt lat="49.98080" lon="11.93516">
+        <name>Wirtshaus "Zur Mauth" (Nagel, eat)</name>
+    </wpt>
+    <wpt lat="49.97989" lon="11.93541">
+        <name>Pension Reithmeier (Nagel, sleep)</name>
+    </wpt>
+    <wpt lat="49.98224" lon="11.94538">
+        <name>Gasthof Zur Kösseine (Nagel, sleep)</name>
+    </wpt>
+    <wpt lat="49.98296" lon="11.90520">
+        <name>Frühstücks-Pension Sturm (Nagel, sleep)</name>
+    </wpt>
     <wpt lat="50.00989" lon="11.94669">
         <name>Schmankerl-Restaurant und Bergcafe Bauer (Tröstau, eat)</name>
     </wpt>
@@ -49751,6 +51389,9 @@
     </wpt>
     <wpt lat="47.64005" lon="13.00601">
         <name>Kreisklinik Berchtesgaden (Maria Gern, listing)</name>
+    </wpt>
+    <wpt lat="50.3325" lon="7.7131">
+        <name>Thermalbad (Bad Ems, listing)</name>
     </wpt>
     <wpt lat="50.371690" lon="8.005531">
         <name>Oldiekiste (Diez, listing)</name>
@@ -50040,6 +51681,9 @@
     <wpt lat="51.3266328" lon="12.3189676">
         <name>HALLE 14 – Zentrum für zeitgenössische Kunst (Leipzig/Museen, see)</name>
     </wpt>
+    <wpt lat="51.332358" lon="12.34852">
+        <name>Klinger Forum (Leipzig/Museen, see)</name>
+    </wpt>
     <wpt lat="51.3617328" lon="12.4300003">
         <name>Kunstsammlung der VNG (Leipzig/Museen, see)</name>
     </wpt>
@@ -50150,6 +51794,9 @@
     </wpt>
     <wpt lat="51.3125216" lon="12.3175943">
         <name>Eisenbahnmuseum Leipzig (Leipzig/Museen, see)</name>
+    </wpt>
+    <wpt lat="51.32916" lon="12.32615">
+        <name>Oldtimermuseum Da Capo (Leipzig/Museen, see)</name>
     </wpt>
     <wpt lat="51.3317311" lon="12.3085821">
         <name>Museum im Trafohaus (Leipzig/Museen, see)</name>
@@ -50451,6 +52098,12 @@
     <wpt lat="36.25351" lon="-5.96254">
         <name>Hotel La Casa del Califa (Vejer de la Frontera, sleep)</name>
     </wpt>
+    <wpt lat="36.2531" lon="-5.9812">
+        <name>Camping los Molinos (Vejer de la Frontera, listing)</name>
+    </wpt>
+    <wpt lat="36.2547" lon="-5.9461">
+        <name>Camping VEJER (Vejer de la Frontera, listing)</name>
+    </wpt>
     <wpt lat="36.085415" lon="-5.766221">
         <name>Las Rejas (Baelo Claudia, eat)</name>
     </wpt>
@@ -50477,6 +52130,90 @@
     </wpt>
     <wpt lat="39.650003" lon="66.977557">
         <name>Jahongir B&amp;B (Samarkand, sleep)</name>
+    </wpt>
+    <wpt lat="39.773215" lon="64.418399">
+        <name>Magoki-Attari-Moschee (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.777748" lon="64.407417">
+        <name>Bolo-Haus-Moschee (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.771252" lon="64.404785">
+        <name>Baland-Moschee (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.761718" lon="64.411988">
+        <name>Namazgah-Moschee (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.773360" lon="64.416708">
+        <name>''Kurpa-Moschee'' (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.777879" lon="64.409955">
+        <name>Zitadelle (Ark) (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.814222" lon="64.440827">
+        <name>Sommerpalast (Sitora-i Mohi Khosa) (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.777003" lon="64.400594">
+        <name>Mausoleum der Samaniden (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.778295" lon="64.402448">
+        <name>Tschaschma-Ayub-Mausoleum (Hiobsbrunnen-Mausoleum) (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.778292" lon="64.402953">
+        <name>Gedenkstätte für Ismail al Buchari (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.776595" lon="64.417549">
+        <name>'Medrese des Ulug Beg (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.776096" lon="64.417666">
+        <name>Medrese des Khans Abd-ul Aziz (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.776408" lon="64.416617">
+        <name>Tak-i-Sargaron (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.773896" lon="64.417336">
+        <name>Tak-i-Telpak-Furuschon (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.772355" lon="64.418241">
+        <name>Tak-i-Sarrafon (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.775408" lon="64.417147">
+        <name>Tim des Khans Abdullah (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.779177" lon="64.414026">
+        <name>Zindan (Gefängnis) (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.774835" lon="64.427335">
+        <name>Chor Minor (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.779374" lon="64.438124">
+        <name>Faisabad Khanaka (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.769581" lon="64.401521">
+        <name>Halifa Hudoidod Khanaka (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.773064" lon="64.420963">
+        <name>Denkmal des Nasreddin Hodscha (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.775704" lon="64.415119">
+        <name>Kalyan-Minarett (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.775914" lon="64.414140">
+        <name>Kalyan-Moschee (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.776072" lon="64.415785">
+        <name>Mir-i-Arab-Medrese (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.778355" lon="64.420725">
+        <name>Old Bukhara (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.773142" lon="64.423442">
+        <name>Chinar (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.770326" lon="64.420497">
+        <name>Minzifa (Buchara, listing)</name>
+    </wpt>
+    <wpt lat="39.773711" lon="64.430450">
+        <name>Bella Italia (Buchara, listing)</name>
     </wpt>
     <wpt lat="25.728941" lon="32.612228">
         <name>Rasthaus Scheich ʿAbd el-Qurna (Scheich ʿAbd el-Qurna, eat)</name>
@@ -52393,16 +54130,19 @@
         <name>Bürgermeisteramt (Steinheim am Albuch, listing)</name>
     </wpt>
     <wpt lat="50.1726" lon="11.6336">
-        <name>Bäckerei Will (Marktleugast, listing)</name>
+        <name>Bäckerei Will (Marktleugast, buy)</name>
     </wpt>
     <wpt lat="50.14698" lon="11.60561">
-        <name>Landgasthof Haueis (Marktleugast, listing)</name>
+        <name>Landgasthof Haueis (Marktleugast, eat)</name>
     </wpt>
     <wpt lat="50.18750" lon="11.59639">
-        <name>Kleinrehmühle (Marktleugast, listing)</name>
+        <name>Kleinrehmühle (Marktleugast, eat)</name>
+    </wpt>
+    <wpt lat="50.15789" lon="11.63542">
+        <name>Gasthof Klosterbräu (Marktleugast, eat)</name>
     </wpt>
     <wpt lat="50.14698" lon="11.60561">
-        <name>Landgasthof Haueis (Marktleugast, listing)</name>
+        <name>Landgasthof Haueis (Marktleugast, sleep)</name>
     </wpt>
     <wpt lat="51° 53′ 22.11″ N" lon="14° 31′ 55.15″ E">
         <name>Flugplatz Cottbus-Drewitz (Jänschwalder Heide, listing)</name>
@@ -52721,6 +54461,21 @@
     </wpt>
     <wpt lat="22.261804" lon="112.520771">
         <name>Ruishi Diaolou (Kaiping, listing)</name>
+    </wpt>
+    <wpt lat="48.72816" lon="9.25210">
+        <name>Weinstube Alte Dorfschule (Ostfildern, eat)</name>
+    </wpt>
+    <wpt lat="48.70838" lon="9.26006">
+        <name>Mesopotamien Orientalisches Restaurant (Ostfildern, eat)</name>
+    </wpt>
+    <wpt lat="48.70682" lon="9.26846">
+        <name>Körschtalklause (Ostfildern, eat)</name>
+    </wpt>
+    <wpt lat="48.72944" lon="9.25001">
+        <name>Hirsch Hotel (Ostfildern, sleep)</name>
+    </wpt>
+    <wpt lat="48.73118" lon="9.22582">
+        <name>Kemnater Hof (Ostfildern, sleep)</name>
     </wpt>
     <wpt lat="48.651952" lon="9.207099">
         <name>FILDORADO (Filderstadt, listing)</name>
@@ -53217,8 +54972,53 @@
     <wpt lat="29.850038" lon="31.338050">
         <name>Nationalbank (Helwan, buy)</name>
     </wpt>
+    <wpt lat="48.866476" lon="9.189527">
+        <name>Martinskirche (Kornwestheim, listing)</name>
+    </wpt>
+    <wpt lat="48.861165" lon="9.183315">
+        <name>Kirche St. Martinus (Kornwestheim, listing)</name>
+    </wpt>
+    <wpt lat="48.861846" lon="9.184629">
+        <name>Johanneskirche (Kornwestheim, listing)</name>
+    </wpt>
+    <wpt lat="48.867206" lon="9.188336">
+        <name>Schulmuseum Nordwürttemberg (Kornwestheim, see)</name>
+    </wpt>
+    <wpt lat="48.865131" lon="9.191641">
+        <name>Stadtmuseum (Kornwestheim, see)</name>
+    </wpt>
+    <wpt lat="48.858493" lon="9.186654">
+        <name>Museum im Kleihues-Bau (Kornwestheim, see)</name>
+    </wpt>
+    <wpt lat="48.86687" lon="9.19072">
+        <name>Museum Philipp Matthäus Hahn (Kornwestheim, see)</name>
+    </wpt>
     <wpt lat="48.85976" lon="9.18600">
         <name>Das K – Kultur- und Kongresszentrum (Kornwestheim, listing)</name>
+    </wpt>
+    <wpt lat="48.8610" lon="9.1786">
+        <name>Salamander (Kornwestheim, buy)</name>
+    </wpt>
+    <wpt lat="48.86059" lon="9.17852">
+        <name>Trigema Outlet (Kornwestheim, buy)</name>
+    </wpt>
+    <wpt lat="48.86540" lon="9.18793">
+        <name>Adler (Kornwestheim, eat)</name>
+    </wpt>
+    <wpt lat="48.85960" lon="9.18640">
+        <name>Applaus im K (Kornwestheim, eat)</name>
+    </wpt>
+    <wpt lat="48.86518" lon="9.18769">
+        <name>Grashöfle (Kornwestheim, eat)</name>
+    </wpt>
+    <wpt lat="48.86844" lon="9.18586">
+        <name>Ristorante da Vito (Kornwestheim, eat)</name>
+    </wpt>
+    <wpt lat="48.86459" lon="9.18577">
+        <name>St. Georges (Kornwestheim, eat)</name>
+    </wpt>
+    <wpt lat="48.86500" lon="9.18600">
+        <name>Bar Havana (Kornwestheim, drink)</name>
     </wpt>
     <wpt lat="48.865506" lon="9.189731">
         <name>Altes-Rathaus Hotel-Garni (Kornwestheim, sleep)</name>
@@ -53228,6 +55028,9 @@
     </wpt>
     <wpt lat="48.8648" lon="9.192975">
         <name>Gästehaus Zum Hexenhäusle (Kornwestheim, sleep)</name>
+    </wpt>
+    <wpt lat="48.855611" lon="9.184717">
+        <name>Hotel Stuttgarter Hof (Kornwestheim, sleep)</name>
     </wpt>
     <wpt lat="48.863033" lon="9.179311">
         <name>Hotel &amp; Gästehaus Bäuerle (Kornwestheim, sleep)</name>
@@ -53240,9 +55043,6 @@
     </wpt>
     <wpt lat="48.865934" lon="9.181938">
         <name>Hotel Hasen Neubau (Kornwestheim, sleep)</name>
-    </wpt>
-    <wpt lat="48.855611" lon="9.184717">
-        <name>Hotel Stuttgarter Hof (Kornwestheim, sleep)</name>
     </wpt>
     <wpt lat="43.11667" lon="5.80325">
         <name>Office de Tourisme (Sanary-sur-Mer, listing)</name>
@@ -53447,6 +55247,12 @@
     </wpt>
     <wpt lat="51.43546" lon="11.04073">
         <name>Barbarossa Apotheke (Kelbra, listing)</name>
+    </wpt>
+    <wpt lat="48.025590" lon="14.410497">
+        <name>Kraxentaler Wirt (Garsten, eat)</name>
+    </wpt>
+    <wpt lat="48.022060" lon="14.406657">
+        <name>Stiftshotel Garsten (Garsten, sleep)</name>
     </wpt>
     <wpt lat="46.785339" lon="11.891477">
         <name>Hotel Schloss Sonnenburg (St. Lorenzen (Südtirol), sleep)</name>
@@ -55096,7 +56902,7 @@
         <name>Hotel Solaria (Obertauern, sleep)</name>
     </wpt>
     <wpt lat="47.267994" lon="13.497215">
-        <name>Hotel Gnadenalm (Obertauern, sleep)</name>
+        <name>Gnadenalm Obertauern (Obertauern, sleep)</name>
     </wpt>
     <wpt lat="47.248311" lon="13.557720">
         <name>Hotel Perner (Obertauern, sleep)</name>
@@ -55115,6 +56921,9 @@
     </wpt>
     <wpt lat="47.251296" lon="13.530253">
         <name>Hotel d'Glöcknerin (Obertauern, sleep)</name>
+    </wpt>
+    <wpt lat="47.302910" lon="13.507010">
+        <name>Alpin Life Resort Lürzerhof (Obertauern, sleep)</name>
     </wpt>
     <wpt lat="49.106112" lon="8.854907">
         <name>Badischer Hof Sulzfeld (Sulzfeld (Baden), eat)</name>
@@ -55812,6 +57621,9 @@
     <wpt lat="46.605158333333" lon="14.032436111111">
         <name>Hotel Rosanna (Velden am Wörther See, listing)</name>
     </wpt>
+    <wpt lat="40.635069" lon="14.601958">
+        <name>Hotel Amalfi (Amalfi, listing)</name>
+    </wpt>
     <wpt lat="51.330822" lon="8.697752">
         <name>Familotel Ottonenhof (Diemelsee, listing)</name>
     </wpt>
@@ -56026,7 +57838,7 @@
         <name>****Vitalhof Walserhof (Damüls, sleep)</name>
     </wpt>
     <wpt lat="-8.0983572" lon="-34.8852545">
-        <name>Best Western Hotel Manibu Recife (Recife, listing)</name>
+        <name>Best Western Hotel Manibu Recife (Recife, sleep)</name>
     </wpt>
     <wpt lat="49.62941" lon="11.58957">
         <name>Gasthof Grottenhof (Neuhaus an der Pegnitz, eat)</name>
@@ -56105,6 +57917,21 @@
     </wpt>
     <wpt lat="49.40091" lon="11.11919">
         <name>Lebkuchen Schmidt Fabrikverkauf (Nürnberg/Langwasser, buy)</name>
+    </wpt>
+    <wpt lat="49.41515" lon="11.12074">
+        <name>BUNI - Kultur- und Freizeittreff (Nürnberg/Langwasser, eat)</name>
+    </wpt>
+    <wpt lat="49.43547" lon="11.11692">
+        <name>Gutmann am Dutzendteich (Nürnberg/Langwasser, eat)</name>
+    </wpt>
+    <wpt lat="49.43346" lon="11.11870">
+        <name>Strandhaus Nürnberg (Nürnberg/Langwasser, eat)</name>
+    </wpt>
+    <wpt lat="49.41415" lon="11.11631">
+        <name>A1 Hostel Nürnberg Messe (Nürnberg/Langwasser, sleep)</name>
+    </wpt>
+    <wpt lat="49.40020" lon="11.13771">
+        <name>Arvena Park Hotel (Nürnberg/Langwasser, sleep)</name>
     </wpt>
     <wpt lat="46.634882" lon="11.763418">
         <name>Zanser Alm (1.685 m) (Naturpark Puez-Geisler, sleep)</name>
@@ -57189,8 +59016,47 @@
     <wpt lat="51.8647" lon="12.6510">
         <name>Melanchthonhaus (Lutherweg Sachsen-Anhalt, listing)</name>
     </wpt>
+    <wpt lat="51.8665" lon="12.6449">
+        <name>Stadtkirche St. Marien (Lutherweg Sachsen-Anhalt, listing)</name>
+    </wpt>
+    <wpt lat="51.86605" lon="12.64331">
+        <name>Cranachs Welt (Lutherweg Sachsen-Anhalt, listing)</name>
+    </wpt>
     <wpt lat="51.8663" lon="12.6380">
         <name>Schlosskirche (Lutherweg Sachsen-Anhalt, listing)</name>
+    </wpt>
+    <wpt lat="51.8825" lon="12.4588">
+        <name>Kirche St. Nikolai (Lutherweg Sachsen-Anhalt, listing)</name>
+    </wpt>
+    <wpt lat="51.8448" lon="12.4221">
+        <name>St. Petrikirche (Lutherweg Sachsen-Anhalt, listing)</name>
+    </wpt>
+    <wpt lat="51.8325" lon="12.2479">
+        <name>Museum für Stadtgeschichte im Johannbau (Lutherweg Sachsen-Anhalt, listing)</name>
+    </wpt>
+    <wpt lat="51.8371" lon="12.2427">
+        <name>Johanniskirche (Lutherweg Sachsen-Anhalt, listing)</name>
+    </wpt>
+    <wpt lat="51.8441" lon="12.2304">
+        <name>Anhaltische Gemäldegalerie (Lutherweg Sachsen-Anhalt, see)</name>
+    </wpt>
+    <wpt lat="51.8378" lon="12.2455">
+        <name>Palais Dietrich (Lutherweg Sachsen-Anhalt, listing)</name>
+    </wpt>
+    <wpt lat="51.88839" lon="12.25040">
+        <name>St. Marien Roßlau (Lutherweg Sachsen-Anhalt, listing)</name>
+    </wpt>
+    <wpt lat="51.9688" lon="12.0916">
+        <name>Francisceum (Lutherweg Sachsen-Anhalt, listing)</name>
+    </wpt>
+    <wpt lat="51.9693" lon="12.0848">
+        <name>St. Nikolai (Lutherweg Sachsen-Anhalt, listing)</name>
+    </wpt>
+    <wpt lat="51.9695" lon="12.0872">
+        <name>Kirche St. Trinitatis (Lutherweg Sachsen-Anhalt, listing)</name>
+    </wpt>
+    <wpt lat="51.9637" lon="12.0847">
+        <name>Kirche St. Bartholomaei (Lutherweg Sachsen-Anhalt, listing)</name>
     </wpt>
     <wpt lat="47.16103" lon="10.57759">
         <name>Zammer Lochputz (Zams, listing)</name>
@@ -57351,6 +59217,33 @@
     <wpt lat="47.68002" lon="11.50764">
         <name>Kirchsteinhütte (Walchenseeberge, sleep)</name>
     </wpt>
+    <wpt lat="16°02′38″N" lon="108°11′58″E">
+        <name>Flughafen (DAD) (Đà Nẵng, listing)</name>
+    </wpt>
+    <wpt lat="16°03'23.5&quot;N" lon="108°10'21.4&quot;E">
+        <name>Busstation (Đà Nẵng, listing)</name>
+    </wpt>
+    <wpt lat="16°02'25.7&quot;N" lon="108°13'42.3&quot;E">
+        <name>Asia Park (Đà Nẵng, see)</name>
+    </wpt>
+    <wpt lat="16° 04′ 05.4″ N" lon="108° 13′ 13.8″ E">
+        <name>Trung Vuong-Theater (Đà Nẵng, listing)</name>
+    </wpt>
+    <wpt lat="16°04'10.2&quot;N" lon="108°14'35.2&quot;E">
+        <name>1812 Hostel (Đà Nẵng, sleep)</name>
+    </wpt>
+    <wpt lat="16°01'49.7&quot;N" lon="108°15'16.1&quot;E">
+        <name>Crowne Plaza (Đà Nẵng, sleep)</name>
+    </wpt>
+    <wpt lat="5° 52′ 32.3″ N" lon="108° 20′ 10.46″ E">
+        <name>Hội An (Đà Nẵng, see)</name>
+    </wpt>
+    <wpt lat="15° 46′ 6.85″ N" lon="108° 7′ 7.43″ E">
+        <name>Mỹ Sơn (Đà Nẵng, see)</name>
+    </wpt>
+    <wpt lat="16.47111 N" lon="107.58583 E">
+        <name>Huế (Đà Nẵng, see)</name>
+    </wpt>
     <wpt lat="50.086242" lon="14.406949">
         <name>John-Lennon-Mauer (Prag/Prager Kleinseite, listing)</name>
     </wpt>
@@ -57456,8 +59349,14 @@
     <wpt lat="28.099158" lon="30.758691">
         <name>Akhnaton Hotel (Minyā, sleep)</name>
     </wpt>
+    <wpt lat="28.098053" lon="30.756065">
+        <name>Palace Hotel (Minyā, sleep)</name>
+    </wpt>
     <wpt lat="28.097263" lon="30.754525">
         <name>Savoy Hotel (Minyā, sleep)</name>
+    </wpt>
+    <wpt lat="28.101290" lon="30.752476">
+        <name>El-Zahra'a Hotel (Minyā, sleep)</name>
     </wpt>
     <wpt lat="28.101602" lon="30.752245">
         <name>Lotus Tourist Hotel (Minyā, sleep)</name>
@@ -57465,11 +59364,14 @@
     <wpt lat="28.112263" lon="30.748968">
         <name>Cleopatra Hotel (Minyā, sleep)</name>
     </wpt>
+    <wpt lat="28.113616" lon="30.750990">
+        <name>Grand Aton Hotel (Minyā, sleep)</name>
+    </wpt>
     <wpt lat="28.115154" lon="30.750346">
         <name>Horus Hotel (Minyā, sleep)</name>
     </wpt>
     <wpt lat="28.113720" lon="30.749702">
-        <name>Mercure Nefertiti Menya (Minyā, sleep)</name>
+        <name>Siva Nefertiti Hotel (Minyā, sleep)</name>
     </wpt>
     <wpt lat="28.10116" lon="30.75446">
         <name>Allgemeinkrankenhaus el-Minya (Minyā, listing)</name>
@@ -58020,6 +59922,9 @@
     <wpt lat="39.283974" lon="-76.612307">
         <name>Baltimore Visitor Center (Baltimore, listing)</name>
     </wpt>
+    <wpt lat="51.10903" lon="10.64725">
+        <name>Burgtheater (Bad Langensalza, do)</name>
+    </wpt>
     <wpt lat="51.10820" lon="10.64577">
         <name>Ristorante Venezia (Bad Langensalza, eat)</name>
     </wpt>
@@ -58094,6 +59999,27 @@
     </wpt>
     <wpt lat="54.24902" lon="12.23531">
         <name>Touristinformation (Graal-Müritz, listing)</name>
+    </wpt>
+    <wpt lat="54.241111" lon="12.432222">
+        <name>Klarissenkloster Ribnitz (Ribnitz-Damgarten, listing)</name>
+    </wpt>
+    <wpt lat="54.243464" lon="12.430639">
+        <name>Marienkirche Ribnitz (Ribnitz-Damgarten, listing)</name>
+    </wpt>
+    <wpt lat="54.254396" lon="12.472906">
+        <name>Bartholomäuskirche Damgarten (Ribnitz-Damgarten, listing)</name>
+    </wpt>
+    <wpt lat="54.243692" lon="12.426431">
+        <name>Rostocker Tor (Ribnitz-Damgarten, listing)</name>
+    </wpt>
+    <wpt lat="54.24325" lon="12.431846">
+        <name>Marktplatz Ribnitz (Ribnitz-Damgarten, listing)</name>
+    </wpt>
+    <wpt lat="54.241111" lon="12.432222">
+        <name>Deutsches Bernsteinmuseum (Ribnitz-Damgarten, see)</name>
+    </wpt>
+    <wpt lat="54.240123" lon="12.35481">
+        <name>Freilichtmuseum Klockenhagen (Ribnitz-Damgarten, see)</name>
     </wpt>
     <wpt lat="52.21312" lon="9.53753">
         <name>Bildungs- und Tagungszentrum HVHS Springe (Springe, listing)</name>
@@ -59140,7 +61066,7 @@
         <name>Restaurant Jasmin (Schneverdingen, eat)</name>
     </wpt>
     <wpt lat="53.11658" lon="9.78898">
-        <name>Restaurant La Cesare (Schneverdingen, eat)</name>
+        <name>Restaurant La Casera (Schneverdingen, eat)</name>
     </wpt>
     <wpt lat="53.11698" lon="9.78551">
         <name>Restaurant Zum Alten Krug (Schneverdingen, eat)</name>
@@ -59520,7 +61446,7 @@
     <wpt lat="59.400103" lon="10.463877">
         <name>Horten Vandrerhjem (Horten, listing)</name>
     </wpt>
-    <wpt lat="59°22'42&quot;" lon="10°27'57&quot;">
+    <wpt lat="59.37831" lon="10.46555">
         <name>Borre Familie Camping (Horten, listing)</name>
     </wpt>
     <wpt lat="51.52723" lon="3.43669">
@@ -60717,8 +62643,41 @@
     <wpt lat="49.909126" lon="9.151542">
         <name>öffentliche Toilette (Sulzbach am Main, listing)</name>
     </wpt>
-    <wpt lat="49.909309" lon="9.156363">
+    <wpt lat="49.908913" lon="9.152975">
         <name>Postfiliale (Sulzbach am Main, listing)</name>
+    </wpt>
+    <wpt lat="51.8448" lon="12.4221">
+        <name>St. Petrikirche (Wörlitz, listing)</name>
+    </wpt>
+    <wpt lat="51.851" lon="12.4203">
+        <name>Imbiss im Wörlitzer Park (Wörlitz, listing)</name>
+    </wpt>
+    <wpt lat="51.8438" lon="12.4172">
+        <name>Restaurant, Eiscafé Gartenlokal Grüner Baum (Wörlitz, listing)</name>
+    </wpt>
+    <wpt lat="51.844" lon="12.416">
+        <name>Cafe Am Eichenkranz (Wörlitz, listing)</name>
+    </wpt>
+    <wpt lat="51.845" lon="12.4243">
+        <name>Gasthaus "Seeblick" (Wörlitz, listing)</name>
+    </wpt>
+    <wpt lat="51.8455" lon="12.4218">
+        <name>Restaurant im Küchengebäude (Wörlitz, listing)</name>
+    </wpt>
+    <wpt lat="51.8435" lon="12.4165">
+        <name>Hotel und Restaurant Zum Gondoliere (Wörlitz, sleep)</name>
+    </wpt>
+    <wpt lat="51.8425" lon="12.4215">
+        <name>Gasthaus "Zum Hauenden Schwein" (Wörlitz, sleep)</name>
+    </wpt>
+    <wpt lat="51.877" lon="12.4513">
+        <name>Hotel &amp; Restaurant Elbterrasse im Wörlitzer Winkel (Wörlitz, sleep)</name>
+    </wpt>
+    <wpt lat="51.8445" lon="12.42">
+        <name>Landhaus "Wörlitzer Hof" (Wörlitz, sleep)</name>
+    </wpt>
+    <wpt lat="51.8387" lon="12.429">
+        <name>Ringhotel "Zum Stein" (Wörlitz, sleep)</name>
     </wpt>
     <wpt lat="51.84339" lon="12.42197">
         <name>Wörlitz-Information (Wörlitz, listing)</name>
@@ -60883,7 +62842,7 @@
         <name>Strandpaviljoen Scheldezicht (Westkapelle, eat)</name>
     </wpt>
     <wpt lat="51.5131" lon="3.4542">
-        <name>Bluv (Westkapelle, eat)</name>
+        <name>Strandpaviljoen Bluv (Westkapelle, eat)</name>
     </wpt>
     <wpt lat="51.52933" lon="3.44599">
         <name>Pieter de Coninck (Westkapelle, sleep)</name>
@@ -61847,6 +63806,21 @@
     </wpt>
     <wpt lat="54.57035" lon="11.93949">
         <name>Naturskolen (Gedser, listing)</name>
+    </wpt>
+    <wpt lat="46.993709" lon="11.978785">
+        <name>Hexenkessel (St. Johann (Ahrntal), listing)</name>
+    </wpt>
+    <wpt lat="46.981950" lon="11.942089">
+        <name>Parkhotel Schachen (St. Johann (Ahrntal), sleep)</name>
+    </wpt>
+    <wpt lat="46.976831" lon="11.937496">
+        <name>Hotel Auren (St. Johann (Ahrntal), sleep)</name>
+    </wpt>
+    <wpt lat="46.962574" lon="11.921381">
+        <name>*****Deluxe Hotel &amp; Spa Resort Alpenpalace (St. Johann (Ahrntal), sleep)</name>
+    </wpt>
+    <wpt lat="46.988819" lon="11.960449">
+        <name>****S Wellness Refugium &amp; Resort Hotel Alpin Royal (St. Johann (Ahrntal), sleep)</name>
     </wpt>
     <wpt lat="-1.66678" lon="-78.66009">
         <name>Estadio Olímpico de Riobamba (Riobamba, do)</name>
@@ -62842,28 +64816,28 @@
         <name>Gon Camping &amp; Hytteutleie (Larvik, listing)</name>
     </wpt>
     <wpt lat="9.3409" lon="-82.2401">
-        <name>Om Café (Bocas del Toro, listing)</name>
+        <name>Om Café (Bocas del Toro, eat)</name>
     </wpt>
     <wpt lat="9.3414" lon="-82.2422">
-        <name>Alberto's Pizzeria (Bocas del Toro, listing)</name>
+        <name>Alberto's Pizzeria (Bocas del Toro, eat)</name>
     </wpt>
     <wpt lat="9.347" lon="-82.208">
-        <name>Roots Bar (Bocas del Toro, listing)</name>
+        <name>Roots Bar (Bocas del Toro, eat)</name>
     </wpt>
     <wpt lat="9.3402" lon="-82.2393">
-        <name>Barco Hundido (Bocas del Toro, listing)</name>
+        <name>Barco Hundido (Bocas del Toro, drink)</name>
     </wpt>
     <wpt lat="9.347" lon="-82.208">
         <name>Tio Tom (Bocas del Toro, listing)</name>
     </wpt>
     <wpt lat="9.3414" lon="-82.2422">
-        <name>CalaLuna (Bocas del Toro, listing)</name>
+        <name>CalaLuna (Bocas del Toro, sleep)</name>
     </wpt>
     <wpt lat="9.4301" lon="-82.30395">
         <name>Casa Mañana (Bocas del Toro, listing)</name>
     </wpt>
     <wpt lat="9.3361" lon="-82.2414">
-        <name>Spanish by the Sea (Bocas del Toro, listing)</name>
+        <name>Spanish by the Sea (Bocas del Toro, do)</name>
     </wpt>
     <wpt lat="62.4721" lon="6.1530">
         <name>Brosundet (Ålesund, listing)</name>
@@ -63831,8 +65805,32 @@
     <wpt lat="47.15691" lon="11.33175">
         <name>Bergrestaurant Brugger Alm (Fulpmes, eat)</name>
     </wpt>
+    <wpt lat="47.154860" lon="11.302233">
+        <name>Schlickeralm (Fulpmes, eat)</name>
+    </wpt>
+    <wpt lat="47.148154" lon="11.321605">
+        <name>Galtalm (Fulpmes, eat)</name>
+    </wpt>
+    <wpt lat="47.7423" lon="12.9930">
+        <name>Untersbergmuseum (Grödig, see)</name>
+    </wpt>
+    <wpt lat="47.740614" lon="13.036424">
+        <name>Radiomuseum Grödig (Grödig, see)</name>
+    </wpt>
     <wpt lat="47.72567" lon="13.04227">
         <name>Untersbergbahn (Grödig, listing)</name>
+    </wpt>
+    <wpt lat="47.74157" lon="13.03417">
+        <name>Salzburger Schokolade (Grödig, buy)</name>
+    </wpt>
+    <wpt lat="47.739950" lon="13.036247">
+        <name>Hotel Sallerhof (Grödig, sleep)</name>
+    </wpt>
+    <wpt lat="47.726552" lon="13.043128">
+        <name>Hotel Untersberg (Grödig, sleep)</name>
+    </wpt>
+    <wpt lat="47.742837" lon="13.038610">
+        <name>Gasthof Racklwirt (Grödig, sleep)</name>
     </wpt>
     <wpt lat="50.84846" lon="9.21722">
         <name>Landgasthof-Pfalzgraf (Willingshausen, sleep)</name>
@@ -64377,6 +66375,12 @@
     <wpt lat="51.332142" lon="12.329621">
         <name>Philippuskirche (Leipzig/Westen, listing)</name>
     </wpt>
+    <wpt lat="51.27421" lon="12.31807">
+        <name>Knauthainer Schloss (Leipzig/Westen, listing)</name>
+    </wpt>
+    <wpt lat="51.3632" lon="12.27319">
+        <name>Schloss Gundorf (Leipzig/Westen, listing)</name>
+    </wpt>
     <wpt lat="51.3357329" lon="12.3447919">
         <name>Palmengarten (Leipzig/Westen, do)</name>
     </wpt>
@@ -64413,8 +66417,14 @@
     <wpt lat="51.332378" lon="12.34542">
         <name>Villa Sack (Leipzig/Westen, listing)</name>
     </wpt>
+    <wpt lat="51.33823" lon="12.34206">
+        <name>Capa-Haus (Leipzig/Westen, listing)</name>
+    </wpt>
     <wpt lat="51.3515" lon="12.316854">
         <name>Villa Möbius (Leipzig/Westen, listing)</name>
+    </wpt>
+    <wpt lat="51.346285" lon="12.258323">
+        <name>Rathaus Rückmarsdorf (Leipzig/Westen, listing)</name>
     </wpt>
     <wpt lat="51.336554" lon="12.333081">
         <name>Westbad (Leipzig/Westen, listing)</name>
@@ -64479,20 +66489,35 @@
     <wpt lat="51.345123" lon="12.268671">
         <name>Euro Eddy (Leipzig/Westen, listing)</name>
     </wpt>
-    <wpt lat="51.331627" lon="12.333967">
-        <name>La Cantina (Leipzig/Westen, eat)</name>
-    </wpt>
-    <wpt lat="51.327509" lon="12.327717">
-        <name>Chinabrenner (Leipzig/Westen, eat)</name>
+    <wpt lat="51.360373" lon="12.295353">
+        <name>Grüne Aue (Leipzig/Westen, eat)</name>
     </wpt>
     <wpt lat="51.330974" lon="12.336177">
         <name>meins deins unser (Leipzig/Westen, eat)</name>
     </wpt>
+    <wpt lat="51.361813" lon="12.274636">
+        <name>Schlosskrug Gundorf (Leipzig/Westen, eat)</name>
+    </wpt>
+    <wpt lat="51.331627" lon="12.333967">
+        <name>La Cantina (Leipzig/Westen, eat)</name>
+    </wpt>
+    <wpt lat="51.287044" lon="12.314569">
+        <name>Restaurant Dimitris (Leipzig/Westen, eat)</name>
+    </wpt>
+    <wpt lat="51.340716" lon="12.332979">
+        <name>Restaurant Herkules (Leipzig/Westen, eat)</name>
+    </wpt>
     <wpt lat="51.329955" lon="12.346627">
         <name>Ouzeri Was Kost’ Das (Leipzig/Westen, eat)</name>
     </wpt>
+    <wpt lat="51.359914" lon="12.289576">
+        <name>Restaurant Saloniki (Leipzig/Westen, eat)</name>
+    </wpt>
+    <wpt lat="51.327509" lon="12.327717">
+        <name>Chinabrenner (Leipzig/Westen, eat)</name>
+    </wpt>
     <wpt lat="51.330677" lon="12.338545">
-        <name>La Scala Leipzig (Leipzig/Westen, eat)</name>
+        <name>Patio del Sol (Leipzig/Westen, eat)</name>
     </wpt>
     <wpt lat="51.338672" lon="12.332132">
         <name>S Kultur (Leipzig/Westen, eat)</name>
@@ -64590,8 +66615,14 @@
     <wpt lat="52.243321" lon="9.10698">
         <name>Smoker´s (Bad Eilsen, listing)</name>
     </wpt>
+    <wpt lat="52.24297" lon="9.10108">
+        <name>Rehazentrum (Bad Eilsen, listing)</name>
+    </wpt>
+    <wpt lat="52.23882" lon="9.10455">
+        <name>Bückeberg-Klinik (Bad Eilsen, listing)</name>
+    </wpt>
     <wpt lat="52.241028" lon="9.098533">
-        <name>Touristinformation (Bad Eilsen, listing)</name>
+        <name>Touristinformation Bad Eilsen (Bad Eilsen, listing)</name>
     </wpt>
     <wpt lat="50.87887" lon="11.18426">
         <name>Avenida Therme (Hohenfelden, listing)</name>
@@ -65198,6 +67229,9 @@
     </wpt>
     <wpt lat="49.190394" lon="8.130385">
         <name>Reptilium Terrarien- und Wüstenzoo (Landau in der Pfalz, listing)</name>
+    </wpt>
+    <wpt lat="48.60465" lon="12.45783">
+        <name>Landgasthof Räucherhans (Dingolfing, eat)</name>
     </wpt>
     <wpt lat="46.17770" lon="8.75000">
         <name>Campo da golf Le Gerre (Losone, listing)</name>
@@ -66295,7 +68329,7 @@
         <name>Oaky Bar (Bukarest/Militari, listing)</name>
     </wpt>
     <wpt lat="44.43474" lon="26.03449">
-        <name>Hotel Sir Lujerului (Bukarest/Militari, listing)</name>
+        <name>Hotel Sir Lujerului (Bukarest/Militari, sleep)</name>
     </wpt>
     <wpt lat="44.47535" lon="26.03923">
         <name>Biserica Costească (Bukarest/Bucureștii Noi, listing)</name>
@@ -66774,8 +68808,8 @@
     <wpt lat="47.2302147" lon="11.279587">
         <name>Bunter Laden (Axams, buy)</name>
     </wpt>
-    <wpt lat="47.2302033" lon="11.2805998">
-        <name>Sporthaus Apperl (Axams, buy)</name>
+    <wpt lat="47.2318714" lon="11.287912">
+        <name>Sport News (Axams, buy)</name>
     </wpt>
     <wpt lat="47.2300225" lon="11.2787093">
         <name>Axamer Bauernmarkt (Axams, buy)</name>
@@ -69249,6 +71283,15 @@
     <wpt lat="50.7522" lon="8.4855">
         <name>Rheumazentrum Mittelhessen GmbH &amp; Co KG (Bad Endbach, listing)</name>
     </wpt>
+    <wpt lat="50.75296" lon="8.48991">
+        <name>Praxis Dr. med. Rainer Brockhaus (Bad Endbach, listing)</name>
+    </wpt>
+    <wpt lat="50.75422" lon="8.49754">
+        <name>Praxis Dres. med. Andreas Pfaff / Christel Karin Ruppel (Bad Endbach, listing)</name>
+    </wpt>
+    <wpt lat="50.756913" lon="8.456024">
+        <name>Praxis Dres. med. Thomas Scharf / Gabriele Scharf (Bad Endbach, listing)</name>
+    </wpt>
     <wpt lat="50.75529" lon="8.48237">
         <name>Touristinformation Bad Endbach (Bad Endbach, listing)</name>
     </wpt>
@@ -70143,14 +72186,14 @@
     <wpt lat="48.176267" lon="15.086705">
         <name>Babenberger Hof (Ybbs an der Donau, sleep)</name>
     </wpt>
-    <wpt lat="48.22869" lon="15.33459">
-        <name>Stiftsrestaurant (Stift Melk, eat)</name>
-    </wpt>
     <wpt lat="48.22824" lon="15.33124">
         <name>Stift Melk (Stift Melk, see)</name>
     </wpt>
     <wpt lat="48.22868" lon="15.33360">
         <name>Stiftspark (Stift Melk, do)</name>
+    </wpt>
+    <wpt lat="48.22869" lon="15.33459">
+        <name>Stiftsrestaurant (Stift Melk, eat)</name>
     </wpt>
     <wpt lat="50.9861" lon="2.1235">
         <name>Musée du Dessin et de l'Estampe originale (Gravelines, see)</name>
@@ -70162,7 +72205,7 @@
         <name>Tirolerstuben (Aderklaa, eat)</name>
     </wpt>
     <wpt lat="48.2841465" lon="16.535136">
-        <name>Kulturhof Aderklaa (Aderklaa, listing)</name>
+        <name>Kulturhof Aderklaa (Aderklaa, do)</name>
     </wpt>
     <wpt lat="48.2851471" lon="16.5377185">
         <name>Gemeindeamt Aderklaa (Aderklaa, listing)</name>
@@ -70817,6 +72860,9 @@
     </wpt>
     <wpt lat="47.300489" lon="13.505073">
         <name>Freizeit- und Wildpark Untertauern (Untertauern, listing)</name>
+    </wpt>
+    <wpt lat="47.267947" lon="13.497215">
+        <name>Alles Alm Erlebnisweg (Untertauern, listing)</name>
     </wpt>
     <wpt lat="47.342240" lon="13.503678">
         <name>Hammerwirt Forellenhof (Untertauern, eat)</name>
@@ -71802,9 +73848,6 @@
     <wpt lat="52.47827" lon="13.44806">
         <name>Sfizy Veg (Essen und Trinken in Berlin, eat)</name>
     </wpt>
-    <wpt lat="52.48995" lon="13.43326">
-        <name>Sauvage (Essen und Trinken in Berlin, eat)</name>
-    </wpt>
     <wpt lat="52.50879" lon="13.37361">
         <name>FACIL (Essen und Trinken in Berlin, eat)</name>
     </wpt>
@@ -71828,9 +73871,6 @@
     </wpt>
     <wpt lat="52.49660" lon="13.42089">
         <name>Horváth (Essen und Trinken in Berlin, eat)</name>
-    </wpt>
-    <wpt lat="52.50495" lon="13.33861">
-        <name>First Floor (Essen und Trinken in Berlin, eat)</name>
     </wpt>
     <wpt lat="52.50986" lon="13.34596">
         <name>5 - cinco by Paco Pérez (Essen und Trinken in Berlin, eat)</name>
@@ -72339,6 +74379,9 @@
     <wpt lat="53.628361" lon="8.844861">
         <name>Dobbendeel (Bad Bederkesa, eat)</name>
     </wpt>
+    <wpt lat="53.6187" lon="8.8503">
+        <name>Regenbogen-Campingplatz (Bad Bederkesa, listing)</name>
+    </wpt>
     <wpt lat="53.626802" lon="8.838584">
         <name>Seehotel Dock (Bad Bederkesa, sleep)</name>
     </wpt>
@@ -72485,6 +74528,9 @@
     </wpt>
     <wpt lat="48.06888" lon="16.35498">
         <name>Pension Falknerhaus (Laxenburg, listing)</name>
+    </wpt>
+    <wpt lat="48.06928" lon="16.35572">
+        <name>Postamt Laxenburg (Laxenburg, listing)</name>
     </wpt>
     <wpt lat="47.617099" lon="10.707345">
         <name>Puppenmuseum Rieden (Rieden am Forggensee, see)</name>
@@ -72975,9 +75021,6 @@
     <wpt lat="51.49508" lon="4.29024">
         <name>IJssalon Crusio (Bergen op Zoom, eat)</name>
     </wpt>
-    <wpt lat="51.49436" lon="4.28779">
-        <name>Locomotiefke (Bergen op Zoom, listing)</name>
-    </wpt>
     <wpt lat="51.49432" lon="4.28641">
         <name>Oosterwaal (Bergen op Zoom, listing)</name>
     </wpt>
@@ -72998,9 +75041,6 @@
     </wpt>
     <wpt lat="51.49548" lon="4.28590">
         <name>VVV Brabantse Wal (Bergen op Zoom, listing)</name>
-    </wpt>
-    <wpt lat="51.4914" lon="4.2927">
-        <name>Police station (Bergen op Zoom, listing)</name>
     </wpt>
     <wpt lat="51.49515" lon="4.28425">
         <name>In der Bücherei (Bergen op Zoom, listing)</name>
@@ -73683,6 +75723,9 @@
     <wpt lat="48.147946" lon="7.745868">
         <name>Riegeler Hof (Riegel am Kaiserstuhl, sleep)</name>
     </wpt>
+    <wpt lat="48.163611" lon="7.741499">
+        <name>Campingplatz Müller-See (Riegel am Kaiserstuhl, listing)</name>
+    </wpt>
     <wpt lat="48.14136" lon="7.70308">
         <name>Rathaus (Endingen am Kaiserstuhl, listing)</name>
     </wpt>
@@ -73718,6 +75761,9 @@
     </wpt>
     <wpt lat="48.142148" lon="7.701845">
         <name>Weinstube zur Sonne (Endingen am Kaiserstuhl, eat)</name>
+    </wpt>
+    <wpt lat="48.138693" lon="7.703436">
+        <name>Gasthaus Schützen (Endingen am Kaiserstuhl, eat)</name>
     </wpt>
     <wpt lat="48.145679" lon="7.695226">
         <name>Wöllinger Hof (Endingen am Kaiserstuhl, eat)</name>
@@ -73949,6 +75995,9 @@
     </wpt>
     <wpt lat="48.212453" lon="8.229708">
         <name>Stadtverwaltung Hornberg (Hornberg, listing)</name>
+    </wpt>
+    <wpt lat="50.85015" lon="10.88189">
+        <name>1. Deutsches Bratwurstmuseum (Essen und Trinken in Thüringen, see)</name>
     </wpt>
     <wpt lat="51.04162" lon="11.31055">
         <name>Thüringer Kloßmuseum (Essen und Trinken in Thüringen, see)</name>
@@ -75276,9 +77325,6 @@
     <wpt lat="52.79934" lon="8.63802">
         <name>Klaus's (Twistringen, eat)</name>
     </wpt>
-    <wpt lat="52.80015" lon="8.63945">
-        <name>Domschänke (Twistringen, eat)</name>
-    </wpt>
     <wpt lat="52.79345" lon="8.64570">
         <name>Hotel zur Börse (Twistringen, eat)</name>
     </wpt>
@@ -76252,31 +78298,31 @@
         <name>Gerber Park (Uhingen, sleep)</name>
     </wpt>
     <wpt lat="48.7006" lon="9.7057">
-        <name>St. Markus (Eislingen/Fils, listing)</name>
+        <name>St. Markus (Eislingen (Fils), listing)</name>
     </wpt>
     <wpt lat="48.6946" lon="9.6973">
-        <name>Liebfrauenkirche (Eislingen/Fils, listing)</name>
+        <name>Liebfrauenkirche (Eislingen (Fils), listing)</name>
     </wpt>
     <wpt lat="48.7075" lon="9.7328">
-        <name>St. Jakobus (Eislingen/Fils, listing)</name>
+        <name>St. Jakobus (Eislingen (Fils), listing)</name>
     </wpt>
     <wpt lat="48.6981" lon="9.7099">
-        <name>Christuskirche (Eislingen/Fils, listing)</name>
+        <name>Christuskirche (Eislingen (Fils), listing)</name>
     </wpt>
     <wpt lat="48.6936" lon="9.7067">
-        <name>Lutherkirche (Eislingen/Fils, listing)</name>
+        <name>Lutherkirche (Eislingen (Fils), listing)</name>
     </wpt>
     <wpt lat="48.697098" lon="9.705573">
-        <name>Eislinger Schloss (Eislingen/Fils, listing)</name>
+        <name>Eislinger Schloss (Eislingen (Fils), listing)</name>
     </wpt>
     <wpt lat="48.695444" lon="9.704195">
-        <name>Stadthalle (Eislingen/Fils, listing)</name>
+        <name>Stadthalle (Eislingen (Fils), listing)</name>
     </wpt>
     <wpt lat="48.697946" lon="9.717900">
-        <name>Hotel Eichenhof (Eislingen/Fils, sleep)</name>
+        <name>Hotel Eichenhof (Eislingen (Fils), sleep)</name>
     </wpt>
     <wpt lat="48.694410" lon="9.706163">
-        <name>Hotel Hirsch (Eislingen/Fils, sleep)</name>
+        <name>Hotel Hirsch (Eislingen (Fils), sleep)</name>
     </wpt>
     <wpt lat="48.6948" lon="9.7453">
         <name>Schachenmayr Freibad (Salach, listing)</name>
@@ -76689,14 +78735,86 @@
     <wpt lat="48.21657" lon="16.37548">
         <name>SprayChilled (Wien/Leopoldstadt/Karmeliterviertel, buy)</name>
     </wpt>
+    <wpt lat="48.21972" lon="16.37842">
+        <name>Café Sperlhof (Wien/Leopoldstadt/Karmeliterviertel, listing)</name>
+    </wpt>
+    <wpt lat="48.21683" lon="16.38058">
+        <name>Café Magistrat (Wien/Leopoldstadt/Karmeliterviertel, listing)</name>
+    </wpt>
+    <wpt lat="48.21727" lon="16.37724">
+        <name>Cafemima (Wien/Leopoldstadt/Karmeliterviertel, listing)</name>
+    </wpt>
+    <wpt lat="48.21528" lon="16.37857">
+        <name>Bäckerei Ohel Moshe (Wien/Leopoldstadt/Karmeliterviertel, listing)</name>
+    </wpt>
+    <wpt lat="48.21916" lon="16.38027">
+        <name>Zur Reblaus (Wien/Leopoldstadt/Karmeliterviertel, listing)</name>
+    </wpt>
+    <wpt lat="48.21787" lon="16.37910">
+        <name>Zum Sieg (Wien/Leopoldstadt/Karmeliterviertel, listing)</name>
+    </wpt>
+    <wpt lat="48.21643" lon="16.38009">
+        <name>Sooßer Weinhaus (Wien/Leopoldstadt/Karmeliterviertel, listing)</name>
+    </wpt>
+    <wpt lat="48.21700" lon="16.37774">
+        <name>Asiahouse Vienna (Wien/Leopoldstadt/Karmeliterviertel, listing)</name>
+    </wpt>
+    <wpt lat="48.21932" lon="16.37704">
+        <name>Pizzeria Marí (Wien/Leopoldstadt/Karmeliterviertel, eat)</name>
+    </wpt>
+    <wpt lat="48.21872" lon="16.37729">
+        <name>Gasthaus schöne Perle (Wien/Leopoldstadt/Karmeliterviertel, eat)</name>
+    </wpt>
+    <wpt lat="48.21554" lon="16.37984">
+        <name>Tachles - Das Kulturcafé (Wien/Leopoldstadt/Karmeliterviertel, eat)</name>
+    </wpt>
+    <wpt lat="48.21652" lon="16.38057">
+        <name>Bahur Tov (Wien/Leopoldstadt/Karmeliterviertel, eat)</name>
+    </wpt>
+    <wpt lat="48.21821" lon="16.37736">
+        <name>Los Mexicas (Wien/Leopoldstadt/Karmeliterviertel, eat)</name>
+    </wpt>
+    <wpt lat="48.22015" lon="16.37672">
+        <name>Skopik &amp; Lohn (Wien/Leopoldstadt/Karmeliterviertel, eat)</name>
+    </wpt>
+    <wpt lat="48.21879" lon="16.37879">
+        <name>Leopold (Wien/Leopoldstadt/Karmeliterviertel, eat)</name>
+    </wpt>
     <wpt lat="48.21702" lon="16.37358">
         <name>Tel Aviv Beach (Wien/Leopoldstadt/Karmeliterviertel, do)</name>
+    </wpt>
+    <wpt lat="48.21786" lon="16.37286">
+        <name>Schützenhaus (Wien/Leopoldstadt/Karmeliterviertel, listing)</name>
     </wpt>
     <wpt lat="48.21965" lon="16.37841">
         <name>Café Sperlhof (Wien/Leopoldstadt/Karmeliterviertel, listing)</name>
     </wpt>
     <wpt lat="48.21715" lon="16.37740">
         <name>6er-Haus (ehem. Charly's Eck) (Wien/Leopoldstadt/Karmeliterviertel, listing)</name>
+    </wpt>
+    <wpt lat="48.21487" lon="16.37631">
+        <name>Collegium Hungaricum (Wien/Leopoldstadt/Karmeliterviertel, listing)</name>
+    </wpt>
+    <wpt lat="48.21731" lon="16.38065">
+        <name>Hotel Tabor (Wien/Leopoldstadt/Karmeliterviertel, sleep)</name>
+    </wpt>
+    <wpt lat="48.22195" lon="16.37177">
+        <name>Hotel Meininger Wien (Wien/Leopoldstadt/Karmeliterviertel, sleep)</name>
+    </wpt>
+    <wpt lat="48.21916" lon="16.37577">
+        <name>Hotel Meininger Wien (Wien/Leopoldstadt/Karmeliterviertel, sleep)</name>
+    </wpt>
+    <wpt lat="48.18017" lon="16.37452">
+        <name>Hotel Meininger Wien (Wien/Leopoldstadt/Karmeliterviertel, sleep)</name>
+    </wpt>
+    <wpt lat="48.21814" lon="16.37363">
+        <name>Apartmenthaus Hermine (Wien/Leopoldstadt/Karmeliterviertel, listing)</name>
+    </wpt>
+    <wpt lat="48.21525" lon="16.37617">
+        <name>Hotel Mercure (Wien/Leopoldstadt/Karmeliterviertel, sleep)</name>
+    </wpt>
+    <wpt lat="48.21877" lon="16.38064">
+        <name>Postamt 1022 (Wien/Leopoldstadt/Karmeliterviertel, listing)</name>
     </wpt>
     <wpt lat="49.3596" lon="0.0844">
         <name>Bahnhof (Deauville, listing)</name>
@@ -77898,6 +80016,27 @@
     <wpt lat="52.4671" lon="13.2617">
         <name>Jagdschloss Grunewald (Berlin/Dahlem, listing)</name>
     </wpt>
+    <wpt lat="48.21957" lon="16.38790">
+        <name>Lunzers Maßgreißlerei (Wien/Leopoldstadt/Volkertviertel und Alliiertenviertel, buy)</name>
+    </wpt>
+    <wpt lat="48.22666" lon="16.38630">
+        <name>Ballons &amp; Ballons (Wien/Leopoldstadt/Volkertviertel und Alliiertenviertel, buy)</name>
+    </wpt>
+    <wpt lat="48.22093" lon="16.38801">
+        <name>Fischrestaurant Kaj (Wien/Leopoldstadt/Volkertviertel und Alliiertenviertel, eat)</name>
+    </wpt>
+    <wpt lat="48.22670" lon="16.38199">
+        <name>Am Nordpol (Wien/Leopoldstadt/Volkertviertel und Alliiertenviertel, eat)</name>
+    </wpt>
+    <wpt lat="48.22084" lon="16.38901">
+        <name>Hotel Kunsthof (Wien/Leopoldstadt/Volkertviertel und Alliiertenviertel, sleep)</name>
+    </wpt>
+    <wpt lat="48.21940" lon="16.38842">
+        <name>Apotheke zur Hoffnung (Wien/Leopoldstadt/Volkertviertel und Alliiertenviertel, listing)</name>
+    </wpt>
+    <wpt lat="48.22351" lon="16.38552">
+        <name>Schwan-Apotheke (Wien/Leopoldstadt/Volkertviertel und Alliiertenviertel, listing)</name>
+    </wpt>
     <wpt lat="50.8438" lon="9.4577">
         <name>Schloss Hausen (Oberaula, listing)</name>
     </wpt>
@@ -78026,6 +80165,60 @@
     </wpt>
     <wpt lat="57.647778" lon="-3.316714">
         <name>Elgin Post Office (Elgin (Moray), listing)</name>
+    </wpt>
+    <wpt lat="43.05068" lon="-76.14884">
+        <name>Erie Canal Museum (Syracuse (New York), see)</name>
+    </wpt>
+    <wpt lat="43.04729" lon="-76.15557">
+        <name>Museum of Science &amp; Technology (MOST) (Syracuse (New York), see)</name>
+    </wpt>
+    <wpt lat="43.04472" lon="-76.14674">
+        <name>Everson Museum of Art (Syracuse (New York), see)</name>
+    </wpt>
+    <wpt lat="43.04308" lon="-76.18129">
+        <name>Rosamond Gifford Zoo (Syracuse (New York), listing)</name>
+    </wpt>
+    <wpt lat="43.07356" lon="-76.16866">
+        <name>Central New York Regional Market (Syracuse (New York), buy)</name>
+    </wpt>
+    <wpt lat="43.04626" lon="-76.07066">
+        <name>Trader Joe’s (Syracuse (New York), buy)</name>
+    </wpt>
+    <wpt lat="43.05262" lon="-76.07506">
+        <name>Smith Interiors (Syracuse (New York), buy)</name>
+    </wpt>
+    <wpt lat="43.05205" lon="-76.15367">
+        <name>Byblos Mediterrean Café (Syracuse (New York), eat)</name>
+    </wpt>
+    <wpt lat="43.12266" lon="-76.16108">
+        <name>Core (Syracuse (New York), eat)</name>
+    </wpt>
+    <wpt lat="43.05178" lon="-76.15374">
+        <name>Darwin (Syracuse (New York), eat)</name>
+    </wpt>
+    <wpt lat="43.12204" lon="-76.14193">
+        <name>The Clam Bar (Syracuse (New York), eat)</name>
+    </wpt>
+    <wpt lat="43.03540" lon="-76.06610">
+        <name>Dosa Grill (Syracuse (New York), eat)</name>
+    </wpt>
+    <wpt lat="43.05258" lon="-76.15470">
+        <name>Dinosaur Barbecue (Syracuse (New York), eat)</name>
+    </wpt>
+    <wpt lat="43.05948" lon="-76.19982">
+        <name>Eva’s European Sweets (Syracuse (New York), eat)</name>
+    </wpt>
+    <wpt lat="43.05309" lon="-76.14145">
+        <name>Laci’s Tapas Bar (Syracuse (New York), eat)</name>
+    </wpt>
+    <wpt lat="43.04755" lon="-76.15442">
+        <name>Lemon Grass Restaurant (Syracuse (New York), eat)</name>
+    </wpt>
+    <wpt lat="43.04830" lon="-76.15531">
+        <name>Pastabilities (Syracuse (New York), eat)</name>
+    </wpt>
+    <wpt lat="43.04760" lon="-76.14043">
+        <name>Strong Hearts Café (Syracuse (New York), eat)</name>
     </wpt>
     <wpt lat="47.5389" lon="16.5546">
         <name>KUGA - kulturna zadruga (Großwarasdorf, listing)</name>
@@ -78525,6 +80718,9 @@
     <wpt lat="49.177743" lon="9.504964">
         <name>Rathaus Pfedelbach (Pfedelbach, listing)</name>
     </wpt>
+    <wpt lat="51.844681" lon="6.427333">
+        <name>Burg Anholt (Anholt, listing)</name>
+    </wpt>
     <wpt lat="53.28009" lon="12.98571">
         <name>Kanumühle (Wesenberg, listing)</name>
     </wpt>
@@ -78720,6 +80916,18 @@
     <wpt lat="49.296608" lon="9.973470">
         <name>Gemeindeverwaltung Blaufelden (Blaufelden, listing)</name>
     </wpt>
+    <wpt lat="48.18619" lon="16.37305">
+        <name>Goldener Löwe (Wien Hauptbahnhof, listing)</name>
+    </wpt>
+    <wpt lat="48.18716" lon="16.37643">
+        <name>Restaurant Böhmerwald (Wien Hauptbahnhof, eat)</name>
+    </wpt>
+    <wpt lat="48.18229" lon="16.37442">
+        <name>Columbusbräu (Wien Hauptbahnhof, listing)</name>
+    </wpt>
+    <wpt lat="48.18350" lon="16.37634">
+        <name>Delta (Wien Hauptbahnhof, sleep)</name>
+    </wpt>
     <wpt lat="49.2593" lon="10.1057">
         <name>Heimatmuseum (Rot am See, see)</name>
     </wpt>
@@ -78764,6 +80972,9 @@
     </wpt>
     <wpt lat="49.210858" lon="10.063546">
         <name>Rathaus Wallhausen (Wallhausen (Württemberg), listing)</name>
+    </wpt>
+    <wpt lat="48.302764" lon="16.712573">
+        <name>Erlebnispark Gänserndorf (Gänserndorf, do)</name>
     </wpt>
     <wpt lat="53.82134" lon="8.88251">
         <name>Fredebohm Fahrradvermietung (Otterndorf, listing)</name>
@@ -79225,7 +81436,7 @@
         <name>Festung (Suceava, listing)</name>
     </wpt>
     <wpt lat="47.641557" lon="26.262955">
-        <name>St. Johannes Kloster (Suceava, listing)</name>
+        <name>St.-Johannes-Kloster (Suceava, listing)</name>
     </wpt>
     <wpt lat="47.646396" lon="26.261793">
         <name>Demetriuskirche (Suceava, listing)</name>
@@ -80251,7 +82462,7 @@
         <name>Glasmuseum "Gläserne Burg" / Kuchlerhaus (Ebreichsdorf, see)</name>
     </wpt>
     <wpt lat="47.9808" lon="16.3853">
-        <name>Magna Racino (Ebreichsdorf, listing)</name>
+        <name>Magna Racino (Ebreichsdorf, do)</name>
     </wpt>
     <wpt lat="64.089031" lon="-21.920085">
         <name>Isländisches Museum für Design (Garðabær, see)</name>
@@ -81309,6 +83520,9 @@
     <wpt lat="48.2281" lon="16.375">
         <name>Familienbad Augarten (Wien/Leopoldstadt/Augarten, listing)</name>
     </wpt>
+    <wpt lat="48.22645" lon="16.37037">
+        <name>Bäckerei und Minimarkt Prindl (Wien/Leopoldstadt/Augarten, listing)</name>
+    </wpt>
     <wpt lat="48.1992" lon="16.3778">
         <name>Arnold-Schönberg-Center (Wien/Schwarzenbergplatz, see)</name>
     </wpt>
@@ -81531,11 +83745,20 @@
     <wpt lat="44.218406" lon="12.379967">
         <name>Pineta sul mare (Cesenatico, listing)</name>
     </wpt>
+    <wpt lat="44.1729250" lon="12.4337370">
+        <name>Hotel Sport &amp; Residenza (Cesenatico, sleep)</name>
+    </wpt>
+    <wpt lat="44.18332" lon="12.42243">
+        <name>Hotel Valverde &amp; Residenza (Cesenatico, sleep)</name>
+    </wpt>
     <wpt lat="44.204962" lon="12.401903">
         <name>Grand Hotel da Vinci (Cesenatico, sleep)</name>
     </wpt>
     <wpt lat="44.201457" lon="12.405296">
         <name>Grand Hotel Cesenatico (Cesenatico, sleep)</name>
+    </wpt>
+    <wpt lat="44.1747925" lon="12.4339212">
+        <name>Hotel Nettuno (Cesenatico, sleep)</name>
     </wpt>
     <wpt lat="45.637004" lon="13.071908">
         <name>Spaggia di Pluto (Bibione, listing)</name>
@@ -82191,6 +84414,9 @@
     <wpt lat="30.9849" lon="34.9354">
         <name>Desert Irus Hotel (Yeruham, sleep)</name>
     </wpt>
+    <wpt lat="48.21598" lon="16.38742">
+        <name>Johann-Strauß-Wohnung (Wien/Leopoldstadt/Czerninviertel und Jägerzeile, see)</name>
+    </wpt>
     <wpt lat="43.083227" lon="11.684797">
         <name>Agriturismo Casa Frati (Pienza, listing)</name>
     </wpt>
@@ -82215,6 +84441,12 @@
     <wpt lat="13.74433" lon="100.540542">
         <name>Erawan-Schrein (Bangkok/Siam, listing)</name>
     </wpt>
+    <wpt lat="13.747524" lon="100.538603">
+        <name>Centara Grand and Bangkok Convention Centre (Bangkok/Siam, listing)</name>
+    </wpt>
+    <wpt lat="13.738864" lon="100.547867">
+        <name>CRC (China Resources) Tower (Bangkok/Siam, listing)</name>
+    </wpt>
     <wpt lat="13.7491554" lon="100.5286038">
         <name>Jim Thompson House (Bangkok/Siam, see)</name>
     </wpt>
@@ -82227,11 +84459,11 @@
     <wpt lat="13.746743" lon="100.534977">
         <name>Siam Ocean World (Bangkok/Siam, listing)</name>
     </wpt>
-    <wpt lat="13.747524" lon="100.538603">
-        <name>Centara Grand and Bangkok Convention Centre (Bangkok/Siam, listing)</name>
+    <wpt lat="13.745727" lon="100.53149">
+        <name>Scala (Bangkok/Siam, listing)</name>
     </wpt>
-    <wpt lat="13.738864" lon="100.547867">
-        <name>CRC (China Resources) Tower (Bangkok/Siam, listing)</name>
+    <wpt lat="13.745758" lon="100.532579">
+        <name>Lido (Bangkok/Siam, listing)</name>
     </wpt>
     <wpt lat="13.744431" lon="100.533139">
         <name>Siam Square (Bangkok/Siam, listing)</name>
@@ -82514,6 +84746,30 @@
     </wpt>
     <wpt lat="13.746326" lon="100.352243">
         <name>Talat Nat Thonburi (Bangkok/Thonburi, listing)</name>
+    </wpt>
+    <wpt lat="13.770419" lon="100.487952">
+        <name>Jade Garden (Bangkok/Thonburi, eat)</name>
+    </wpt>
+    <wpt lat="13.755484" lon="100.48509">
+        <name>Orathai Sushi Wang Lang (Bangkok/Thonburi, eat)</name>
+    </wpt>
+    <wpt lat="13.754762" lon="100.486541">
+        <name>342 Bar (Bangkok/Thonburi, drink)</name>
+    </wpt>
+    <wpt lat="13.728609" lon="100.511234">
+        <name>ThreeSixty Lounge (Bangkok/Thonburi, drink)</name>
+    </wpt>
+    <wpt lat="13.715093" lon="100.502702">
+        <name>Focal Local B&amp;B (Bangkok/Thonburi, listing)</name>
+    </wpt>
+    <wpt lat="13.70473" lon="100.492308">
+        <name>Anantara Bangkok Riverside Resort &amp; Spa (Bangkok/Thonburi, sleep)</name>
+    </wpt>
+    <wpt lat="13.766064" lon="100.493526">
+        <name>Praya Palazzo (Bangkok/Thonburi, sleep)</name>
+    </wpt>
+    <wpt lat="13.72297" lon="100.511105">
+        <name>The Peninsula Bangkok (Bangkok/Thonburi, sleep)</name>
     </wpt>
     <wpt lat="57° 21′ 28″ N" lon="21° 32′ 39″ E">
         <name>Ventspils International Airport (IATA: VNT) (Ventspils, listing)</name>
@@ -85269,6 +87525,21 @@
     <wpt lat="30.047318" lon="31.235665">
         <name>Steigenberger Tahrir Square Hotel (Kairo/Qaṣr en-Nīl, sleep)</name>
     </wpt>
+    <wpt lat="57.005928" lon="-5.829575">
+        <name>Bahnhof Mallaig (Mallaig, listing)</name>
+    </wpt>
+    <wpt lat="57.005419" lon="-5.830031">
+        <name>Mallaig Heritage Centre (Mallaig, see)</name>
+    </wpt>
+    <wpt lat="57.00595" lon="-5.829025">
+        <name>The Co-operative Food (Mallaig, buy)</name>
+    </wpt>
+    <wpt lat="57.005478" lon="-5.829028">
+        <name>Mallaig Backpackers Lodge (Mallaig, listing)</name>
+    </wpt>
+    <wpt lat="57.006097" lon="-5.830208">
+        <name> (Mallaig, listing)</name>
+    </wpt>
     <wpt lat="46.52966" lon="11.24865">
         <name>Kirche Maria Himmelfahrt (Terlan, listing)</name>
     </wpt>
@@ -85704,6 +87975,9 @@
     <wpt lat="11.15767" lon="-1.61068">
         <name>Campement de Ranch de Nazinga (Réserve de Nazinga, sleep)</name>
     </wpt>
+    <wpt lat="56.9667" lon="-2.2254">
+        <name>Stonehaven Station (Stonehaven, listing)</name>
+    </wpt>
     <wpt lat="56.9684" lon="-2.2058">
         <name>The Bay Fish &amp; Chip Shop (Stonehaven, listing)</name>
     </wpt>
@@ -85941,6 +88215,12 @@
     <wpt lat="52.4119" lon="12.9096">
         <name>Hausbootvermietung Werder (Werder (Havel), listing)</name>
     </wpt>
+    <wpt lat="52.37850" lon="12.90782">
+        <name>Strandbad Werder am Plessowersee (Werder (Havel), listing)</name>
+    </wpt>
+    <wpt lat="52.36439" lon="12.91324">
+        <name>Strandbad Glindow (Werder (Havel), listing)</name>
+    </wpt>
     <wpt lat="52.4137" lon="12.9105">
         <name>Fischer Berner (Werder (Havel), buy)</name>
     </wpt>
@@ -86090,5 +88370,443 @@
     </wpt>
     <wpt lat="57.6513" lon="-3.5905">
         <name>Findhorn Bay Holiday Park (Findhorn, listing)</name>
+    </wpt>
+    <wpt lat="46.62443" lon="10.82981">
+        <name>Schloss Goldrain (Latsch, listing)</name>
+    </wpt>
+    <wpt lat="46.610793" lon="10.858129">
+        <name>Aquaforum Latsch (Latsch, listing)</name>
+    </wpt>
+    <wpt lat="46.616916" lon="10.861560">
+        <name>Landhotel Latscherhof (Latsch, sleep)</name>
+    </wpt>
+    <wpt lat="46.605683" lon="10.822205">
+        <name>Hotel Gasthof Krone (Latsch, sleep)</name>
+    </wpt>
+    <wpt lat="46.611963" lon="10.860609">
+        <name>das Paradies (Latsch, sleep)</name>
+    </wpt>
+    <wpt lat="51.34129" lon="7.04655">
+        <name>Deutsches Schloss- und Beschlägemuseum (Velbert, see)</name>
+    </wpt>
+    <wpt lat="51°18'46&quot;N" lon="7°5'15&quot;E">
+        <name>Nevigeser Wallfahrtsdom (Velbert, see)</name>
+    </wpt>
+    <wpt lat="51°21'18&quot;N" lon="7°8'7&quot;E">
+        <name>Sender Langenberg (Velbert, see)</name>
+    </wpt>
+    <wpt lat="51.35436" lon="7.13203">
+        <name>Wald-Kletterpark Langenberg (Velbert, listing)</name>
+    </wpt>
+    <wpt lat="51.34451" lon="7.02876">
+        <name>Jugendherberge Velbert (Velbert, listing)</name>
+    </wpt>
+    <wpt lat="51.33849" lon="7.03537">
+        <name>Best Western Plus  Parkhotel Velbert (Velbert, listing)</name>
+    </wpt>
+    <wpt lat="49.7719" lon="10.5659">
+        <name>Freibad (Schlüsselfeld, listing)</name>
+    </wpt>
+    <wpt lat="49.75760" lon="10.62009">
+        <name>Stern-Bräu Brauerei Scheubel (Schlüsselfeld, listing)</name>
+    </wpt>
+    <wpt lat="49.75678" lon="10.61797">
+        <name>Schwarzer Adler (Schlüsselfeld, listing)</name>
+    </wpt>
+    <wpt lat="49.75093" lon="10.62831">
+        <name>Braumanufaktur Hertl (Schlüsselfeld, listing)</name>
+    </wpt>
+    <wpt lat="49.76162" lon="10.61944">
+        <name>Scheubel-Keller (Schlüsselfeld, listing)</name>
+    </wpt>
+    <wpt lat="33.9516" lon="-83.3238">
+        <name>Athens-Ben Epps Airport (Athens (Georgia), listing)</name>
+    </wpt>
+    <wpt lat="33.95983" lon="-83.37048">
+        <name>Megabus (Athens (Georgia), listing)</name>
+    </wpt>
+    <wpt lat="39.36078" lon="-9.15624">
+        <name>The Literary Man (Óbidos, sleep)</name>
+    </wpt>
+    <wpt lat="48.64964" lon="11.76966">
+        <name>Hallenbad Mainburg (Mainburg, listing)</name>
+    </wpt>
+    <wpt lat="48.64302" lon="11.78036">
+        <name>Krankenhaus Mainburg (Mainburg, listing)</name>
+    </wpt>
+    <wpt lat="48.64208" lon="11.78282">
+        <name>Abens Apotheke (Mainburg, listing)</name>
+    </wpt>
+    <wpt lat="48.64302" lon="11.78720">
+        <name>Gabelsberger Apotheke (Mainburg, listing)</name>
+    </wpt>
+    <wpt lat="46.571000" lon="10.795061">
+        <name>culturamartell (Martell, see)</name>
+    </wpt>
+    <wpt lat="46.469589" lon="10.673153">
+        <name>Martellerhütte (Martell, listing)</name>
+    </wpt>
+    <wpt lat="46.481481" lon="10.679253">
+        <name>Zufallhütte (Martell, listing)</name>
+    </wpt>
+    <wpt lat="46.5039" lon="10.7036">
+        <name>Lyfialm (Martell, listing)</name>
+    </wpt>
+    <wpt lat="46.562495" lon="10.786829">
+        <name>Martell Mountains (Martell, sleep)</name>
+    </wpt>
+    <wpt lat="46.576681" lon="10.812181">
+        <name>Burgauner Hof (Martell, sleep)</name>
+    </wpt>
+    <wpt lat="46.554456" lon="10.780825">
+        <name>Hotel Martellerhof (Martell, sleep)</name>
+    </wpt>
+    <wpt lat="46.545954" lon="10.769943">
+        <name>Nierderhof (Martell, listing)</name>
+    </wpt>
+    <wpt lat="46.646428" lon="10.465221">
+        <name>Chavalatsch Hotel Restaurant (Taufers im Münstertal, sleep)</name>
+    </wpt>
+    <wpt lat="46.642094" lon="10.462512">
+        <name>Hotel Lamm (Taufers im Münstertal, sleep)</name>
+    </wpt>
+    <wpt lat="46.644473" lon="10.459637">
+        <name>Haus Rufinatscha (Taufers im Münstertal, sleep)</name>
+    </wpt>
+    <wpt lat="44.307237" lon="-69.781676">
+        <name>Maine State House (Augusta (Maine), listing)</name>
+    </wpt>
+    <wpt lat="44.3059" lon="-69.7827">
+        <name>Maine State Museum (Augusta (Maine), see)</name>
+    </wpt>
+    <wpt lat="44.307883" lon="-69.781389">
+        <name>The Blaine House (Augusta (Maine), listing)</name>
+    </wpt>
+    <wpt lat="44.316389" lon="-69.771111">
+        <name>Old Fort Western (Augusta (Maine), listing)</name>
+    </wpt>
+    <wpt lat="44.338" lon="-69.7955">
+        <name>The Holocaust and Human Rights Center of Maine (Augusta (Maine), listing)</name>
+    </wpt>
+    <wpt lat="44.315" lon="-69.7778">
+        <name>Lithgow Public Library (Augusta (Maine), listing)</name>
+    </wpt>
+    <wpt lat="44.3" lon="-69.764">
+        <name>Viles Arboretum (Augusta (Maine), listing)</name>
+    </wpt>
+    <wpt lat="49.82287" lon="10.88772">
+        <name>Brauerei Müller (Frensdorf, buy)</name>
+    </wpt>
+    <wpt lat="49.83491" lon="10.85988">
+        <name>Brauerei-Gaststätte Büttner (Frensdorf, listing)</name>
+    </wpt>
+    <wpt lat="49.79267" lon="10.88639">
+        <name>Brauerei Barnikel (Frensdorf, listing)</name>
+    </wpt>
+    <wpt lat="49.81457" lon="10.89603">
+        <name>Schmausenkeller (Frensdorf, listing)</name>
+    </wpt>
+    <wpt lat="46.764549" lon="10.532525">
+        <name>Camping zum See (Graun im Vinschgau, listing)</name>
+    </wpt>
+    <wpt lat="46.765247" lon="10.533705">
+        <name>Hotel Stocker (Graun im Vinschgau, sleep)</name>
+    </wpt>
+    <wpt lat="46.808745" lon="10.539797">
+        <name>Goldener Adler (Graun im Vinschgau, sleep)</name>
+    </wpt>
+    <wpt lat="46.839031" lon="10.641368">
+        <name>Langtauferer Hof (Graun im Vinschgau, sleep)</name>
+    </wpt>
+    <wpt lat="46.669931" lon="11.600342">
+        <name>Schloss Feldthurns (Feldthurns, listing)</name>
+    </wpt>
+    <wpt lat="46.66952" lon="11.59800">
+        <name>Archeoparc Feldthurns (Feldthurns, listing)</name>
+    </wpt>
+    <wpt lat="46.668934" lon="11.599842">
+        <name>Taubers Unterwirt (Feldthurns, sleep)</name>
+    </wpt>
+    <wpt lat="46.669498" lon="11.599226">
+        <name>Hotel Oberwirt (Feldthurns, sleep)</name>
+    </wpt>
+    <wpt lat="46.6665" lon="11.591323">
+        <name>Feldthurner Hof (Feldthurns, sleep)</name>
+    </wpt>
+    <wpt lat="46.675957" lon="11.598705">
+        <name>Jörgenwirt (Feldthurns, sleep)</name>
+    </wpt>
+    <wpt lat="46.669011" lon="11.598890">
+        <name>Tourismusverein Feldthurns (Feldthurns, listing)</name>
+    </wpt>
+    <wpt lat="46.63301" lon="11.54014">
+        <name>St. Stephan (Villanders, listing)</name>
+    </wpt>
+    <wpt lat="46.6232" lon="11.5333">
+        <name>St. Moritz (Villanders, listing)</name>
+    </wpt>
+    <wpt lat="46.638954" lon="11.553983">
+        <name>St. Valentin (Villanders, listing)</name>
+    </wpt>
+    <wpt lat="46.6316" lon="11.5408">
+        <name>Archeoparc (Villanders, listing)</name>
+    </wpt>
+    <wpt lat="46.654401" lon="11.543173">
+        <name>Erlebnisbergwerk (Villanders, listing)</name>
+    </wpt>
+    <wpt lat="46.641420" lon="11.490373">
+        <name>Gasserhütte (Villanders, listing)</name>
+    </wpt>
+    <wpt lat="46.649168" lon="11.490046">
+        <name>Almgasthof am Rinderplatz (Villanders, listing)</name>
+    </wpt>
+    <wpt lat="46.63161" lon="11.53925">
+        <name>Sonnenhotel Adler (Villanders, sleep)</name>
+    </wpt>
+    <wpt lat="46.631962" lon="11.540046">
+        <name>Ansitz zum Steinbock (Villanders, sleep)</name>
+    </wpt>
+    <wpt lat="46.63281" lon="11.54127">
+        <name>Hotel Residence Egger (Villanders, sleep)</name>
+    </wpt>
+    <wpt lat="46.629084" lon="11.538296">
+        <name>Hotel Untertheimerhof (Villanders, sleep)</name>
+    </wpt>
+    <wpt lat="46.63439" lon="11.54224">
+        <name>Granpanorama Hotel Stephanshof (Villanders, sleep)</name>
+    </wpt>
+    <wpt lat="46.640577" lon="11.547204">
+        <name>Schloss Gravetsch (Villanders, listing)</name>
+    </wpt>
+    <wpt lat="46.631149" lon="11.539654">
+        <name>Tourismus-Verein (Villanders, listing)</name>
+    </wpt>
+    <wpt lat="46.60785" lon="11.56314">
+        <name>St. Laurentius (Lajen, listing)</name>
+    </wpt>
+    <wpt lat="46.603264" lon="11.546895">
+        <name>St. Katharina, Lajener Ried (Lajen, listing)</name>
+    </wpt>
+    <wpt lat="46.60881" lon="11.56353">
+        <name>Kirche Unsere liebe Frau (Lajen, listing)</name>
+    </wpt>
+    <wpt lat="46.60249" lon="11.6099">
+        <name>Pfarrkirche St. Peter (Lajen, listing)</name>
+    </wpt>
+    <wpt lat="46.609003" lon="11.565064">
+        <name>Gasthaus Sonne (Lajen, eat)</name>
+    </wpt>
+    <wpt lat="46.60891" lon="11.56374">
+        <name>Gasthaus Krone (Lajen, eat)</name>
+    </wpt>
+    <wpt lat="46.6084" lon="11.5648">
+        <name>Andechser Hof (Lajen, sleep)</name>
+    </wpt>
+    <wpt lat="46.609584" lon="11.564789">
+        <name>Radlhof (Lajen, sleep)</name>
+    </wpt>
+    <wpt lat="46.601638" lon="11.562391">
+        <name>Hubertus-Stube (Lajen, sleep)</name>
+    </wpt>
+    <wpt lat="46.60872" lon="11.56479">
+        <name>Tourismusverein Lajen (Lajen, listing)</name>
+    </wpt>
+    <wpt lat="46.598204" lon="11.532522">
+        <name>St. Jodok (Waidbruck, listing)</name>
+    </wpt>
+    <wpt lat="46.59525" lon="11.53429">
+        <name>Trostburg (Waidbruck, listing)</name>
+    </wpt>
+    <wpt lat="46.603196" lon="11.519823">
+        <name>Pfarrkirche St. Jakob (Barbian, listing)</name>
+    </wpt>
+    <wpt lat="46.590809" lon="11.524845">
+        <name>Pfarrkirche Dreifaltigkeit (Barbian, listing)</name>
+    </wpt>
+    <wpt lat="46.591361" lon="11.526255">
+        <name>St. Leonhard (Barbian, listing)</name>
+    </wpt>
+    <wpt lat="46.588056" lon="11.511364">
+        <name>St. Ingenuin und Albuin (Barbian, listing)</name>
+    </wpt>
+    <wpt lat="46.617932" lon="11.510619">
+        <name>Dreikirchen (Barbian, listing)</name>
+    </wpt>
+    <wpt lat="46.590456" lon="11.525063">
+        <name>Friedburg (Barbian, listing)</name>
+    </wpt>
+    <wpt lat="46.60032" lon="11.502879">
+        <name>Wasserfall (Barbian, listing)</name>
+    </wpt>
+    <wpt lat="46.605901" lon="11.521863">
+        <name>Barbianer Hof (Barbian, sleep)</name>
+    </wpt>
+    <wpt lat="46.602695" lon="11.519464">
+        <name>Rösslwirt (Barbian, sleep)</name>
+    </wpt>
+    <wpt lat="46.604611" lon="11.520071">
+        <name>Zur Traube (Barbian, sleep)</name>
+    </wpt>
+    <wpt lat="46.584136" lon="11.510662">
+        <name>Pennhof (Barbian, sleep)</name>
+    </wpt>
+    <wpt lat="46.603940" lon="11.519996">
+        <name>Tourismusverein Barbian (Barbian, listing)</name>
+    </wpt>
+    <wpt lat="46.877553" lon="11.368087">
+        <name>Gilfenklamm (Ratschings, see)</name>
+    </wpt>
+    <wpt lat="46.928323" lon="11.271147">
+        <name>Südtiroler Bergbaumuseum am Schneeberg (Ratschings, see)</name>
+    </wpt>
+    <wpt lat="46.882394" lon="11.407751">
+        <name>Camping Gilfenklamm (Ratschings, listing)</name>
+    </wpt>
+    <wpt lat="46.900873" lon="11.319012">
+        <name>Hotel Gassenhof (Ratschings, sleep)</name>
+    </wpt>
+    <wpt lat="46.899744" lon="11.315621">
+        <name>Panoramahotel Taljörgele (Ratschings, sleep)</name>
+    </wpt>
+    <wpt lat="46.868598" lon="11.327295">
+        <name>Alphotel Tyrol (Ratschings, sleep)</name>
+    </wpt>
+    <wpt lat="46.901250" lon="11.317986">
+        <name>Plunhof (Ratschings, sleep)</name>
+    </wpt>
+    <wpt lat="46.853043" lon="11.383832">
+        <name>Hotel Jaufentalerhof (Ratschings, sleep)</name>
+    </wpt>
+    <wpt lat="46.865484" lon="11.301655">
+        <name>Hotel Alpenspitz (Ratschings, sleep)</name>
+    </wpt>
+    <wpt lat="46.843623" lon="11.327848">
+        <name>Berggasthof Jaufenhaus (Ratschings, sleep)</name>
+    </wpt>
+    <wpt lat="46.884484" lon="11.410712">
+        <name>Ratschings Tourismus Genossenschaft (Ratschings, listing)</name>
+    </wpt>
+    <wpt lat="-6.9764112" lon="110.3765278">
+        <name>Achmad Yani International Airport (Semarang, listing)</name>
+    </wpt>
+    <wpt lat="-6.97317" lon="110.415">
+        <name>Poncol (Semarang, listing)</name>
+    </wpt>
+    <wpt lat="-6.964444" lon="110.427778">
+        <name>Tawang (Semarang, listing)</name>
+    </wpt>
+    <wpt lat="-6.951536" lon="110.462666">
+        <name>Terboyo Bis Terminal (Semarang, listing)</name>
+    </wpt>
+    <wpt lat="-6.968806" lon="110.289410">
+        <name>Mangkang Bis Terminal (Semarang, listing)</name>
+    </wpt>
+    <wpt lat="-6.9682" lon="110.4274">
+        <name>Gereja Blenduk (Immanuelskirche) (Semarang, see)</name>
+    </wpt>
+    <wpt lat="-6.9957" lon="110.3984">
+        <name>Sam Poo Kong (chinesischer Tempel) (Semarang, see)</name>
+    </wpt>
+    <wpt lat="51.35771" lon="12.36755">
+        <name>Gosenschenke Ohne Bedenken (Leipzig/Norden, eat)</name>
+    </wpt>
+    <wpt lat="46.99511" lon="11.98100">
+        <name>Bergbaumuseum Kornkasten Steinhaus (Ahrntal, see)</name>
+    </wpt>
+    <wpt lat="46.989333" lon="11.960408">
+        <name>Mineralienmuseum (Ahrntal, see)</name>
+    </wpt>
+    <wpt lat="46.9256" lon="11.9051">
+        <name>Skigebiet Speikboden (Ahrntal, listing)</name>
+    </wpt>
+    <wpt lat="46.9840" lon="11.9854">
+        <name>Skiarena Klausberg (Ahrntal, listing)</name>
+    </wpt>
+    <wpt lat="46.967002" lon="11.925643">
+        <name>Hotel Gisserhof (Ahrntal, sleep)</name>
+    </wpt>
+    <wpt lat="46.958261" lon="11.920201">
+        <name>Posthotel Luttach (Ahrntal, sleep)</name>
+    </wpt>
+    <wpt lat="46.952634" lon="11.920931">
+        <name>Ahrntaler Alpenhof (Ahrntal, sleep)</name>
+    </wpt>
+    <wpt lat="46.984352" lon="11.947892">
+        <name>Hotel Adler (Ahrntal, sleep)</name>
+    </wpt>
+    <wpt lat="46.986478" lon="11.957284">
+        <name>Familienhotel Stegerhaus (Ahrntal, sleep)</name>
+    </wpt>
+    <wpt lat="46.995159" lon="11.977061">
+        <name>Alpenschlössl (Ahrntal, sleep)</name>
+    </wpt>
+    <wpt lat="46.995035" lon="11.980344">
+        <name>Hotel Steinhauswirt (Ahrntal, sleep)</name>
+    </wpt>
+    <wpt lat="46.980999" lon="11.940634">
+        <name>Tourist Info (Ahrntal, listing)</name>
+    </wpt>
+    <wpt lat="49.7190" lon="11.9082">
+        <name>Hotel Restaurant Böhm (Grafenwöhr, sleep)</name>
+    </wpt>
+    <wpt lat="41.86186" lon="15.34962">
+        <name>Lago di Lesina (Parco Nazionale del Gargano, listing)</name>
+    </wpt>
+    <wpt lat="41.81688" lon="15.99180">
+        <name>Centro Visitatori Foresta Umbra (Parco Nazionale del Gargano, listing)</name>
+    </wpt>
+    <wpt lat="41.70747" lon="15.95300">
+        <name>Stauffer-Kastell (Parco Nazionale del Gargano, listing)</name>
+    </wpt>
+    <wpt lat="41.67585" lon="15.90789">
+        <name>Kloster Santa Maria di Pulsano (Parco Nazionale del Gargano, listing)</name>
+    </wpt>
+    <wpt lat="41.70659" lon="15.65229">
+        <name>Besucherzentrum Karstformationen (Parco Nazionale del Gargano, listing)</name>
+    </wpt>
+    <wpt lat="41.5405" lon="15.8906">
+        <name>Centro Visita Oasi Lago Salso (Parco Nazionale del Gargano, listing)</name>
+    </wpt>
+    <wpt lat="47.045178" lon="12.120431">
+        <name>Schauberegwerk Prettau (Prettau, see)</name>
+    </wpt>
+    <wpt lat="47.062076" lon="12.153529">
+        <name>Adleralm (Prettau, listing)</name>
+    </wpt>
+    <wpt lat="47.039113" lon="12.190863">
+        <name>Lenkjöchlhütte (Prettau, listing)</name>
+    </wpt>
+    <wpt lat="47.036258" lon="12.095809">
+        <name>Pension Weiherhof (Prettau, listing)</name>
+    </wpt>
+    <wpt lat="47.040078" lon="12.102133">
+        <name>Pension Knappenhof (Prettau, listing)</name>
+    </wpt>
+    <wpt lat="47.041379" lon="12.107765">
+        <name>Appartments Ederhof (Prettau, listing)</name>
+    </wpt>
+    <wpt lat="47.050216" lon="12.127477">
+        <name>Berghotel Kasern (Prettau, sleep)</name>
+    </wpt>
+    <wpt lat="47.050004" lon="12.128453">
+        <name>Berggasthof Stern (Prettau, listing)</name>
+    </wpt>
+    <wpt lat="47.045192" lon="12.120549">
+        <name>Klimastollen Prettau (Prettau, listing)</name>
+    </wpt>
+    <wpt lat="46.918338" lon="11.803535">
+        <name>Museum Widum (Mühlwald, see)</name>
+    </wpt>
+    <wpt lat="46.890007" lon="11.862643">
+        <name>Hotel Mühlwald (Mühlwald, sleep)</name>
+    </wpt>
+    <wpt lat="46.891019" lon="11.858974">
+        <name>Apparthotel Sonnwies (Mühlwald, sleep)</name>
+    </wpt>
+    <wpt lat="46.917400" lon="11.805091">
+        <name>Hotel Knoll (Mühlwald, sleep)</name>
+    </wpt>
+    <wpt lat="46.924943" lon="11.799961">
+        <name>Pichlerhof (Mühlwald, listing)</name>
     </wpt>
 </gpx>
